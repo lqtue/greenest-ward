@@ -1,0 +1,69 @@
+{
+  "method": "LST-FVC regression at 100m, HCMC 2025",
+  "sensor": {
+    "green": "Sentinel-2 10m -> 100m average",
+    "lst": "Landsat 8/9 thermal 100m"
+  },
+  "ndvi_threshold": 0.4,
+  "references": [
+    "Weng, Lu & Schubring (2004) RSE - linear LST-NDVI for UHI",
+    "Carlson & Ripley (1997) RSE - FVC from NDVI binary",
+    "Yuan & Bauer (2007) RSE - NDVI as UHI indicator",
+    "Li et al. (2013) Landscape Ecol - quadratic LST-NDVI"
+  ],
+  "linear": {
+    "formula": "LST = 38.147 + (-4.948) * FVC",
+    "intercept": 38.147,
+    "slope": -4.948,
+    "r_squared": 0.207,
+    "p_value": 0.0,
+    "cooling_per_10pct_fvc": -0.49
+  },
+  "quadratic": {
+    "formula": "LST = -10.841*FVC^2 + (6.223)*FVC + 36.950",
+    "r_squared": 0.2656
+  },
+  "cooling_effect": {
+    "concrete_mean_lst": 36.56,
+    "green_mean_lst": 32.49,
+    "delta_C": 4.07
+  },
+  "n_valid_pixels": 196438,
+  "bins": [
+    {
+      "fvc_range": "0.00-0.05",
+      "n": 36176,
+      "mean_lst": 36.56
+    },
+    {
+      "fvc_range": "0.05-0.15",
+      "n": 15359,
+      "mean_lst": 38.94
+    },
+    {
+      "fvc_range": "0.15-0.30",
+      "n": 17335,
+      "mean_lst": 37.98
+    },
+    {
+      "fvc_range": "0.30-0.50",
+      "n": 20318,
+      "mean_lst": 37.11
+    },
+    {
+      "fvc_range": "0.50-0.70",
+      "n": 20580,
+      "mean_lst": 36.34
+    },
+    {
+      "fvc_range": "0.70-0.90",
+      "n": 22622,
+      "mean_lst": 35.34
+    },
+    {
+      "fvc_range": "0.90-1.01",
+      "n": 64048,
+      "mean_lst": 32.54
+    }
+  ]
+}

@@ -1,0 +1,287 @@
+[
+  {
+    "year": 1990,
+    "ring": "Pre-1972 core",
+    "green_pct": 21.67,
+    "mean_lst": 35.9,
+    "pixels": 79211
+  },
+  {
+    "year": 1990,
+    "ring": "1972-1976 expansion",
+    "green_pct": 36.73,
+    "mean_lst": 35.39,
+    "pixels": 75651
+  },
+  {
+    "year": 1990,
+    "ring": "1976-2000 expansion",
+    "green_pct": 55.44,
+    "mean_lst": 32.05,
+    "pixels": 339353
+  },
+  {
+    "year": 1990,
+    "ring": "2000-2025 expansion",
+    "green_pct": 28.13,
+    "mean_lst": 34.17,
+    "pixels": 58412
+  },
+  {
+    "year": 1990,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 49.47,
+    "mean_lst": 31.89,
+    "pixels": 1637204
+  },
+  {
+    "year": 1995,
+    "ring": "Pre-1972 core",
+    "green_pct": 23.09,
+    "mean_lst": 35.44,
+    "pixels": 79211
+  },
+  {
+    "year": 1995,
+    "ring": "1972-1976 expansion",
+    "green_pct": 27.76,
+    "mean_lst": 34.61,
+    "pixels": 75651
+  },
+  {
+    "year": 1995,
+    "ring": "1976-2000 expansion",
+    "green_pct": 57.89,
+    "mean_lst": 31.41,
+    "pixels": 338123
+  },
+  {
+    "year": 1995,
+    "ring": "2000-2025 expansion",
+    "green_pct": 41.74,
+    "mean_lst": 33.06,
+    "pixels": 58412
+  },
+  {
+    "year": 1995,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 64.77,
+    "mean_lst": 30.32,
+    "pixels": 1637293
+  },
+  {
+    "year": 2000,
+    "ring": "Pre-1972 core",
+    "green_pct": 23.67,
+    "mean_lst": 39.42,
+    "pixels": 79211
+  },
+  {
+    "year": 2000,
+    "ring": "1972-1976 expansion",
+    "green_pct": 31.12,
+    "mean_lst": 39.61,
+    "pixels": 75651
+  },
+  {
+    "year": 2000,
+    "ring": "1976-2000 expansion",
+    "green_pct": 59.24,
+    "mean_lst": 35.7,
+    "pixels": 338599
+  },
+  {
+    "year": 2000,
+    "ring": "2000-2025 expansion",
+    "green_pct": 53.8,
+    "mean_lst": 36.15,
+    "pixels": 58412
+  },
+  {
+    "year": 2000,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 75.58,
+    "mean_lst": 33.82,
+    "pixels": 1637150
+  },
+  {
+    "year": 2005,
+    "ring": "Pre-1972 core",
+    "green_pct": 13.85,
+    "mean_lst": 40.18,
+    "pixels": 79211
+  },
+  {
+    "year": 2005,
+    "ring": "1972-1976 expansion",
+    "green_pct": 15.8,
+    "mean_lst": 40.97,
+    "pixels": 75651
+  },
+  {
+    "year": 2005,
+    "ring": "1976-2000 expansion",
+    "green_pct": 44.4,
+    "mean_lst": 37.66,
+    "pixels": 337764
+  },
+  {
+    "year": 2005,
+    "ring": "2000-2025 expansion",
+    "green_pct": 26.36,
+    "mean_lst": 40.4,
+    "pixels": 58412
+  },
+  {
+    "year": 2005,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 66.78,
+    "mean_lst": 34.99,
+    "pixels": 1637061
+  },
+  {
+    "year": 2010,
+    "ring": "Pre-1972 core",
+    "green_pct": 16.77,
+    "mean_lst": 40.68,
+    "pixels": 79211
+  },
+  {
+    "year": 2010,
+    "ring": "1972-1976 expansion",
+    "green_pct": 18.2,
+    "mean_lst": 41.21,
+    "pixels": 75651
+  },
+  {
+    "year": 2010,
+    "ring": "1976-2000 expansion",
+    "green_pct": 44.82,
+    "mean_lst": 37.98,
+    "pixels": 337284
+  },
+  {
+    "year": 2010,
+    "ring": "2000-2025 expansion",
+    "green_pct": 32.01,
+    "mean_lst": 40.95,
+    "pixels": 58412
+  },
+  {
+    "year": 2010,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 70.57,
+    "mean_lst": 34.11,
+    "pixels": 1636980
+  },
+  {
+    "year": 2015,
+    "ring": "Pre-1972 core",
+    "green_pct": 18.38,
+    "mean_lst": 40.47,
+    "pixels": 79211
+  },
+  {
+    "year": 2015,
+    "ring": "1972-1976 expansion",
+    "green_pct": 20.41,
+    "mean_lst": 41.53,
+    "pixels": 75651
+  },
+  {
+    "year": 2015,
+    "ring": "1976-2000 expansion",
+    "green_pct": 43.67,
+    "mean_lst": 39.48,
+    "pixels": 346378
+  },
+  {
+    "year": 2015,
+    "ring": "2000-2025 expansion",
+    "green_pct": 32.97,
+    "mean_lst": 41.5,
+    "pixels": 58412
+  },
+  {
+    "year": 2015,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 73.99,
+    "mean_lst": 35.3,
+    "pixels": 1637744
+  },
+  {
+    "year": 2020,
+    "ring": "Pre-1972 core",
+    "green_pct": 17.87,
+    "mean_lst": 39.8,
+    "pixels": 79211
+  },
+  {
+    "year": 2020,
+    "ring": "1972-1976 expansion",
+    "green_pct": 18.43,
+    "mean_lst": 40.29,
+    "pixels": 75651
+  },
+  {
+    "year": 2020,
+    "ring": "1976-2000 expansion",
+    "green_pct": 37.4,
+    "mean_lst": 39.51,
+    "pixels": 346294
+  },
+  {
+    "year": 2020,
+    "ring": "2000-2025 expansion",
+    "green_pct": 25.57,
+    "mean_lst": 40.69,
+    "pixels": 58412
+  },
+  {
+    "year": 2020,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 72.84,
+    "mean_lst": 34.87,
+    "pixels": 1637721
+  },
+  {
+    "year": 2025,
+    "ring": "Pre-1972 core",
+    "green_pct": 19.72,
+    "mean_lst": 39.05,
+    "pixels_green": 712985,
+    "pixels_lst": 7142
+  },
+  {
+    "year": 2025,
+    "ring": "1972-1976 expansion",
+    "green_pct": 15.26,
+    "mean_lst": 39.33,
+    "pixels_green": 680764,
+    "pixels_lst": 6809
+  },
+  {
+    "year": 2025,
+    "ring": "1976-2000 expansion",
+    "green_pct": 33.16,
+    "mean_lst": 38.79,
+    "pixels_green": 3147765,
+    "pixels_lst": 31365
+  },
+  {
+    "year": 2025,
+    "ring": "2000-2025 expansion",
+    "green_pct": 21.67,
+    "mean_lst": 40.31,
+    "pixels_green": 525733,
+    "pixels_lst": 5259
+  },
+  {
+    "year": 2025,
+    "ring": "Outside n\u1ed9i th\u00e0nh",
+    "green_pct": 63.76,
+    "mean_lst": 34.26,
+    "pixels_green": 14742692,
+    "pixels_lst": 147725
+  }
+]

@@ -1,0 +1,19 @@
+# Large raster files (available via Google Earth Engine)
+EarthEngine_Exports/*.tif
+
+# Old/broken exports
+*_old.tif
+
+# Ward boundary shapefile (too large, available from Vietnam GSO)
+VNWard.zip
+
+# macOS
+.DS_Store
+
+# Claude Code
+CLAUDE.md
+.claude/
+
+# Python
+__pycache__/
+*.pyc

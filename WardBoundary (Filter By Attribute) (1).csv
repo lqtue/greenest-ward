@@ -1,0 +1,700 @@
+khoa,Loại,Sáp nhập từ,Diện tích (km2),Phường xã mới,Tỉnh thành mới,Dân số (người),Trung tâm hành chính,Diện tích tham khảo (m2)
+29Phú Lợi,phường,"Phường Phú Hòa, Phường Phú Lợi, Phường Hiệp Thành (thành phố Thủ Dầu Một)",17.96,Phú Lợi,thành phố Hồ Chí Minh,107721,"438 đường Phú Lợi, khu phố 8, phường Phú Hòa, TP Thủ Dầu Một, tỉnh Bình Dương cũ",18071404
+29Thủ Dầu Một,phường,"Phường Phú Cường, Phường Phú Thọ, Phường Chánh Nghĩa, Phường Hiệp Thành (thành phố Thủ Dầu Một), Phường Chánh Mỹ",15.68,Thủ Dầu Một,thành phố Hồ Chí Minh,88132,"1 đường Quang Trung, khu phố 6, phường Phú Cường, TP Thủ Dầu Một, tỉnh Bình Dương cũ",15637769
+29Chánh Hiệp,phường,"Phường Định Hòa, Phường Tương Bình Hiệp, Phường Hiệp An, Phường Chánh Mỹ",19.66,Chánh Hiệp,thành phố Hồ Chí Minh,56387,"279 đường Hồ Văn Cống, khu phố 3, phường Tương Bình Hiệp, TP Thủ Dầu Một, tỉnh Bình Dương cũ",20579900
+29Bình Dương,phường,"Phường Phú Mỹ (thành phố Thủ Dầu Một), Phường Hòa Phú, Phường Phú Tân, Phường Phú Chánh",58.16,Bình Dương,thành phố Hồ Chí Minh,107576,"357 đường Võ Nguyên Giáp, khu phố 1, phường Hòa Phú, TP Thủ Dầu Một, tỉnh Bình Dương cũ",58565275
+29Tây Nam,phường,"Phường An Tây, Xã Thanh Tuyền, Xã An Lập",119.8,Tây Nam,thành phố Hồ Chí Minh,56784,"Khu phố Lồ ồ, phường An Tây, TP Bến Cát, tỉnh Bình Dương cũ",115970479
+29Bến Cát,phường,"Xã Tân Hưng (huyện Bàu Bàng), Xã Lai Hưng, Phường Mỹ Phước",100.89,Bến Cát,thành phố Hồ Chí Minh,97928,"KP2, phường Mỹ Phước, TP Bến Cát, tỉnh Bình Dương cũ",100297634
+29Long Nguyên,phường,"Phường An Điền, Xã Long Nguyên, Phường Mỹ Phước",108.0,Long Nguyên,thành phố Hồ Chí Minh,53387,"Khu phố Kiến An, phường An Điền, TP Bến Cát, tỉnh Bình Dương cũ",109294217
+29Chánh Phú Hòa,phường,"Phường Chánh Phú Hòa, Xã Hưng Hòa",69.54,Chánh Phú Hòa,thành phố Hồ Chí Minh,53916,"đường ĐTT 741, khu phố 9, phường Chánh Phú Hòa, TP Bến Cát, tỉnh Bình Dương cũ",69620501
+29Thới Hòa,phường,Không sáp nhập,37.93,Thới Hòa,thành phố Hồ Chí Minh,79601,"Khu phố 3A, phường Thới Hoà, TP Bến Cát, tỉnh Bình Dương cũ",38142097
+29Hòa Lợi,phường,"Phường Tân Định (thành phố Bến Cát), Phường Hòa Lợi",33.59,Hòa Lợi,thành phố Hồ Chí Minh,79694,"Khu phố An Hoà, phường Hòa Lợi, TP Bến Cát, tỉnh Bình Dương cũ",34400489
+29Phú An,phường,"Phường Tân An, Xã Phú An, Phường Hiệp An",35.19,Phú An,thành phố Hồ Chí Minh,46931,"143 đường Nguyễn Đức Cảnh, khu phố 4, phường Hiệp An, TP Thủ Dầu Một, tỉnh Bình Dương cũ",34784740
+29Tân Uyên,phường,"Phường Uyên Hưng, Xã Bạch Đằng, Xã Tân Lập, Xã Tân Mỹ",87.61,Tân Uyên,thành phố Hồ Chí Minh,73032,"ĐT 747, khu phố 1, phường Uyên Hưng, TP Tân Uyên, tỉnh Bình Dương cũ",94532371
+29Tân Khánh,phường,"Phường Thạnh Phước, Phường Tân Phước Khánh, Phường Tân Vĩnh Hiệp, Xã Thạnh Hội, Phường Thái Hòa",38.27,Tân Khánh,thành phố Hồ Chí Minh,126393,"Đường Lý Tự trọng, khu phố Khánh Hòa, phường Tân Phước Khánh, TP Tân Uyên, tỉnh Bình Dương cũ",38017773
+29Bình Cơ,phường,"Xã Bình Mỹ (huyện Bắc Tân Uyên), Phường Hội Nghĩa",73.69,Bình Cơ,thành phố Hồ Chí Minh,64601,"ĐT 747, khu phố 2, phường Hội Nghĩa, TP Tân Uyên, tỉnh Bình Dương cũ",72999787
+29Vĩnh Tân,phường,"Phường Vĩnh Tân, Thị trấn Tân Bình",61.35,Vĩnh Tân,thành phố Hồ Chí Minh,61865,"ĐT 742, khu phố 4, phường Vĩnh Tân, TP Tân Uyên, tỉnh Bình Dương cũ",61323147
+29Tân Hiệp,phường,"Phường Khánh Bình, Phường Tân Hiệp",47.06,Tân Hiệp,thành phố Hồ Chí Minh,142494,"Đường Nguyễn Khuyến, khu phố Tân Bình, phường Tân Hiệp, TP Tân Uyên, tỉnh Bình Dương cũ",47253296
+29Dĩ An,phường,"Phường An Bình, Phường Dĩ An, Phường Tân Đông Hiệp",21.38,Dĩ An,thành phố Hồ Chí Minh,227817,"10 Trung tâm hành chính, phường Dĩ An, tỉnh Bình Dương cũ",24160470
+29Tân Đông Hiệp,phường,"Phường Tân Bình, Phường Thái Hòa, Phường Tân Đông Hiệp",21.45,Tân Đông Hiệp,thành phố Hồ Chí Minh,100243,"880 đường Nguyễn Thị Minh Khai, phường Tân Bình, tỉnh Bình Dương cũ",19161063
+29Đông Hòa,phường,"Phường Bình An, Phường Bình Thắng, Phường Đông Hòa",21.89,Đông Hòa,thành phố Hồ Chí Minh,132056,"153 Quốc lộ 1K, phường Đông Hoà, tỉnh Bình Dương cũ",21971509
+29Thuận An,phường,"Phường Hưng Định, Phường An Thạnh, Xã An Sơn",16.11,Thuận An,thành phố Hồ Chí Minh,64689,"289 đường Hưng Định 31, khu phố Hưng Thọ, phường Hưng Định, TP Thuận An, tỉnh Bình Dương cũ",16224861
+29Lái Thiêu,phường,"Phường Bình Nhâm, Phường Lái Thiêu, Phường Vĩnh Phú",15.46,Lái Thiêu,thành phố Hồ Chí Minh,118852,"Khu phố chợ, phường Lái Thiêu, TP Thuận An, tỉnh Bình Dương cũ",15718689
+29Thuận Giao,phường,"Phường Thuận Giao, Phường Bình Chuẩn",16.8,Thuận Giao,thành phố Hồ Chí Minh,150781,"743, đường Thủ Khoa Huân, phường Bình Chuẩn, TP Thuận An, tỉnh Bình Dương cũ",17175334
+29An Phú,phường,"Phường An Phú (thành phố Thuận An), Phường Bình Chuẩn",16.85,An Phú,thành phố Hồ Chí Minh,162930,"ĐT743, khu phố 1A, phường An Phú, TP Thuận An, tỉnh Bình Dương cũ",16766215
+29Bình Hòa,phường,"Phường Bình Hòa, Phường Vĩnh Phú",18.49,Bình Hòa,thành phố Hồ Chí Minh,120035,"ĐT 743C, khu phố Bình Đức 1, phường Bình Hoà, TP Thuận An, tỉnh Bình Dương cũ",18071000
+29Tân Định,phường,"Phường Tân Định (Quận 1), Phường Đa Kao",1.23,Tân Định,thành phố Hồ Chí Minh,48524," 58B Nguyễn Đình Chiểu, phường Đa Kao, quận 1 cũ",1052764
+29Sài Gòn,phường,"Phường Bến Nghé, Phường Đa Kao, Phường Nguyễn Thái Bình",3.04,Sài Gòn,thành phố Hồ Chí Minh,47022,"45 - 47 Lê Duẩn, phường Bến Nghé, quận 1 cũ",3466884
+29Bến Thành,phường,"Phường Bến Thành, Phường Phạm Ngũ Lão, Phường Cầu Ông Lãnh, Phường Nguyễn Thái Bình",1.85,Bến Thành,thành phố Hồ Chí Minh,71875,"92 Nguyễn Trãi, phường Bến Thành, quận 1 cũ và 238 - 240 Đề Thám, phường Phạm Ngũ Lão, quận 1 cũ ",1628497
+29Cầu Ông Lãnh,phường,"Phường Nguyễn Cư Trinh, Phường Cầu Kho, Phường Cô Giang, Phường Cầu Ông Lãnh",1.6,Cầu Ông Lãnh,thành phố Hồ Chí Minh,78734,"105 Trần Đình Xu, phường Nguyễn Cư Trinh, quận 1 cũ",1608078
+29Thới An,phường,"Phường Thạnh Xuân, Phường Thới An",14.89,Thới An,thành phố Hồ Chí Minh,125657,"Trụ sở UBND phường Thới An, quận 12 cũ",14924408
+29Hiệp Bình,phường,"Phường Hiệp Bình Chánh, Phường Hiệp Bình Phước, Phường Linh Đông",16.01,Hiệp Bình,thành phố Hồ Chí Minh,215638,"721 Quốc lộ 13, khu phố 3, phường Hiệp Bình Phước, TP Thủ Đức cũ",16590689
+29Tân Thới Hiệp,phường,"Phường Hiệp Thành (Quận 12), Phường Tân Thới Hiệp",8.06,Tân Thới Hiệp,thành phố Hồ Chí Minh,168060,"Trụ sở UBND phường Tân Thới Hiệp, quận 12 cũ",8075815
+29Diên Hồng,phường,"Phường 6, Phường 8 (Quận 10), Phường 14 (Quận 10)",1.86,Diên Hồng,thành phố Hồ Chí Minh,75633," 01A Thành Thái, phường 14, quận 10 cũ",1897665
+29Trung Mỹ Tây,phường,"Phường Tân Chánh Hiệp, Phường Trung Mỹ Tây",6.92,Trung Mỹ Tây,thành phố Hồ Chí Minh,126470,"Trụ sở UBND phường Trung Mỹ Tây, quận 12 cũ",6957923
+29Đông Hưng Thuận,phường,"Phường Tân Thới Nhất, Phường Tân Hưng Thuận, Phường Đông Hưng Thuận",8.26,Đông Hưng Thuận,thành phố Hồ Chí Minh,182895,"Trụ sở UBND phường Tân Thới Nhất, quận 12 cũ",8313515
+29Linh Xuân,phường,"Phường Linh Trung, Phường Linh Xuân, Phường Linh Tây",12.29,Linh Xuân,thành phố Hồ Chí Minh,158334,"1262 Kha Vạn Cân, khu phố 2, phường Linh Trung và 49 Hoàng Cầm, khu phố 2, phường Linh Xuân, TP Thủ Đức cũ",12166611
+29Tam Bình,phường,"Phường Bình Chiểu, Phường Tam Phú, Phường Tam Bình",10.71,Tam Bình,thành phố Hồ Chí Minh,153414,"707 Tỉnh lộ 43, khu phố 3, phường Tam Bình, TP Thủ Đức cũ",10203786
+29Thủ Đức,phường,"Phường Bình Thọ, Phường Linh Chiểu, Phường Trường Thọ, Phường Linh Tây, Phường Linh Đông",8.81,Thủ Đức,thành phố Hồ Chí Minh,118952,"2 Nguyễn Công Trứ, phường Bình Thọ, TP Thủ Đức cũ",8922207
+29Phú Thọ,phường,"Phường 11, Phường 15 (Quận 11), Phường 8 (Quận 11)",1.37,Phú Thọ,thành phố Hồ Chí Minh,47094,"233 - 235 Lê Đại Hành, phường 11, quận 11 và 35-37 Bình Thới, phường 11, quận 11 cũ",1370177
+29Long Bình,phường,"Phường Long Bình, Phường Long Thạnh Mỹ",29.43,Long Bình,thành phố Hồ Chí Minh,119637,"325 đường Nguyễn Văn Tăng, phường Long Thạnh Mỹ, TP Thủ Đức cũ",26534293
+29Tăng Nhơn Phú,phường,"Phường Tân Phú (thành phố Thủ Đức), Phường Hiệp Phú, Phường Tăng Nhơn Phú A, Phường Tăng Nhơn Phú B, Phường Long Thạnh Mỹ",16.5,Tăng Nhơn Phú,thành phố Hồ Chí Minh,208233,"29 Lê Văn Việt, phường Tăng Nhơn Phú A, TP Thủ Đức cũ",19635840
+29Phước Long,phường,"Phường Phước Bình, Phường Phước Long A, Phường Phước Long B",9.23,Phước Long,thành phố Hồ Chí Minh,137331,"183 đường Đỗ Xuân Hợp, phường Phước Long B, TP Thủ Đức cũ",9279679
+29Long Phước,phường,"Phường Trường Thạnh, Phường Long Phước",34.29,Long Phước,thành phố Hồ Chí Minh,53092,"239 Khu phố Long Thuận, phường Long Phước, TP Thủ Đức cũ",34224601
+29Long Trường,phường,"Phường Phú Hữu, Phường Long Trường",24.49,Long Trường,thành phố Hồ Chí Minh,73669,"1314 đường Nguyễn Duy Trinh, phường Long Trường, TP Thủ Đức cũ",24600183
+29An Hội Đông,phường,"Phường 15, Phường 16 (quận Gò Vấp)",3.29,An Hội Đông,thành phố Hồ Chí Minh,113681,"328 Thống Nhất, Phường 16, quận Gò Vấp cũ",3297044
+29Gò Vấp,phường,"Phường 10, Phường 17 (quận Gò Vấp)",2.81,Gò Vấp,thành phố Hồ Chí Minh,110850,"332 Quang Trung, phường 10, Quận Gò Vấp cũ",2831360
+29An Nhơn,phường,"Phường 5, Phường 6 (quận Gò Vấp)",3.23,An Nhơn,thành phố Hồ Chí Minh,111498,"1C Nguyễn Văn Lượng, phường 6, Gò Vấp cũ",3224904
+29An Hội Tây,phường,"Phường 12, Phường 14 (quận Gò Vấp)",3.79,An Hội Tây,thành phố Hồ Chí Minh,121004,"397 Phan Huy Ích, phường 14, quận Gò Vấp cũ",3819041
+29Hạnh Thông,phường,"Phường 1, Phường 3 (quận Gò Vấp)",3.37,Hạnh Thông,thành phố Hồ Chí Minh,128865,"306 Nguyễn Văn Nghi, phường 1, quận Gò Vấp cũ",3402806
+33Ô Môn,phường,"Phường Châu Văn Liêm, Phường Thới Hòa, Phường Thới An, Xã Thới Thạnh",54.69,Ô Môn,thành phố Cần Thơ,73412,UBND quận Ô Môn,55163592
+33Thới Long,phường,"Phường Long Hưng, Phường Tân Hưng, Phường Thới Long",54.1,Thới Long,thành phố Cần Thơ,52979,UBND phường Long Hưng,54583349
+33Phước Thới,phường,"Phường Trường Lạc, Phường Phước Thới",53.11,Phước Thới,thành phố Cần Thơ,46788,UBND phường Phước Thới,53604892
+31Bình Xuân,phường,"Phường Long Chánh, Xã Bình Xuân",34.4,Bình Xuân,tỉnh Đồng Tháp,32574,UBND phường Long Chánh,34641199
+29Thông Tây Hội,phường,"Phường 8, Phường 11 (quận Gò Vấp)",3.24,Thông Tây Hội,thành phố Hồ Chí Minh,121192,"175 Nguyễn văn Khối, phường 8, quận Gò Vấp cũ",3253433
+29Bình Lợi Trung,phường,"Phường 5, Phường 11, Phường 13 (quận Bình Thạnh)",3.89,Bình Lợi Trung,thành phố Hồ Chí Minh,116121,"355/5 Nơ Trang Long, phường 13, quận Bình Thạnh cũ",3922489
+29Bình Thạnh,phường,"Phường 12, Phường 14 (quận Bình Thạnh), Phường 26",3.32,Bình Thạnh,thành phố Hồ Chí Minh,126300,"6 Phan Đăng Lưu, phường 14, quận Bình Thạnh cũ",3333102
+29Thạnh Mỹ Tây,phường,"Phường 19, Phường 22, Phường 25",4.4,Thạnh Mỹ Tây,thành phố Hồ Chí Minh,153217,"85/16 Phạm Viết Chánh, 85/8 Phạm Viết Chánh và 5 Phạm Viết Chánh, quận Bình Thạnh cũ",4499887
+29Gia Định,phường,"Phường 1, Phường 2, Phường 7, Phường 17 (quận Bình Thạnh)",2.76,Gia Định,thành phố Hồ Chí Minh,125946,"Tạm thời sử dụng trụ sở UBND phường 7, Bình Thạnh cũ, 58 Hoàng Hoa Thám, phường 7 và trụ sở UBND phường 2 cũ, số 14 Phan Bội Châu, phường 2.
+Dự kiến xây dựng trụ sở UBND phường Gia Định tại số 134 Lê Văn Duyệt, phường 1, quận Bình Thạnh cũ",2776275
+29Bình Quới,phường,"Phường 27, Phường 28",6.34,Bình Quới,thành phố Hồ Chí Minh,46200,"1 khu hành chính Thanh Đa, phường 27, quận Bình Thạnh cũ",6403599
+29Hòa Bình,phường,"Phường 5, Phường 14 (Quận 11)",0.98,Hòa Bình,thành phố Hồ Chí Minh,49863,"347 Lạc Long Quân, phường 5, quận 11 cũ và 416/1 Lạc Long Quân, quận 11 cũ",985947
+29Tân Sơn Hòa,phường,"Phường 1, Phường 2, Phường 3 (quận Tân Bình)",2.62,Tân Sơn Hòa,thành phố Hồ Chí Minh,64150,"291 Lê Văn Sỹ, phường 1, quận Tân Bình cũ",2658686
+29Vườn Lài,phường,"Phường 1, Phường 2, Phường 4, Phường 9, Phường 10 (Quận 10)",1.27,Vườn Lài,thành phố Hồ Chí Minh,104076,"168 (số cũ 66) Hùng Vương, phường 2, quận 10 cũ",1282371
+29Tân Sơn Nhất,phường,"Phường 4, Phường 5, Phường 7 (quận Tân Bình)",3.19,Tân Sơn Nhất,thành phố Hồ Chí Minh,84639,"25/4-6 Hoàng Việt, phường 4, quận Tân Bình cũ",3220060
+33Phong Điền,phường,"Thị trấn Phong Điền, Xã Tân Thới, Xã Giai Xuân",45.58,Phong Điền,thành phố Cần Thơ,51949,Huyện ủy Phong Điền,45914398
+33Vị Thanh,phường,"Phường I, Phường III, Phường VII",22.11,Vị Thanh,thành phố Cần Thơ,32766,UBND TP Vị Thanh,22293062
+29Bảy Hiền,phường,"Phường 10, Phường 11, Phường 12 (quận Tân Bình)",2.86,Bảy Hiền,thành phố Hồ Chí Minh,132252,"1129/20 Lạc Long Quân, phường 11, quận Tân Bình cũ",2763409
+29Tân Bình,phường,"Phường 13, Phường 14 (quận Tân Bình), Phường 15 (quận Tân Bình)",2.12,Tân Bình,thành phố Hồ Chí Minh,89373,"387A Trường Chinh, phường 14, quận Tân Bình cũ",2200892
+29Tân Hòa,phường,"Phường 6, Phường 8, Phường 9 (quận Tân Bình)",1.47,Tân Hòa,thành phố Hồ Chí Minh,93437,"356 Bắc Hải, phường 6, quận Tân Bình cũ",1483176
+29Tân Sơn,phường,Phường 15 (quận Tân Bình),10.12,Tân Sơn,thành phố Hồ Chí Minh,77229,"822 Trường Chinh, phường 15, quận Tân Bình cũ",10233435
+29Tân Sơn Nhì,phường,"Phường Tân Sơn Nhì, Phường Sơn Kỳ, Phường Tân Quý, Phường Tân Thành",3.49,Tân Sơn Nhì,thành phố Hồ Chí Minh,117277,"48 Tân Quý, phường Tân Quý, quận Tân Phú  cũ và UBND phường Tân Sơn Nhì cũ (cơ sở 2)",3551510
+29Tây Thạnh,phường,"Phường Tây Thạnh, Phường Sơn Kỳ",4.0,Tây Thạnh,thành phố Hồ Chí Minh,72616,"200/12 Nguyễn Hữu Tiến, phường Tây Thạnh, quận Tân Phú cũ và Nhà Văn hóa Lao động (cơ sở 2)",3525085
+33Vị Tân,phường,"Phường IV, Phường V, Xã Vị Tân",37.07,Vị Tân,thành phố Cần Thơ,36079,UBND xã Vị Tân,37295069
+29Phú Thọ Hòa,phường,"Phường Phú Thọ Hòa, Phường Tân Thành, Phường Tân Quý",3.03,Phú Thọ Hòa,thành phố Hồ Chí Minh,140436,"146 Độc Lập, phường Tân Thành, quận Tân Phú cũ và UBND phường Phú Thọ Hòa cũ (cơ sở 2)",3220832
+29Phú Thạnh,phường,"Phường Hiệp Tân, Phường Phú Thạnh, Phường Tân Thới Hòa",2.98,Phú Thạnh,thành phố Hồ Chí Minh,103780,"275 Nguyễn Sơn, phường Phú Thạnh, quận Tân Phú và UBND phường Hiệp Tân cũ (cơ sở 2)",3031811
+29Tân Phú,phường,"Phường Phú Trung, Phường Hòa Thạnh, Phường Tân Thới Hòa, Phường Tân Thành",2.52,Tân Phú,thành phố Hồ Chí Minh,93117,"70A Thoại Ngọc Hầu, phường Hòa Thạnh, quận Tân Phú cũ ",2250511
+29Đức Nhuận,phường,"Phường 4, Phường 5, Phường 9 (quận Phú Nhuận)",2.16,Đức Nhuận,thành phố Hồ Chí Minh,71495,"744 Nguyễn Kiệm, quận Phú Nhuận cũ",2148127
+29Cầu Kiệu,phường,"Phường 1, Phường 2, Phường 7 (quận Phú Nhuận), Phường 15 (quận Phú Nhuận)",1.23,Cầu Kiệu,thành phố Hồ Chí Minh,62663,"18 Đoàn Thị Điểm, quận Phú Nhuận cũ",1314113
+29Phú Nhuận,phường,"Phường 8, Phường 10, Phường 11, Phường 13 (quận Phú Nhuận), Phường 15 (quận Phú Nhuận)",1.46,Phú Nhuận,thành phố Hồ Chí Minh,68420,"159 Nguyễn Văn Trỗi, phường 11, quận Phú Nhuận cũ",1385402
+29An Khánh,phường,"Phường Thủ Thiêm, Phường An Lợi Đông, Phường Thảo Điền, Phường An Khánh, Phường An Phú (thành phố Thủ Đức)",15.33,An Khánh,thành phố Hồ Chí Minh,76967,"171/1 Lương Định Của, phường An Khánh, TP Thủ Đức cũ",18680670
+29Bình Trưng,phường,"Phường Bình Trưng Đông, Phường Bình Trưng Tây, Phường An Phú (thành phố Thủ Đức)",14.82,Bình Trưng,thành phố Hồ Chí Minh,121382,"8 đường Hồ Thị Nhung, khu phố 4, phường Bình Trưng Đông, TP Thủ Đức cũ",11496660
+29Cát Lái,phường,"Phường Thạnh Mỹ Lợi, Phường Cát Lái",19.65,Cát Lái,thành phố Hồ Chí Minh,68654,"45 Phan Bá Vành, phường Thạnh Mỹ Lợi, TP Thủ Đức cũ",19636887
+29Hòa Hưng,phường,"Phường 12, Phường 13, Phường 15 (Quận 10), Phường 14 (Quận 10)",2.59,Hòa Hưng,thành phố Hồ Chí Minh,96414,"TT20 (số cũ LL1) Tam Đảo, phường 15, quận 10 cũ",2559448
+29Nhiêu Lộc,phường,"Phường 9, Phường 11, Phường 12, Phường 14 (Quận 3)",1.71,Nhiêu Lộc,thành phố Hồ Chí Minh,88090,"82 Bà Huyện Thanh Quan, phường 9, quận 3 cũ",1718432
+33Đại Thành,phường,"Phường Hiệp Lợi, Xã Tân Thành, Xã Đại Thành",53.0,Đại Thành,thành phố Cần Thơ,34594,UBND TP Ngã Bảy,53382721
+29Xuân Hòa,phường,"Phường Võ Thị Sáu, Phường 4 (Quận 3)",2.22,Xuân Hòa,thành phố Hồ Chí Minh,48464,"99 - 99A Trần Quốc Thảo, phường Võ Thị Sáu, quận 3 cũ",2318134
+29Bàn Cờ,phường,"Phường 1, Phường 2, Phường 3, Phường 5, Phường 4 (Quận 3)",0.99,Bàn Cờ,thành phố Hồ Chí Minh,67634,"296-298 Nguyễn Thiện Thuật, phường 3, quận 3 cũ",912835
+29Bình Thới,phường,"Phường 3, Phường 10 (Quận 11), Phường 8 (Quận 11)",1.52,Bình Thới,thành phố Hồ Chí Minh,55851,"268 - 270 Bình Thới, quận 11 cũ",1523892
+29Minh Phụng,phường,"Phường 1, Phường 7, Phường 16 (Quận 11)",1.27,Minh Phụng,thành phố Hồ Chí Minh,74459,"139B Thuận Kiều, quận 11 cũ",1281427
+33Sóc Trăng,phường,"Phường 5, Phường 6, Phường 7, Phường 8",41.67,Sóc Trăng,thành phố Cần Thơ,61253,UBND phường 6,41838789
+33Phú Lợi,phường,"Phường 1 (thành phố Sóc Trăng), Phường 2 (thành phố Sóc Trăng), Phường 3 (thành phố Sóc Trăng), Phường 4",26.79,Phú Lợi,thành phố Cần Thơ,95516,UBND TP Sóc Trăng,27032478
+29Xóm Chiếu,phường,"Phường 13, Phường 16, Phường 18, Phường 15 (Quận 4)",1.94,Xóm Chiếu,thành phố Hồ Chí Minh,57875,"18 Đoàn Như Hài, phường 13, quận 4 cũ",1878575
+33Ngã Năm,phường,"Phường 1 (thị xã Ngã Năm), Phường 2 (thị xã Ngã Năm), Xã Vĩnh Quới",95.3,Ngã Năm,thành phố Cần Thơ,58588,UBND thị xã Ngã Năm,95989910
+33Mỹ Quới,phường,"Phường 3 (thị xã Ngã Năm), Xã Mỹ Bình, Xã Mỹ Quới",83.91,Mỹ Quới,thành phố Cần Thơ,3024,UBND xã Mỹ Quới,84619878
+33Vĩnh Châu,phường,"Phường 1 (thị xã Vĩnh Châu), Phường 2 (thị xã Vĩnh Châu), Xã Lạc Hòa",98.26,Vĩnh Châu,thành phố Cần Thơ,68437,UBND thị xã Vĩnh Châu,104411152
+29Khánh Hội,phường,"Phường 8, Phường 9 (Quận 4), Phường 2, Phường 4 (Quận 4), Phường 15 (Quận 4)",1.07,Khánh Hội,thành phố Hồ Chí Minh,94507,"104 Bến Vân Đồn, phường 9, quận 4 cũ",1123926
+29Vĩnh Hội,phường,"Phường 1, Phường 3 (Quận 4), Phường 2, Phường 4 (Quận 4)",1.17,Vĩnh Hội,thành phố Hồ Chí Minh,63015,"183 Tôn Thất Thuyết, phường 4 cũ",1193913
+33Khánh Hòa,phường,"Phường Khánh Hòa, Xã Vĩnh Hiệp, Xã Hòa Đông",130.48,Khánh Hòa,thành phố Cần Thơ,37634,UBND phường Khánh Hòa,131152410
+33Vĩnh Phước,phường,"Phường Vĩnh Phước, Xã Vĩnh Tân",103.15,Vĩnh Phước,thành phố Cần Thơ,51897,UBND phường Vĩnh Phước,106121670
+32Long Xuyên,phường,"Phường Mỹ Bình, Phường Mỹ Long, Phường Mỹ Xuyên, Phường Mỹ Phước, Phường Mỹ Quý, Phường Mỹ Hòa",29.98,Long Xuyên,tỉnh An Giang,154858,Phường Mỹ Hòa,30198810
+29Chợ Quán,phường,"Phường 1, Phường 2, Phường 4 (Quận 5)",1.28,Chợ Quán,thành phố Hồ Chí Minh,63545,"462-464 An Dương Vương, phường 4, quận 5 cũ",1285859
+29An Đông,phường,"Phường 5, Phường 7, Phường 9 (Quận 5)",1.32,An Đông,thành phố Hồ Chí Minh,81229,"209 An Dương Vương, phường 7, quận 5 cũ",1332221
+32Bình Đức,phường,"Phường Bình Khánh, Phường Bình Đức, Xã Mỹ Khánh",28.23,Bình Đức,tỉnh An Giang,72822,Phường Bình Khánh (169 Hàm Nghi),28606625
+32Mỹ Thới,phường,"Phường Mỹ Thạnh, Phường Mỹ Thới",37.09,Mỹ Thới,tỉnh An Giang,6045,UBND phường Mỹ Thới,37380657
+26Lang Biang - Đà Lạt,phường,"Phường 7, Thị trấn Lạc Dương, Xã Lát",323.74,Lang Biang - Đà Lạt,tỉnh Lâm Đồng,đang cập nhật,"Trụ sở huyện ủy, HĐND và UBND huyện Lạc Dương",323280750
+29Chợ Lớn,phường,"Phường 11, Phường 12, Phường 13, Phường 14 (Quận 5)",1.67,Chợ Lớn,thành phố Hồ Chí Minh,85066,"131 Triệu Quang Phục, phường 11, quận 5 cũ",1679594
+29Bình Tây,phường,"Phường 2, Phường 9 (Quận 6)",1.05,Bình Tây,thành phố Hồ Chí Minh,63293,"178/7R Hậu Giang, phường 2, quận 6 cũ",1087820
+26Lâm Viên - Đà Lạt,phường,"Phường 8, Phường 9, Phường 12",35.03,Lâm Viên - Đà Lạt,tỉnh Lâm Đồng,71369,"UBND phường 9, đường - 09 đường Quang Trung",35041220
+26Xuân Hương - Đà Lạt,phường,"Phường 1 (thành phố Đà Lạt), Phường 2 (thành phố Đà Lạt), Phường 3, Phường 4, Phường 10",73.45,Xuân Hương - Đà Lạt,tỉnh Lâm Đồng,103178,"Thành ủy Đà Lạt, số 31 Đinh Tiên Hoàng",73506285
+26Cam Ly - Đà Lạt,phường,"Phường 5, Phường 6, Xã Tà Nung",80.92,Cam Ly - Đà Lạt,tỉnh Lâm Đồng,48919,"UBND phường 6, 29 Thi Sách",80898725
+26Xuân Trường - Đà Lạt,phường,"Phường 11, Xã Xuân Thọ, Xã Xuân Trường, Xã Trạm Hành",168.83,Xuân Trường - Đà Lạt,tỉnh Lâm Đồng,36163,UBND xã Xuân Thọ thôn Đa Lộc,169094560
+29Phú Lâm,phường,"Phường 12, Phường 13, Phường 14 (Quận 6)",2.0,Phú Lâm,thành phố Hồ Chí Minh,87513,"241/3 đường Tân Hòa Đông, phường 14, quận 6 cũ",2014314
+29Tân Mỹ,phường,"Phường Tân Phú (Quận 7), Phường Phú Mỹ (Quận 7)",6.45,Tân Mỹ,thành phố Hồ Chí Minh,68124,"7 Tân Phú, phường Tân Phú, quận 7 cũ",6546751
+29Bình Phú,phường,"Phường 10, Phường 11 (Quận 6), Phường 16 (Quận 8)",2.86,Bình Phú,thành phố Hồ Chí Minh,75925,"15 đường Chợ Lớn, phường, quận 6 cũ",2870876
+29Bình Tiên,phường,"Phường 1, Phường 7, Phường 8 (Quận 6)",1.61,Bình Tiên,thành phố Hồ Chí Minh,91520,"107 đường Cao Văn Lầu, phường 1, quận 6 cũ",1601928
+29Chánh Hưng,phường,"Phường 4 (Quận 8), Rạch Ông, Phường Hưng Phú, Phường 5 (Quận 8)",4.61,Chánh Hưng,thành phố Hồ Chí Minh,190707,"39 Dương Bạch Mai, phường 5, quận 8 cũ",4684971
+29Phú Định,phường,"Phường 14, Phường 15 (Quận 8), Phường Xóm Củi, Phường 16 (Quận 8)",5.85,Phú Định,thành phố Hồ Chí Minh,150389,"184 Lưu Hữu Phước, phường 15, quận 8 cũ",5814683
+29Bình Đông,phường,"Phường 6 (Quận 8), Phường 7 (Quận 8), Xã An Phú Tây, Phường 5 (Quận 8)",8.93,Bình Đông,thành phố Hồ Chí Minh,156332,"1094 Tạ Quang Bửu, phường 6, quận 8 cũ",9212481
+29Bình Hưng Hòa,phường,"Phường Bình Hưng Hòa, Phường Sơn Kỳ, Phường Bình Hưng Hòa A",8.47,Bình Hưng Hòa,thành phố Hồ Chí Minh,187950,"621 Tân Kỳ Tân Quý, phường Bình Hưng Hòa A, quận Bình Tân cũ",9040530
+29An Phú Đông,phường,"Phường Thạnh Lộc, Phường An Phú Đông",14.59,An Phú Đông,thành phố Hồ Chí Minh,179115,"Trụ sở UBND phường Thạnh Lộc, quận 12 cũ",14730826
+34Bạc Liêu,phường,"Phường 1 (thành phố Bạc Liêu), Phường 2 (thành phố Bạc Liêu), Phường 7 (thành phố Bạc Liêu), Phường 8 (thành phố Bạc Liêu), Phường 3",5.98,Bạc Liêu,tỉnh Cà Mau,24456,"Số 12, Đường Trần Phú, phường Bạc Liêu",29922464
+34Vĩnh Trạch,phường,"Phường 5 (thành phố Bạc Liêu), Xã Vĩnh Trạch",10.22,Vĩnh Trạch,tỉnh Cà Mau,23085,đang cập nhật,50210428
+34Hiệp Thành,phường,"Phường Nhà Mát, Xã Vĩnh Trạch Đông, Xã Hiệp Thành",29.05,Hiệp Thành,tỉnh Cà Mau,11864,đang cập nhật,68597974
+29Bình Trị Đông,phường,"Phường Bình Trị Đông, Phường Bình Hưng Hòa A, Phường Bình Trị Đông A",7.15,Bình Trị Đông,thành phố Hồ Chí Minh,165142,"162 Mã Lò, phường Bình Trị Đông A, quận Bình Tân cũ",7122899
+29Bình Tân,phường,"Phường Bình Hưng Hòa B, Phường Bình Trị Đông A, Phường Tân Tạo",11.25,Bình Tân,thành phố Hồ Chí Minh,161851,"43 đường số 16, phường Bình Hưng Hòa B, quận Bình Tân cũ",10557157
+29An Lạc,phường,"Phường Bình Trị Đông B, Phường An Lạc A, Phường An Lạc",10.47,An Lạc,thành phố Hồ Chí Minh,172134,"521 Kinh Dương Vương, phường An Lạc, quận Bình Tân cũ",10358376
+34Giá Rai,phường,"Phường 1 (thị xã Giá Rai), Phường Hộ Phòng, Xã Phong Thạnh, Xã Phong Thạnh A",11.76,Giá Rai,tỉnh Cà Mau,21974,đang cập nhật,105485330
+34Láng Tròn,phường,"Phường Láng Tròn, Xã Phong Tân, Xã Phong Thạnh Đông",32.18,Láng Tròn,tỉnh Cà Mau,21468,đang cập nhật,107394035
+29Tân Tạo,phường,"Xã Tân Kiên, Phường Tân Tạo A, Phường Tân Tạo",14.7,Tân Tạo,thành phố Hồ Chí Minh,113363,"1409 Tỉnh lộ 10, phường Tân Tạo A, quận Bình Tân cũ",15716016
+34An Xuyên,phường,"Phường 1 (thành phố Cà Mau), Phường 2 (thành phố Cà Mau), Phường 9, Phường Tân Xuyên, Xã An Xuyên",69.9,An Xuyên,tỉnh Cà Mau,81303,"Số 07, Khu Dân cư phường An Xuyên",70572286
+34Tân Thành,phường,"Phường 5 (thành phố Cà Mau), Phường Tân Thành, Xã Tân Thành, Phường 7 (thành phố Cà Mau), Phường 6, Xã Định Bình, Xã Tắc Vân",48.42,Tân Thành,tỉnh Cà Mau,83758,đang cập nhật,50231192
+34Lý Văn Lâm,phường,"Phường 8 (thành phố Cà Mau), Xã Lý Văn Lâm, Xã Lợi An (phần còn lại sau khi sáp nhập vào xã Trần Văn Thời, xã Lương Thế Trân)",44.5,Lý Văn Lâm,tỉnh Cà Mau,50014,đang cập nhật,45929779
+34Hoà Thành,phường,"Xã Hòa Tân, Xã Hòa Thành, Phường 7 (thành phố Cà Mau) (phần còn lại sau khi sáp nhập vào phường Tân Thành), Phường 6 (phần còn lại sau khi sáp nhập vào phường Tân Thành), Xã Định Bình (phần còn lại sau khi sáp nhập vào phường Tân Thành), Xã Tắc Vân (phần còn lại sau khi sáp nhập vào phường Tân Thành)",97.29,Hoà Thành,tỉnh Cà Mau,47167,đang cập nhật,97020327
+29Tân Thuận,phường,"Phường Bình Thuận, Phường Tân Thuận Đông, Phường Tân Thuận Tây",10.16,Tân Thuận,thành phố Hồ Chí Minh,148090,"342 Huỳnh Tấn Phát, quận 7 cũ",10369634
+29Tân Hưng,phường,"Phường Tân Phong, Phường Tân Quy, Phường Tân Kiểng, Phường Tân Hưng",8.54,Tân Hưng,thành phố Hồ Chí Minh,153674,"9 đường 2A phường Tân Hưng, quận 7 cũ",8537584
+29Phú Thuận,phường,"Phường Phú Thuận, Phường Phú Mỹ (Quận 7)",10.55,Phú Thuận,thành phố Hồ Chí Minh,84089,"1203 Huỳnh Tấn Phát, khu phố 3, phường Phú Thuận, quận 7 cũ",10568914
+33Cái Khế,phường,"Phường An Hòa, Phường Cái Khế, Phường Bùi Hữu Nghĩa",10.04,Cái Khế,thành phố Cần Thơ,57688,UBND phường An Hòa,8198887
+33Ninh Kiều,phường,"Phường Tân An, Phường Thới Bình, Phường Xuân Khánh",5.42,Ninh Kiều,thành phố Cần Thơ,119547,UBND quận Ninh Kiều,5472528
+33Tân An,phường,"Phường An Khánh, Phường Hưng Lợi",8.06,Tân An,thành phố Cần Thơ,85997,UBND phường Hưng Lợi,8122206
+33An Bình,phường,"Phường An Bình, Xã Mỹ Khánh, Phường Long Tuyền",18.39,An Bình,thành phố Cần Thơ,5015,UBND phường An Bình,18165654
+33Bình Thủy,phường,"Phường An Thới, Phường Bình Thủy, Phường Bùi Hữu Nghĩa (phần còn lại sau khi sáp nhập vào phường Cái Khế)",15.17,Bình Thủy,thành phố Cần Thơ,62483,đang cập nhật,16914489
+33Thới An Đông,phường,"Phường Trà An, Phường Trà Nóc, Phường Thới An Đông",25.04,Thới An Đông,thành phố Cần Thơ,39401,UBND phường Thới An Đông,25023430
+33Long Tuyền,phường,"Phường Long Hòa, Phường Long Tuyền (phần còn lại sau khi sáp nhập vào phường An Bình)",28.48,Long Tuyền,thành phố Cần Thơ,45292,UBND phường Long Tuyền,29061820
+33Cái Răng,phường,"Phường Lê Bình, Phường Thường Thạnh, Phường Ba Láng, Phường Hưng Thạnh",26.88,Cái Răng,thành phố Cần Thơ,71106,Quận ủy - UBND quận Cái Răng (cũ),27050607
+33Hưng Phú,phường,"Phường Tân Phú, Phường Phú Thứ, Phường Hưng Phú",40.93,Hưng Phú,thành phố Cần Thơ,58543,UBND quận Cái Răng (mới),41190127
+33Thốt Nốt,phường,"Phường Thuận An (quận Thốt Nốt), Phường Thới Thuận, Phường Thốt Nốt (phần còn lại sau khi sáp nhập vào phường Thuận Hưng)",23.61,Thốt Nốt,thành phố Cần Thơ,61387,Quận ủy Thốt Nốt,23945275
+33Trung Nhứt,phường,"Phường Thạnh Hòa, Phường Trung Nhứt, Xã Trung An",30.84,Trung Nhứt,thành phố Cần Thơ,37469,UBND phường Thạnh Hòa,31131353
+33Thuận Hưng,phường,"Phường Trung Kiên, Phường Thuận Hưng, Phường Thốt Nốt",31.13,Thuận Hưng,thành phố Cần Thơ,56878,UBND quận Thốt Nốt,31136987
+33Ngã Bảy,phường,"Phường Lái Hiếu, Phường Hiệp Thành, Phường Ngã Bảy",25.17,Ngã Bảy,thành phố Cần Thơ,37861,UBND xã Ngã Bảy,25349861
+33Long Mỹ,phường,"Phường Thuận An (thị xã Long Mỹ), Xã Long Trị, Xã Long Trị A",51.4,Long Mỹ,thành phố Cần Thơ,35865,Thị uỷ Long Mỹ,51732569
+33Long Bình,phường,"Phường Bình Thạnh, Phường Vĩnh Tường, Xã Long Bình",40.2,Long Bình,thành phố Cần Thơ,26378,UBND thị xã Long Mỹ,40549261
+33Long Phú 1,phường,"Phường Trà Lồng, Xã Tân Phú, Xã Long Phú",57.67,Long Phú 1,thành phố Cần Thơ,30365,UBND xã Long Phú,58168534
+33Mỹ Xuyên,phường,"Phường 10, Thị trấn Mỹ Xuyên, Xã Đại Tâm",48.34,Mỹ Xuyên,thành phố Cần Thơ,51769,UBND thị trấn Mỹ Xuyên,48711721
+32Châu Đốc,phường,"Phường Vĩnh Nguơn, Phường Châu Phú A, Phường Châu Phú B, Phường Vĩnh Mỹ, Xã Vĩnh Châu",41.32,Châu Đốc,tỉnh An Giang,97438,Phường Châu Phú B,41108483
+32Vĩnh Tế,phường,"Phường Núi Sam, Xã Vĩnh Tế, Xã Vĩnh Châu (phần còn lại sau khi sáp nhập vào phường Châu Đốc)",64.25,Vĩnh Tế,tỉnh An Giang,40222,UBND phường Núi Sam,64185675
+32Rạch Giá,phường,"Phường Vĩnh Quang, Phường Vĩnh Thanh, Phường Vĩnh Thanh Vân, Phường Vĩnh Lạc, Phường An Hòa, Phường Vĩnh Hiệp, Phường An Bình, Phường Rạch Sỏi, Phường Vĩnh Lợi",45.53,Rạch Giá,tỉnh An Giang,250661,Thành ủy TP Rạch Giá,45958938
+32Vĩnh Thông,phường,"Phường Vĩnh Thông, Xã Phi Thông, Xã Mỹ Lâm",95.89,Vĩnh Thông,tỉnh An Giang,55185,UBND phường Vĩnh Thông,95945281
+32Tô Châu,phường,"Phường Tô Châu, Xã Thuận Yên, Xã Dương Hòa",79.77,Tô Châu,tỉnh An Giang,25865,UBND phường Tô Châu,77037014
+32Hà Tiên,phường,"Phường Pháo Đài, Phường Bình San, Phường Mỹ Đức, Phường Đông Hồ",61.35,Hà Tiên,tỉnh An Giang,40609,UBND TP Hà Tiên,61918902
+31Cao Lãnh,phường,"Phường 1 (thành phố Cao Lãnh), Phường 3, Phường 4, Phường 6, Phường Hòa Thuận, Xã Hòa An, Xã Tịnh Thới, Xã Tân Thuận Tây, Xã Tân Thuận Đông",73.3,Cao Lãnh,tỉnh Đồng Tháp,137387,UBND phường 1,74108945
+31Mỹ Ngãi,phường,"Phường Mỹ Ngãi, Xã Mỹ Tân (thành phố Cao Lãnh), Xã Tân Nghĩa",49.05,Mỹ Ngãi,tỉnh Đồng Tháp,đang cập nhật,UBND xã Mỹ Tân,49470112
+31Mỹ Trà,phường,"Phường Mỹ Phú, Xã Nhị Mỹ, Xã An Bình, Xã Mỹ Trà",46.3,Mỹ Trà,tỉnh Đồng Tháp,46757,UBND phường Mỹ Phú,46643054
+31Sa Đéc,phường,"Phường 1, Phường 2, Phường 3, Phường 4 (thành phố Sa Đéc), Phường An Hòa, Phường Tân Quy Đông, Xã Tân Khánh Đông, Xã Tân Quy Tây",46.9,Sa Đéc,tỉnh Đồng Tháp,104509,UBND phường 1,47246929
+31Hồng Ngự,phường,"Phường An Thạnh, Xã Bình Thạnh, Xã Tân Hội (thành phố Hồng Ngự)",64.2,Hồng Ngự,tỉnh Đồng Tháp,53945,UBND phường An Thạnh,64770766
+31Thường Lạc,phường,"Phường An Lạc, Xã Thường Thới Hậu A, Xã Thường Lạc",43.7,Thường Lạc,tỉnh Đồng Tháp,38225,UBND phường An Lạc,43960346
+31An Bình,phường,"Phường An Lộc, Phường An Bình A, Phường An Bình B",18.39,An Bình,tỉnh Đồng Tháp,5015,UBND phường An Lộc,50563608
+32Tân Châu,phường,"Phường Long Thạnh, Phường Long Sơn",17.39,Tân Châu,tỉnh An Giang,33506,Phường Long Thạnh,17526714
+32Long Phú,phường,"Phường Long Hưng, Phường Long Châu, Phường Long Phú",19.21,Long Phú,tỉnh An Giang,46826,Phường Long Hưng,19549359
+32Chi Lăng,phường,"Phường Núi Voi, Phường Chi Lăng, Xã Tân Lợi",51.17,Chi Lăng,tỉnh An Giang,28401,UBND phường Chi Lăng,51638468
+32Tịnh Biên,phường,"Phường An Phú, Phường Tịnh Biên, Xã An Nông",75.57,Tịnh Biên,tỉnh An Giang,34865,UBND phường Tịnh Biên,74481874
+32Thới Sơn,phường,"Phường Nhơn Hưng, Phường Nhà Bàng, Phường Thới Sơn",49.36,Thới Sơn,tỉnh An Giang,33045,Phường Nhà Bàng,48870101
+31Mỹ Tho,phường,"Phường 1 (thành phố Mỹ Tho), Phường 2 (thành phố Mỹ Tho), Phường Tân Long",6.4,Mỹ Tho,tỉnh Đồng Tháp,66766,UBND TP Mỹ Tho,6330161
+31Đạo Thạnh,phường,"Phường 4 (thành phố Mỹ Tho), Phường 5 (thành phố Mỹ Tho), Xã Đạo Thạnh",14.3,Đạo Thạnh,tỉnh Đồng Tháp,7337,UBND phường 5,14290087
+31Trung An,phường,"Phường 10, Xã Phước Thạnh, Xã Trung An",23.4,Trung An,tỉnh Đồng Tháp,70479,UBND xã Trung An,23576348
+31Mỹ Phong,phường,"Phường 9 (thành phố Mỹ Tho), Xã Tân Mỹ Chánh, Xã Mỹ Phong",23.0,Mỹ Phong,tỉnh Đồng Tháp,50731,UBND phường 9,23237016
+31Gò Công,phường,"Phường 1 (thành phố Gò Công), Phường 5 (thành phố Gò Công), Phường Long Hòa",10.1,Gò Công,tỉnh Đồng Tháp,36124,UBND phường 1,10102392
+31Sơn Qui,phường,"Phường Long Hưng, Xã Tân Trung, Xã Bình Đông",49.49,Sơn Qui,tỉnh Đồng Tháp,đang cập nhật,UBND xã Tân Trung,49729444
+31Long Thuận,phường,"Phường 2 (thành phố Gò Công), Phường Long Thuận",8.3,Long Thuận,tỉnh Đồng Tháp,29715,UBND TP Gò Công,8291972
+31Thới Sơn,phường,"Phường 6 (thành phố Mỹ Tho), Xã Thới Sơn",49.36,Thới Sơn,tỉnh Đồng Tháp,33045,UBND phường 6,15403434
+31Nhị Quý,phường,"Phường Nhị Mỹ, Xã Phú Quý, Xã Nhị Quý",20.12,Nhị Quý,tỉnh Đồng Tháp,đang cập nhật,UBND xã Nhị Quý,21275033
+31Thanh Hòa,phường,"Phường 2 (thị xã Cai Lậy), Xã Tân Bình (thị xã Cai Lậy), Xã Thanh Hòa",19.5,Thanh Hòa,tỉnh Đồng Tháp,20903,UBND phường 2,19465528
+22Đăk Bla,phường,"Phường Trần Hưng Đạo (thành phố Kon Tum), Lê Lợi, Nguyễn Trãi",14.98,Đăk Bla,tỉnh Quảng Ngãi,đang cập nhật,đang cập nhật,14985353
+19Đông Hà,phường,"Phường 1 (thành phố Đông Hà), Phường 3 (thành phố Đông Hà), Phường 4, Phường Đông Giang, Phường Đông Thanh",38.05,Đông Hà,tỉnh Quảng Trị,50915,UBND phường 3 và phường Đông Thanh (cũ),38195176
+19Nam Đông Hà,phường,"Phường 2 (thành phố Đông Hà), Phường 5, Phường Đông Lễ, Phường Đông Lương",35.04,Nam Đông Hà,tỉnh Quảng Trị,61204,Trụ sở phân hiệu Đại học Huế (đường Lý Thường Kiệt) và Trung tâm văn hóa phường 5 (cũ),34920041
+19Quảng Trị,phường,"Phường 1, Phường 2, Phường 3 (thị xã Quảng Trị), Phường An Đôn, Xã Hải Lệ",72.82,Quảng Trị,tỉnh Quảng Trị,29705,UBND thị xã Quảng Trị (cũ),73542487
+19Đồng Hới,phường,"Phường Đức Ninh Đông, Phường Đồng Hải, Phường Đồng Phú, Phường Phú Hải, Phường Hải Thành, Phường Nam Lý, Xã Bảo Ninh, Xã Đức Ninh",41.35,Đồng Hới,tỉnh Quảng Trị,84196,UBND TP Đồng Hới (cũ),41165714
+19Đồng Thuận,phường,"Phường Bắc Lý, Xã Lộc Ninh, Xã Quang Phú",26.49,Đồng Thuận,tỉnh Quảng Trị,38521,UBND phường Bắc Lý (cũ),26069886
+19Đồng Sơn,phường,"Phường Bắc Nghĩa, Phường Đồng Sơn, Xã Nghĩa Ninh, Xã Thuận Đức",88.03,Đồng Sơn,tỉnh Quảng Trị,32396,UBND phường Đồng Sơn (cũ),88421392
+19Ba Đồn,phường,"Phường Quảng Phong, Phường Quảng Long, Phường Ba Đồn, Xã Quảng Hải",20.45,Ba Đồn,tỉnh Quảng Trị,28805,UBND thị xã Ba Đồn (cũ),19963052
+19Bắc Gianh,phường,"Phường Quảng Phúc, Phường Quảng Thọ, Phường Quảng Thuận",31.14,Bắc Gianh,tỉnh Quảng Trị,32800,UBND phường Quảng Thọ (cũ),31303151
+5Đường Hào,phường,"Phường Dị Sử, Phường Phùng Chí Kiên, Xã Xuân Dục, Xã Hưng Long, Xã Ngọc Lâm",25.62,Đường Hào,tỉnh Hưng Yên,39028,đang cập nhật,25755253
+9Yên Bái,phường,"Phường Đồng Tâm, Phường Yên Ninh, Phường Minh Tân, Phường Nguyễn Thái Học, Phường Hồng Hà",16.92,Yên Bái,tỉnh Lào Cai,70391,đang cập nhật,16998216
+9Nam Cường,phường,"Phường Nam Cường (thành phố Yên Bái), Xã Minh Bảo, Xã Tuy Lộc, Xã Cường Thịnh",46.09,Nam Cường,tỉnh Lào Cai,17754,đang cập nhật,46641753
+9Trung Tâm,phường,"Phường Trung Tâm, Xã Phù Nham, Xã Nghĩa Lợi, Xã Nghĩa Lộ",43.15,Trung Tâm,tỉnh Lào Cai,26888,đang cập nhật,43730820
+9Cầu Thia,phường,"Phường Cầu Thia, Xã Thanh Lương, Xã Thạch Lương, Xã Phúc Sơn, Xã Hạnh Sơn",31.84,Cầu Thia,tỉnh Lào Cai,25234,đang cập nhật,31651049
+5Thái Bình,phường,"Phường Lê Hồng Phong, Phường Bồ Xuyên, Phường Tiền Phong, Xã Tân Hòa (huyện Vũ Thư), Xã Phúc Thành, Xã Tân Phong, Xã Tân Bình",28.03,Thái Bình,tỉnh Hưng Yên,67922,đang cập nhật,28245326
+5Trà Lý,phường,"Phường Hoàng Diệu, Xã Đông Mỹ, Xã Đông Hoà, Xã Đông Thọ, Xã Đông Dương",20.94,Trà Lý,tỉnh Hưng Yên,43929,đang cập nhật,21062246
+5Thượng Hồng,phường,"Phường Bạch Sam, Phường Minh Đức, Xã Dương Quang, Xã Hòa Phong",25.41,Thượng Hồng,tỉnh Hưng Yên,37153,đang cập nhật,25587513
+5Mỹ Hào,phường,"Phường Bần Yên Nhân, Phường Nhân Hòa, Phường Phan Đình Phùng, Xã Cẩm Xá",28.36,Mỹ Hào,tỉnh Hưng Yên,57676,đang cập nhật,28509654
+6Tây Hoa Lư,phường,"Phường Ninh Giang, Xã Trường Yên, Xã Ninh Hòa, Xã Phúc Sơn, Xã Gia Sinh, Xã Gia Tân",84.96,Tây Hoa Lư,tỉnh Ninh BÌnh,46648,Trụ sở xã Trường Yên hiện nay,87945337
+6Hoa Lư,phường,"Phường Ninh Mỹ, Phường Ninh Khánh, Phường Đông Thành, Phường Tân Thành, Phường Vân Giang, Phường Nam Thành, Phường Nam Bình, Phường Bích Đào, Xã Ninh Khang, Xã Ninh Nhất, Xã Ninh Tiến",53.72,Hoa Lư,tỉnh Ninh BÌnh,148406,Trụ sở Thành ủy Hoa Lư hiện nay,51246457
+6Đông Hoa Lư,phường,"Phường Ninh Phúc, Xã Khánh Hòa, Xã Khánh Phú, Xã Khánh An",25.62,Đông Hoa Lư,tỉnh Ninh BÌnh,34414,Trụ sở xã Khánh Phú hiện nay,25779659
+5Vũ Phúc,phường,"Phường Phú Khánh, Xã Nguyên Xá (huyện Vũ Thư), Xã Song An, Xã Trung An, Xã Vũ Phúc",23.99,Vũ Phúc,tỉnh Hưng Yên,41428,đang cập nhật,24111175
+5Trần Lãm,phường,"Phường Trần Lãm, Phường Kỳ Bá, Xã Vũ Đông, Xã Vũ Lạc, Xã Vũ Chính, Xã Tây Sơn",34.63,Trần Lãm,tỉnh Hưng Yên,92136,đang cập nhật,34794911
+5Trần Hưng Đạo,phường,"Phường Trần Hưng Đạo, Phường Đề Thám, Phường Quang Trung, Xã Phú Xuân",9.32,Trần Hưng Đạo,tỉnh Hưng Yên,45657,đang cập nhật,9310449
+6Nam Hoa Lư,phường,"Phường Ninh Phong, Phường Ninh Sơn, Xã Ninh Vân, Xã Ninh An, Xã Ninh Hải",54.3,Nam Hoa Lư,tỉnh Ninh BÌnh,53514,Trụ sở xã Ninh Hải hiện nay,54633174
+6Trung Sơn,phường,"Phường Nam Sơn, Phường Trung Sơn, Xã Đông Sơn",38.15,Trung Sơn,tỉnh Ninh BÌnh,31539,Trụ sở Đảng ủy - HĐND - UBND phường Trung Sơn hiện nay,37263445
+6Đông A,phường,"Phường Lộc Hòa, Xã Mỹ Thắng, Xã Mỹ Hà",22.07,Đông A,tỉnh Ninh BÌnh,31802,Trụ sở phường Lộc Hòa hiện nay,22218087
+6Mỹ Lộc,phường,"Phường Hưng Lộc, Xã Mỹ Thuận, Xã Mỹ Lộc",35.54,Mỹ Lộc,tỉnh Ninh BÌnh,38068,Trụ sở của UBND huyện Mỹ Lộc (cũ),35719223
+6Thành Nam,phường,"Phường Mỹ Xá, Xã Đại An",16.03,Thành Nam,tỉnh Ninh BÌnh,30830,Trụ sở phường Mỹ Xá hiện nay,16105770
+5Hồng Châu,phường,"Phường Hồng Châu, Xã Quảng Châu, Xã Hoàng Hanh",15.41,Hồng Châu,tỉnh Hưng Yên,18714,đang cập nhật,16052072
+5Phố Hiến,phường,"Phường An Tảo, Phường Lê Lợi, Phường Hiến Nam, Phường Minh Khai, Xã Trung Nghĩa, Xã Liên Phương",21.5,Phố Hiến,tỉnh Hưng Yên,68982,đang cập nhật,21630795
+5Sơn Nam,phường,"Phường Lam Sơn, Xã Phú Cường, Xã Hùng Cường, Xã Bảo Khê, Xã Ngọc Thanh",23.62,Sơn Nam,tỉnh Hưng Yên,30471,đang cập nhật,21676822
+6Nam Định,phường,"Phường Quang Trung (thành phố Nam Định), Phường Vị Xuyên, Phường Lộc Vượng, Phường Cửa Bắc, Phường Trần Hưng Đạo, Phường Năng Tĩnh, Phường Cửa Nam, Xã Mỹ Phúc",19.91,Nam Định,tỉnh Ninh BÌnh,188751,Trụ sở UBND TP Nam Định hiện nay,19921175
+4Lê Thanh Nghị,phường,"Phường Tân Bình, Phường Thanh Bình, Phường Lê Thanh Nghị, Phường Trần Phú",8.04,Lê Thanh Nghị,thành phố Hải Phòng,81500,"Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Bình",8111544
+4Thành Đông,phường,"Phường Cẩm Thượng, Phường Bình Hàn, Phường Nguyễn Trãi, Xã An Thượng",12.22,Thành Đông,thành phố Hải Phòng,50307,"Trụ sở cũ của Đảng ủy, HĐND, UBND và Công an Cẩm Thượng",12350056
+4Thạch Khôi,phường,"Phường Thạch Khôi, Xã Gia Xuyên, Xã Liên Hồng, Xã Thống Nhất",19.94,Thạch Khôi,thành phố Hải Phòng,34432,"Trụ sở của Đảng ủy, HĐND, UBND Thạch Khôi hiện tại",20078823
+9Âu Lâu,phường,"Phường Hợp Minh, Xã Giới Phiên, Xã Minh Quân, Xã Âu Lâu",66.17,Âu Lâu,tỉnh Lào Cai,23245,đang cập nhật,65624960
+9Văn Phú,phường,"Phường Yên Thịnh, Xã Tân Thịnh (thành phố Yên Bái), Xã Văn Phú, Xã Phú Thịnh",51.46,Văn Phú,tỉnh Lào Cai,26573,đang cập nhật,52030030
+6Yên Sơn,phường,"Phường Tân Bình, Xã Quảng Lạc, Xã Yên Sơn",35.86,Yên Sơn,tỉnh Ninh BÌnh,21196,Trụ sở xã Yên Sơn hiện nay,36237168
+6Yên Thắng,phường,"Xã Yên Thắng (huyện Yên Mô), Xã Khánh Thượng, Phường Yên Bình",29.95,Yên Thắng,tỉnh Ninh BÌnh,28405,Trụ sở xã Yên Thắng hiện nay,32307493
+6Tam Điệp,phường,"Phường Bắc Sơn, Phường Tây Sơn, Xã Quang Sơn",41.2,Tam Điệp,tỉnh Ninh BÌnh,26845,Trụ sở Thành ủy - HĐND - UBND TP Tam Điệp hiện nay,41542734
+4Ái Quốc,phường,"Phường Ái Quốc, Xã Quyết Thắng, Xã Hồng Lạc",17.6,Ái Quốc,thành phố Hải Phòng,24736,"Trụ sở Đảng ủy, HĐND, UBND Ái Quốc hiện tại",17678047
+4Nhị Chiểu,phường,"Phường Tân Dân (thị xã Kinh Môn), Phường Minh Tân, Phường Duy Tân, Phường Phú Thứ",39.28,Nhị Chiểu,thành phố Hải Phòng,43799,"Trụ sở cũ của Đảng ủy, HĐND, UBND Phú Thứ",39523874
+4Bắc An Phụ,phường,"Phường Thất Hùng, Xã Bạch Đằng (thị xã Kinh Môn), Xã Lê Ninh, Phường Văn Đức",26.1,Bắc An Phụ,thành phố Hải Phòng,22780,"Trụ sở cũ của Đảng ủy, HĐND, UBND Bạch Đằng",26048087
+4Chí Linh,phường,"Phường Phả Lại, Phường Cổ Thành, Xã Nhân Huệ",26.79,Chí Linh,thành phố Hải Phòng,31983,"Trụ sở cũ của Đảng ủy, HĐND, UBND Phả Lại",27039481
+4Chu Văn An,phường,"Phường Sao Đỏ, Phường Văn An, Phường Chí Minh, Phường Thái Học, Phường Cộng Hòa, Phường Văn Đức",40.86,Chu Văn An,thành phố Hải Phòng,56251,"Trụ sở cũ của Thành ủy, HĐND, UBND TP Chí Linh",40922901
+6Hồng Quang,phường,"Xã Hồng Quang (huyện Nam Trực), Xã Nghĩa An, Phường Nam Vân",27.53,Hồng Quang,tỉnh Ninh BÌnh,35784,Trụ sở xã Hồng Quang hiện nay,28015284
+6Thiên Trường,phường,"Phường Lộc Hạ, Xã Mỹ Tân, Xã Mỹ Trung",20.53,Thiên Trường,tỉnh Ninh BÌnh,31031,Trụ sở phường Lộc Hạ hiện nay,20750146
+6Trường Thi,phường,"Phường Trường Thi, Xã Thành Lợi",31.5,Trường Thi,tỉnh Ninh BÌnh,69988,Trụ sở của xã Thành Lợi hiện nay,31780631
+6Vị Khê,phường,"Xã Nam Điền (huyện Nam Trực), Phường Nam Phong",25.27,Vị Khê,tỉnh Ninh BÌnh,36210,Trụ sở xã Nam Điền hiện nay,24938126
+9Nghĩa Lộ,phường,"Phường Tân An, Phường Pú Trạng, Xã Nghĩa An, Xã Nghĩa Sơn",17.07,Nghĩa Lộ,tỉnh Lào Cai,73556,đang cập nhật,30116240
+9Cam Đường,phường,"Phường Nam Cường (thành phố Lào Cai), Phường Xuân Tăng, Phường Pom Hán, Phường Bắc Cường, Phường Bắc Lệnh, Phường Bình Minh, Xã Cam Đường",59.9,Cam Đường,tỉnh Lào Cai,67877,"Đường Nguyễn Hữu An, Phường Cam Đường (Trụ sở Phường Bình Minh cũ)",60530708
+4Trần Liễu,phường,"Phường An Phụ, Xã Hiệp Hòa, Xã Thượng Quận",23.87,Trần Liễu,thành phố Hải Phòng,26696,"Trụ sở cũ của Đảng ủy, HĐND, UBND Thượng Quận",24005468
+4Hải Dương,phường,"Phường Trần Hưng Đạo (thành phố Hải Dương), Phường Nhị Châu, Phường Ngọc Châu, Phường Quang Trung",6.51,Hải Dương,thành phố Hải Phòng,51522,"Trụ sở HĐND, UBND TP Hải Dương hiện tại",6441933
+4Ngô Quyền,phường,"Phường Máy Chai, Phường Vạn Mỹ, Phường Cầu Tre, Phường Gia Viên, Phường Đông Khê",5.81,Ngô Quyền,thành phố Hải Phòng,88595,"226 Lê Lai (trụ sở cơ quan Đảng)
+46 Lê Lai (UBND, Trung tâm phục vụ hành chính công)",5836953
+4Đông Hải,phường,"Phường Đông Hải 1, Phường Đông Hải 2, Phường Nam Hải",57.65,Đông Hải,thành phố Hải Phòng,50748,"– Số 40 đường Nam Phong (trụ sở cơ quan Đảng)
+– Số 433 đường Đông Hải (trụ sở HĐND, UBND, Trung tâm Phục vụ Hành chính công)",43957209
+4Thủy Nguyên,phường,"Phường Dương Quan, Phường Thủy Đường, Phường Hoa Động, Phường An Lư, Phường Thủy Hà",45.34,Thủy Nguyên,thành phố Hải Phòng,71731,Trụ sở của UBND TP Thủy Nguyên hiện tại,45004308
+4Nam Triệu,phường,"Phường Nam Triệu Giang, Phường Lập Lễ, Phường Tam Hưng",29.51,Nam Triệu,thành phố Hải Phòng,40224,Trụ sở cũ của UBND Nam Triệu Giang,29565589
+9Lào Cai,phường,"Phường Duyên Hải, Phường Cốc Lếu, Phường Kim Tân, Phường Lào Cai, Xã Vạn Hòa, Xã Bản Phiệt",72.32,Lào Cai,tỉnh Lào Cai,76981,"Số 591 đường Hoàng Liên, Phường Lào Cai (Trụ sở HĐND&UBND thành phố Lào Cai cũ)",72927972
+4Tân Hưng,phường,"Phường Hải Tân, Phường Tân Hưng, Xã Ngọc Sơn, Phường Trần Phú",14.18,Tân Hưng,thành phố Hải Phòng,38794,"Trụ sở cũ của Đảng ủy, HĐND, UBND Hải Tân",14273121
+4Dương Kinh,phường,"Phường Hòa Nghĩa, Phường Tân Thành, Phường Anh Dũng, Phường Hải Thành",27.96,Dương Kinh,thành phố Hải Phòng,27339,"Trụ sở cũ của UBND Hải Thành, số 869 đường Phạm Văn Đồng",27361139
+4Nam Đồ Sơn,phường,"Phường Minh Đức (quận Đồ Sơn), Phường Bàng La, Phường Hợp Đức, Phường Vạn Hương, Phường Ngọc Xuyên",21.0,Nam Đồ Sơn,thành phố Hải Phòng,30372,"Trụ sở cũ của UBND Hợp Đức, tổ dân phố Đức Hậu",21470817
+4Đồ Sơn,phường,"Phường Hải Sơn, Phường Tân Thành, Phường Vạn Hương, Phường Ngọc Xuyên",25.54,Đồ Sơn,thành phố Hải Phòng,36494,"Trụ sở cũ của UBND quận Đồ Sơn, số 195 Lý Thánh Tông",22033574
+9Sa Pa,phường,"Phường Hàm Rồng, Phường Ô Quý Hồ, Phường Sa Pả, Phường Cầu Mây, Phường Phan Si Păng, Phường Sa Pa",54.63,Sa Pa,tỉnh Lào Cai,22882,Số 091 Đường Xuân Viên (Trụ sở phường Sa Pa cũ),61000033
+4Nam Đồng,phường,"Phường Nam Đồng, Xã Tiền Tiến",19.67,Nam Đồng,thành phố Hải Phòng,24900,"Trụ sở cũ của Đảng ủy, HĐND, UBND Tiền Tiến",19664617
+4Tứ Minh,phường,"Xã Cẩm Đoài, Phường Tứ Minh, Thị trấn Lai Cách",14.77,Tứ Minh,thành phố Hải Phòng,30416,"Trụ sở cũ của Huyện ủy, HĐND, UBND huyện Cẩm Giàng",14326074
+4Trần Nhân Tông,phường,"Phường Hoàng Tân, Phường Hoàng Tiến, Phường Văn Đức",39.97,Trần Nhân Tông,thành phố Hải Phòng,27053,"Trụ sở cũ của Đảng ủy, HĐND, UBND Hoàng Tân",40330431
+4Nguyễn Trãi,phường,"Phường Bến Tắm, Xã Bắc An, Xã Hoàng Hoa Thám",76.28,Nguyễn Trãi,thành phố Hải Phòng,16098,"Trụ sở cũ của Đảng ủy, HĐND, UBND Bến Tắm",76654584
+4Trần Hưng Đạo,phường,"Xã Lê Lợi, Xã Hưng Đạo (thành phố Chí Linh), Phường Cộng Hòa",66.89,Trần Hưng Đạo,thành phố Hải Phòng,35932,"Trụ sở cũ của Đảng ủy, HĐND, UBND Cộng Hòa",67086983
+4Phạm Sư Mạnh,phường,"Phường Phạm Thái, Phường An Sinh, Phường Hiệp Sơn",22.34,Phạm Sư Mạnh,thành phố Hải Phòng,24919,"Trụ sở cũ của Đảng ủy, HĐND, UBND Hiệp Sơn",22319255
+23Ninh Hòa,phường,"Phường Ninh Hiệp, Phường Ninh Đa, Xã Ninh Đông, Xã Ninh Phụng",35.8,Ninh Hòa,tỉnh Khánh Hòa,58816,UBND thị xã Ninh Hòa,36224077
+4Lê Đại Hành,phường,"Phường Tân Dân (thành phố Chí Linh), Phường An Lạc, Phường Đồng Lạc",31.62,Lê Đại Hành,thành phố Hải Phòng,24638,"Trụ sở cũ của Đảng ủy, HĐND, UBND Tân Dân",31811468
+4Nguyễn Đại Năng,phường,"Phường Thái Thịnh, Phường Hiến Thành, Xã Minh Hòa",17.4,Nguyễn Đại Năng,thành phố Hải Phòng,29083,"Trụ sở cũ của Đảng ủy, HĐND, UBND Hiến Thành",17429818
+23Đông Ninh Hòa,phường,"Phường Ninh Diêm, Phường Ninh Hải, Phường Ninh Thủy, Xã Ninh Phước",134.2,Đông Ninh Hòa,tỉnh Khánh Hòa,43484,UBND phường Ninh Diêm,135143881
+23Bắc Nha Trang,phường,"Phường Vĩnh Hòa, Phường Vĩnh Hải, Phường Vĩnh Phước, Phường Vĩnh Thọ, Xã Vĩnh Lương, Xã Vĩnh Phương",97.0,Bắc Nha Trang,tỉnh Khánh Hòa,128239,UBND phường Vĩnh Phước - số 422 đường 2 Tháng 4,97320862
+23Tây Nha Trang,phường,"Phường Ngọc Hiệp, Phường Phương Sài, Xã Vĩnh Ngọc, Xã Vĩnh Thạnh, Xã Vĩnh Hiệp, Xã Vĩnh Trung",27.9,Tây Nha Trang,tỉnh Khánh Hòa,108065,UBND xã Vĩnh Ngọc - số 480 Lương Định Của,27879295
+23Nam Nha Trang,phường,"Phường Phước Hải, Phường Phước Long, Phường Vĩnh Trường, Xã Vĩnh Thái, Xã Phước Đồng",82.2,Nam Nha Trang,tỉnh Khánh Hòa,130164,"UBND xã Vĩnh Thái - KĐT Mỹ Gia, thôn Thủy Tú",81835862
+23Bắc Cam Ranh,phường,"Phường Cam Nghĩa, Phường Cam Phúc Bắc, Xã Cam Thành Nam",134.0,Bắc Cam Ranh,tỉnh Khánh Hòa,43644,UBND phường Cam Phúc Bắc,139760247
+4Kinh Môn,phường,"Phường An Lưu, Phường Hiệp An, Phường Long Xuyên",11.47,Kinh Môn,thành phố Hải Phòng,24948,"Trụ sở của Thị ủy, HĐND, UBND thị Kinh Môn hiện tại",11574651
+23Đô Vinh,phường,"Phường Đô Vinh, Xã Nhơn Sơn",62.0,Đô Vinh,tỉnh Khánh Hòa,33207,UBND phường Đô Vinh ,61833029
+23Bảo An,phường,"Phường Phước Mỹ, Phường Bảo An, Xã Thành Hải",18.5,Bảo An,tỉnh Khánh Hòa,45995,BQL đầu tư xây dựng và phát triển quỹ đất tỉnh Ninh Thuận,18472729
+261 Bảo Lộc,phường,"Phường 1 (thành phố Bảo Lộc), Phường Lộc Phát, Xã Lộc Thanh",51.46,1 Bảo Lộc,tỉnh Lâm Đồng,55845,đang cập nhật,51582116
+263 Bảo Lộc,phường,"Phường Lộc Tiến, Xã Lộc Châu, Xã Đại Lào",108.98,3 Bảo Lộc,tỉnh Lâm Đồng,54445,đang cập nhật,109311587
+262 Bảo Lộc,phường,"Phường 2 (thành phố Bảo Lộc), Xã Lộc Tân, Xã ĐamBri",176.72,2 Bảo Lộc,tỉnh Lâm Đồng,49564,đang cập nhật,177209876
+26B’Lao,phường,"Phường Lộc Sơn, Phường B’Lao, Xã Lộc Nga",33.77,B’Lao,tỉnh Lâm Đồng,đang cập nhật,UBND phường Lộc Sơn và UBND phường B’Lao,33786988
+4An Phong,phường,"Phường An Hòa, Phường Hồng Phong, Phường Đại Bản, Phường Lê Thiện, Phường Tân Tiến, Phường Lê Lợi",27.92,An Phong,thành phố Hải Phòng,44660,"Trụ sở cũ của UBND Hồng Phong, tổ dân phố Đình Ngọ",28043299
+10Quan Triều,phường,"Phường Tân Long, Phường Quang Vinh, Phường Quan Triều, Xã Sơn Cẩm",24.72,Quan Triều,tỉnh Thái Nguyên,42292,"Trụ sở Đảng ủy, HĐND, UBND phường Tân Long",24823219
+10Phan Đình Phùng,phường,"Phường Trưng Vương, Phường Túc Duyên, Phường Đồng Quang, Phường Quang Trung, Phường Hoàng Văn Thụ, Phường Tân Thịnh, Phường Phan Đình Phùng, Phường Gia Sàng",14.73,Phan Đình Phùng,tỉnh Thái Nguyên,111482,"Trụ sở Đảng ủy, HĐND, UBND",14743145
+10Gia Sàng,phường,"Phường Hương Sơn, Xã Đồng Liên, Phường Gia Sàng, Phường Cam Giá",25.47,Gia Sàng,tỉnh Thái Nguyên,44094,"Trụ sở Đảng ủy, HĐND, UBND phường Cam Giá",25717519
+10Quyết Thắng,phường,"Phường Thịnh Đán, Xã Phúc Hà, Xã Quyết Thắng",24.43,Quyết Thắng,tỉnh Thái Nguyên,29933,"Trụ sở Đảng ủy, HĐND, UBND phường Thịnh Đán",24579438
+10Tích Lương,phường,"Phường Trung Thành (thành phố Thái Nguyên), Phường Phú Xá, Phường Tân Thành, Phường Tân Lập, Phường Tích Lương, Phường Cam Giá",23.56,Tích Lương,tỉnh Thái Nguyên,55278,"Trụ sở Đảng ủy, HĐND, UBND phường Tích Lương",23725654
+10Linh Sơn,phường,"Phường Chùa Hang, Phường Đồng Bẩm, Xã Cao Ngạn, Xã Huống Thượng, Xã Linh Sơn",39.28,Linh Sơn,tỉnh Thái Nguyên,46733,"Trụ sở Đảng ủy, HĐND, UBND phường Đồng Bẩm",39428444
+10Sông Công,phường,"Phường Thắng Lợi, Phường Phố Cò, Phường Cải Đan",13.98,Sông Công,tỉnh Thái Nguyên,21039,"Trụ sở Đảng ủy, HĐND, UBND Thành ủy Sông Công hiện nay",14090495
+10Bách Quang,phường,"Phường Lương Sơn, Phường Bách Quang, Xã Tân Quang",35.02,Bách Quang,tỉnh Thái Nguyên,26668,"Trụ sở Đảng ủy, HĐND, UBND phường Bách Quang",35190238
+10Bá Xuyên,phường,"Phường Mỏ Chè, Phường Châu Sơn, Xã Bá Xuyên",21.13,Bá Xuyên,tỉnh Thái Nguyên,20065,"Trụ sở Đảng ủy, HĐND, UBND xã Bá Xuyên",21337842
+10Phổ Yên,phường,"Phường Ba Hàng, Phường Hồng Tiến, Phường Bãi Bông, Xã Đắc Sơn",40.7,Phổ Yên,tỉnh Thái Nguyên,49162,"Trụ sở Đảng ủy, HĐND, UBND TP Phổ Yên",41233292
+10Phúc Thuận,phường,"Phường Bắc Sơn, Xã Minh Đức, Xã Phúc Thuận",74.16,Phúc Thuận,tỉnh Thái Nguyên,29051,"Trụ sở Đảng ủy, HĐND, UBND phường Bắc Sơn",73681742
+4Vĩnh Hòa,phường,"Xã Vĩnh Hòa (huyện Vĩnh Bảo), Xã Hùng Tiến",21.66,Vĩnh Hòa,thành phố Hải Phòng,28176,Trụ sở của UBND Vĩnh Hòa (Hiệp Hòa cũ),21636708
+4An Dương,phường,"Phường Nam Sơn (quận An Dương), Phường An Hải, Phường Lê Lợi, Phường Đồng Thái, Phường Tân Tiến, Phường An Hưng",31.23,An Dương,thành phố Hải Phòng,76879,Trung tâm hành chính – chính trị quận An Dương tại số 15 đường 351,32001246
+4Lưu Kiếm,phường,"Phường Trần Hưng Đạo (thành phố Thủy Nguyên), Phường Lưu Kiếm, Xã Liên Xuân, Xã Quang Trung (thành phố Thủy Nguyên)",42.17,Lưu Kiếm,thành phố Hải Phòng,49376,Trụ sở của UBND Lưu Kiếm,43462890
+4Bạch Đằng,phường,"Phường Minh Đức, Xã Bạch Đằng (thành phố Thủy Nguyên), Phường Phạm Ngũ Lão",53.49,Bạch Đằng,thành phố Hải Phòng,51633,Trụ sở cũ của UBND Minh Đức,53722237
+4Hòa Bình,phường,"Phường Hòa Bình, Phường An Lư, Phường Thủy Hà",19.47,Hòa Bình,thành phố Hải Phòng,47168,Trụ sở cũ của UBND An Lư,19555818
+10Vạn Xuân,phường,"Phường Nam Tiến, Phường Đồng Tiến, Phường Tân Hương, Phường Tiên Phong",40.2,Vạn Xuân,tỉnh Thái Nguyên,6161,"Trụ sở Đảng ủy, HĐND, UBND phường Nam Tiến",40090642
+4Hưng Đạo,phường,"Phường Đa Phúc, Phường Hưng Đạo, Phường Anh Dũng, Phường Hải Thành",18.64,Hưng Đạo,thành phố Hải Phòng,37859,"Trung tâm hành chính quận Dương Kinh, đường Mạc Đăng Doanh",19083545
+10Trung Thành,phường,"Phường Trung Thành (thành phố Phổ Yên), Phường Đông Cao, Phường Tân Phú, Phường Thuận Thành",25.84,Trung Thành,tỉnh Thái Nguyên,37075,"Trụ sở Đảng ủy, HĐND, UBND phường Trung Thành",26228230
+4Hồng Bàng,phường,"Phường Hoàng Văn Thụ, Phường Minh Khai, Phường Phan Bội Châu, Phường Thượng Lý, Phường Sở Dầu, Phường Hùng Vương, Phường Gia Viên",12.11,Hồng Bàng,thành phố Hải Phòng,113200,"-Số 1 Đinh Tiên Hoàng (trụ sở Sở Tài chính)
+-Bộ phận một cửa ở số 203 đường Bạch Đằng",12238502
+10Bắc Kạn,phường,"Phường Sông Cầu, Phường Phùng Chí Kiên, Phường Xuất Hóa, Xã Nông Thượng",72.0,Bắc Kạn,tỉnh Thái Nguyên,25387,"Trụ sở Đảng ủy, HĐND, UBND Thành ủy - HĐND - UBND TP Bắc Kạn",76746724
+10Đức Xuân,phường,"Phường Nguyễn Thị Minh Khai, Phường Huyền Tụng, Phường Đức Xuân",34.46,Đức Xuân,tỉnh Thái Nguyên,2266,"Trụ sở Đảng ủy, HĐND, UBND tại Sở Tài chính Bắc Kạn cũ",34667153
+4Gia Viên,phường,"Phường Đằng Giang, Phường Cầu Đất, Phường Lạch Tray, Phường Gia Viên, Phường Đông Khê",5.01,Gia Viên,thành phố Hải Phòng,102246,"– 212 Lê Lợi (trụ sở cơ quan Đảng)
+– Trụ sở của UBND Đằng Giang cũ tại số 1/126 An Đà (trụ sở HĐND-UBND)
+– 201 Lạch Tray (Trung tâm phục vụ Hành chính công)",4985886
+4An Biên,phường,"Phường An Dương, Phường An Biên, Phường Trần Nguyên Hãn, Phường Vĩnh Niệm",6.56,An Biên,thành phố Hải Phòng,116091,Trụ sở của Đảng ủy – HĐND – UBND Vĩnh Niệm tại số 387 Thiên Lôi,6628038
+4Lê Chân,phường,"Phường Hàng Kênh, Phường Dư Hàng Kênh, Phường Kênh Dương, Phường An Biên, Phường Trần Nguyên Hãn, Phường Vĩnh Niệm, Phường Cầu Đất, Phường Lạch Tray",5.65,Lê Chân,thành phố Hải Phòng,161051,"Số 10G, 10H, 10A Hồ Sen",5630876
+4Hải An,phường,"Phường Cát Bi, Phường Đằng Lâm, Phường Thành Tô, Phường Đằng Hải, Phường Tràng Cát, Phường Nam Hải, Phường Đông Hải 2",39.99,Hải An,thành phố Hải Phòng,102648,Số 10/15A Lê Hồng Phong (trụ sở Sở Tài chính),35841622
+4Kiến An,phường,"Phường Nam Sơn (quận Kiến An), Phường Đồng Hòa, Phường Bắc Sơn, Phường Trần Thành Ngọ, Phường Văn Đẩu",11.18,Kiến An,thành phố Hải Phòng,67236,"Trụ sở cũ của Quận ủy, HĐND, UBND quận Kiến An, số 2 Cao Toàn",11203855
+4Thiên Hương,phường,"Phường Thiên Hương, Phường Hoàng Lâm, Phường Lê Hồng Phong, Phường Hoa Động",21.1,Thiên Hương,thành phố Hải Phòng,45140,Trụ sở của UBND Thiên Hương,21149736
+7Thục Phán,phường,"Phường Sông Hiến, Phường Đề Thám, Phường Hợp Giang, Xã Hưng Đạo (thành phố Cao Bằng), Xã Hoàng Tung",55.44,Thục Phán,tỉnh Cao Bằng,41157,"Trụ sở Thành uỷ, HĐND và UBND TP Cao Bằng",55254332
+7Nùng Trí Cao,phường,"Phường Ngọc Xuân, Phường Sông Bằng, Xã Vĩnh Quang (thành phố Cao Bằng)",29.31,Nùng Trí Cao,tỉnh Cao Bằng,19507,Trụ sở UBND phường Sông Bằng,29452119
+7Tân Giang,phường,"Phường Tân Giang, Phường Duyệt Trung, Phường Hòa Chung, Xã Chu Trinh, Xã Lê Chung",84.26,Tân Giang,tỉnh Cao Bằng,18204,"Trụ sở UBND phường Hoà Chung và Trường Trung cấp y (cũ), phường Tân Giang",86651302
+4Hồng An,phường,"Phường Quán Toan, Phường An Hồng, Phường An Hưng, Phường Đại Bản, Phường Lê Thiện, Phường Tân Tiến",27.64,Hồng An,thành phố Hải Phòng,64771,Trụ sở UBND phường An Hồng (tổ dân phố Lê Lác 2),27129510
+4Lê Ích Mộc,phường,"Phường Quảng Thanh, Phường Lê Hồng Phong, Xã Quang Trung (thành phố Thủy Nguyên)",27.04,Lê Ích Mộc,thành phố Hải Phòng,51853,Trụ sở cũ của UBND Quảng Thanh,26074927
+4Phù Liễn,phường,"Phường Bắc Hà, Phường Ngọc Sơn, Thị trấn Trường Sơn, Phường Nam Sơn (quận Kiến An), Phường Đồng Hòa, Phường Bắc Sơn, Phường Trần Thành Ngọ, Phường Văn Đẩu",18.46,Phù Liễn,thành phố Hải Phòng,60733,"Trụ sở cũ của UBND Văn Đẩu, số 618 Nguyễn Lương Bằng",18535370
+4An Hải,phường,"Phường An Đồng, Phường Hồng Thái, Phường Lê Lợi, Phường An Hải, Phường Đồng Thái",19.96,An Hải,thành phố Hải Phòng,77086,"Trụ sở cũ của UBND phường Đồng Thái, tổ dân phố Bạch Mai",19974916
+23Cam Ranh,phường,"Phường Cam Phú, Phường Cam Lộc, Phường Cam Phúc Nam",17.5,Cam Ranh,tỉnh Khánh Hòa,31237,UBND TP Cam Ranh,25361591
+23Ba Ngòi,phường,"Phường Ba Ngòi, Xã Cam Phước Đông",78.2,Ba Ngòi,tỉnh Khánh Hòa,31708,UBND phường Ba Ngòi,79292595
+23Cam Linh,phường,"Phường Cam Thuận, Phường Cam Lợi, Phường Cam Linh",4.8,Cam Linh,tỉnh Khánh Hòa,33052,UBND phường Cam Linh,14655092
+23Hòa Thắng,phường,"Phường Ninh Giang, Phường Ninh Hà, Xã Ninh Phú",78.6,Hòa Thắng,tỉnh Khánh Hòa,26822,UBND phường Ninh Giang,78692468
+23Phan Rang,phường,"Phường Kinh Dinh, Phường Phủ Hà, Phường Đài Sơn, Phường Đạo Long",9.4,Phan Rang,tỉnh Khánh Hòa,7225,UBND TP Phan Rang - Tháp Chàm ,9387725
+23Đông Hải,phường,"Phường Mỹ Bình, Phường Mỹ Đông, Phường Mỹ Hải, Phường Đông Hải",11.09,Đông Hải,tỉnh Khánh Hòa,đang cập nhật,Sở Nông nghiệp và Môi trường ,11055020
+23Ninh Chử,phường,"Phường Văn Hải, Thị trấn Khánh Hải",20.4,Ninh Chử,tỉnh Khánh Hòa,39556,"Huyện ủy, HĐND, UBND huyện Ninh Hải ",20130430
+27Long An,phường,"Phường 1 (thành phố Tân An), Phường 3 (thành phố Tân An), Phường 4, Phường 5, Phường 6, Xã Hướng Thọ Phú, Xã Bình Thạnh (huyện Thủ Thừa)",34.9,Long An,tỉnh Tây Ninh,106667,đang cập nhật,35128573
+27Tân An,phường,"Phường 7, Xã Bình Tâm, Xã Nhơn Thạnh Trung, Xã An Vĩnh Ngãi",8.06,Tân An,tỉnh Tây Ninh,85997,đang cập nhật,25669396
+27Khánh Hậu,phường,"Phường Tân Khánh, Phường Khánh Hậu, Xã Lợi Bình Nhơn",22.81,Khánh Hậu,tỉnh Tây Ninh,28965,đang cập nhật,22775906
+27Kiến Tường,phường,"Phường 1, Phường 2, Phường 3 (thị xã Kiến Tường)",26.28,Kiến Tường,tỉnh Tây Ninh,23738,đang cập nhật,25231379
+15Tô Hiệu,phường,"Phường Quyết Thắng, Phường Quyết Tâm, Phường Chiềng Lề, Phường Tô Hiệu",11.92,Tô Hiệu,tỉnh Sơn La,51293,"Số 89, đường Lê Thái Tông, phường Tô Hiệu, tỉnh Sơn La",12064560
+15Chiềng Cơi,phường,"Phường Chiềng Cơi, Xã Hua La, Xã Chiềng Cọ",93.56,Chiềng Cơi,tỉnh Sơn La,22694,"Số 55, đường Hoàng Quốc Việt, phường Chiềng Cơi, tỉnh Sơn La.",94800054
+15Chiềng An,phường,"Phường Chiềng An, Xã Chiềng Xôm, Xã Chiềng Đen",149.08,Chiềng An,tỉnh Sơn La,20322,"Bản Bó, phường Chiềng An, tỉnh Sơn La.",150980896
+15Chiềng Sinh,phường,"Phường Chiềng Sinh, Xã Chiềng Ngần",68.4,Chiềng Sinh,tỉnh Sơn La,27099,"Điểm tiếp nhận tại trụ sở chính: Số 486, đường Lê Duẩn, Tổ 3, phường Chiềng Sinh, tỉnh Sơn La
+Điểm tiếp nhận tại trụ sở UBND xã Chiềng Ngần (cũ): Bản Phường, phường Chiềng Sinh, tỉnh Sơn La",69220959
+15Mộc Sơn,phường,"Phường Đông Sang, Phường Mộc Sơn",37.88,Mộc Sơn,tỉnh Sơn La,15025,"Tổ dân phố 4, phường Mộc Sơn, tỉnh Sơn La",38413586
+15Thảo Nguyên,phường,"Phường Cờ Đỏ, Phường Thảo Ngu yên",53.09,Thảo Nguyên,tỉnh Sơn La,22479,"Tổ dân phố 40, phường Thảo Nguyên, tỉnh Sơn La",53666533
+17Thái Hòa,phường,"Phường Hòa Hiếu, Phường Long Sơn, Phường Quang Phong",27.09,Thái Hòa,tỉnh Nghệ An,26916,UBND thị xã Thái Hòa,27103078
+17Tây Hiếu,phường,"Phường Quang Tiến, Xã Nghĩa Tiến, Xã Tây Hiếu",43.96,Tây Hiếu,tỉnh Nghệ An,24698,UBND phường Quang Tiến,44635645
+17Hoàng Mai,phường,"Phường Quỳnh Thiện, Xã Quỳnh Trang, Xã Quỳnh Vinh",79.67,Hoàng Mai,tỉnh Nghệ An,44474,UBND phường Quỳnh Thiện,80447936
+17Tân Mai,phường,"Phường Quỳnh Dị, Xã Quỳnh Lập, Xã Quỳnh Lộc",51.61,Tân Mai,tỉnh Nghệ An,33894,UBND thị xã Hoàng Mai,51344242
+17Quỳnh Mai,phường,"Phường Mai Hùng, Phường Quỳnh Phương, Phường Quỳnh Xuân, Xã Quỳnh Liên",40.5,Quỳnh Mai,tỉnh Nghệ An,57988,UBND phường Mai Hùng,40510827
+17Trường Vinh,phường,"Phường Bến Thủy, Phường Hưng Dũng, Phường Hưng Phúc, Phường Trung Đô, Phường Trường Thi, Phường Vinh Tân, Xã Hưng Hòa",34.22,Trường Vinh,tỉnh Nghệ An,141477,UBND phường Trường Thi,34317612
+17Vinh Lộc,phường,"Phường Hưng Lộc, Xã Nghi Phong, Xã Nghi Thái, Xã Nghi Xuân, Xã Phúc Thọ",38.86,Vinh Lộc,tỉnh Nghệ An,68086,UBND phường Hưng Lộc,38813805
+17Cửa Lò,phường,"Phường Nghi Hải, Phường Nghi Hòa, Phường Nghi Hương, Phường Nghi Tân, Phường Nghi Thu, Phường Nghi Thủy, Xã Thu Thủy",29.09,Cửa Lò,tỉnh Nghệ An,64760,UBND thị xã Cửa Lò,26193842
+17Thành Vinh,phường,"Phường Cửa Nam, Phường Đông Vĩnh, Phường Hưng Bình, Phường Lê Lợi, Phường Quang Trung, Xã Hưng Chính",15.54,Thành Vinh,tỉnh Nghệ An,123507,UBND TP Vinh,15689084
+17Vinh Phú,phường,"Phường Hà Huy Tập, Phường Nghi Đức, Phường Nghi Phú, Xã Nghi Ân",23.04,Vinh Phú,tỉnh Nghệ An,74473,UBND phường Nghi Phú,23067531
+17Vinh Hưng,phường,"Phường Hưng Đông, Phường Quán Bàu, Xã Nghi Kim, Xã Nghi Liên",25.47,Vinh Hưng,tỉnh Nghệ An,60159,UBND xã Nghi Kim,25665945
+12Vân Phú,phường,"Phường Vân Phú, Xã Phượng Lâu, Xã Hùng Lô, Xã Kim Đức",26.26,Vân Phú,tỉnh Phú Thọ,37450,"Đường Trường Chinh, khu 3, phường Vân Phú, tỉnh Phú Thọ (trụ sở UBND phường Vân Phú)",26319034
+12Nông Trang,phường,"Phường Minh Phương, Phường Nông Trang, Xã Thụy Vân",15.89,Nông Trang,tỉnh Phú Thọ,57770,"- Trụ sở UBND và Trung tâm Hành chính công: Phố Đốc Ngữ, phường Nông Trang, tỉnh Phú Thọ (Trụ sở phường Minh Phương cũ) - Trụ sở Đảng ủy: 1686 đại lộ Hùng Vương, phường Nông Trang, tỉnh Phú Thọ (Trụ sở phường Nông Trang cũ)",15918952
+12Âu Cơ,phường,"Phường Thanh Vinh, Phường Âu Cơ, Xã Thanh Minh",12.51,Âu Cơ,tỉnh Phú Thọ,18951,"Số 64 Bạch Đằng, phường Âu Cơ, tỉnh Phú Thọ (Trụ sở UBND thị xã Phú Thọ cũ)",12631649
+12Phú Thọ,phường,"Phường Hùng Vương (thị xã Phú Thọ), Xã Văn Lung, Xã Hà Lộc",23.07,Phú Thọ,tỉnh Phú Thọ,27957,"Đảng ủy và MTTQ: Số 198 đường Nguyễn Tất Thành, phường Phú Thọ (Trụ sở Thị ủy Phú Thọ cũ)
+HĐND và UBND: Số 200 đường Nguyễn Tất Thành, phường Phú Thọ (Trường Đại học Hùng Vương cũ)
+Trung tâm hành chính công: Số 210 đường Nguyễn Tất Thành, phường Phú Thọ (Trụ sở UBND phường Hùng Vương cũ)",23346558
+12Phong Châu,phường,"Phường Phong Châu, Xã Phú Hộ, Xã Hà Thạch",29.61,Phong Châu,tỉnh Phú Thọ,32519,"Đảng ủy-HĐND-UBND-MTTQ: Đường quốc lộ 2, phường Phong Châu (Trụ sở UBND xã Phú Hộ cũ)
+Trung tâm Hành chính công: Đường sông Hồng, khu dân cư Phú Hà, phường Phong Châu, tỉnh Phú Thọ (Trụ sở UBND phường Phong Châu cũ)",29878299
+12Thanh Miếu,phường,"Phường Thọ Sơn, Phường Tiên Cát, Phường Bạch Hạc, Phường Thanh Miếu, Xã Sông Lô",19.57,Thanh Miếu,tỉnh Phú Thọ,58548,"Đường Nguyễn Tất Thành, phường Thanh Miếu, tỉnh Phú Thọ (Trung tâm Thanh thiếu nhi Hùng Vương)",19501810
+12Việt Trì,phường,"Phường Tân Dân, Phường Gia Cẩm, Phường Minh Nông, Phường Dữu Lâu, Xã Trưng Vương",25.83,Việt Trì,tỉnh Phú Thọ,73006,"1508 đại lộ Hùng Vương, phường Việt Trì, tỉnh Phú Thọ",25553758
+12Vĩnh Yên,phường,"Phường Tích Sơn, Phường Hội Hợp, Phường Đồng Tâm, Xã Thanh Trù",25.0,Vĩnh Yên,tỉnh Phú Thọ,56428,"Đảng ủy-HĐND-UBND: Số 9A, đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ (Trụ sở UBND TP Vĩnh Yên cũ)
+Trung tâm Hành chính công: Số 5 đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ",25240670
+12Vĩnh Phúc,phường,"Phường Định Trung, Phường Liên Bảo, Phường Khai Quang, Phường Ngô Quyền, Phường Đống Đa",25.3,Vĩnh Phúc,tỉnh Phú Thọ,78317,"Đảng ủy-HĐND-UBND: Số 9A, đường Lê Lợi, phường Vĩnh Yên, tỉnh Phú Thọ (Trụ sở Thành ủy Vĩnh Yên cũ)
+Trung tâm hành chính công: 159 đường Trần Phú (trụ sở phường Liên Bảo cũ)",25573801
+12Phúc Yên,phường,"Phường Hùng Vương (thành phố Phúc Yên), Phường Hai Bà Trưng, Phường Phúc Thắng, Phường Tiền Châu, Phường Nam Viêm",23.4,Phúc Yên,tỉnh Phú Thọ,63954,"145 Trần Hưng Đạo, phường Phúc Yên, tỉnh Phú Thọ (Trụ sở UBND TP Phúc Yên cũ)",23565429
+12Xuân Hòa,phường,"Phường Đồng Xuân, Phường Xuân Hòa, Xã Cao Minh, Xã Ngọc Thanh",96.0,Xuân Hòa,tỉnh Phú Thọ,55237,"Đường Lê Duẩn, khu Đồng Đầm, phường Xuân Hòa, tỉnh Phú Thọ (Trụ sở xã Ngọc Thanh cũ)",96606728
+12Hòa Bình,phường,"Phường Đồng Tiến, Phường Hữu Nghị, Phường Phương Lâm, Phường Quỳnh Lâm, Phường Tân Thịnh, Phường Thịnh Lang, Phường Trung Minh",39.32,Hòa Bình,tỉnh Phú Thọ,78605,"Đường Lý Nam Đế, phường Hòa Bình, tỉnh Phú Thọ (Trụ sở UBND TP Hòa Bình cũ)",39611598
+12Tân Hòa,phường,"Phường Tân Hòa, Xã Hòa Bình, Xã Yên Mông",56.98,Tân Hòa,tỉnh Phú Thọ,14316,Trụ sở chính tại trụ sở xã Tên Mông cũ,57408520
+12Thống Nhất,phường,"Phường Dân Chủ, Phường Thái Bình, Phường Thống Nhất, Xã Vầy Nưa",55.21,Thống Nhất,tỉnh Phú Thọ,22897,Trụ sở UBND phường Thống Nhất,59162915
+12Kỳ Sơn,phường,"Phường Kỳ Sơn, Xã Độc Lập, Xã Mông Hóa",115.7,Kỳ Sơn,tỉnh Phú Thọ,20319,Trụ sở chính tại trụ sở xã Mông Hóa cũ,115712741
+20Phú Xuân,phường,"Phường Gia Hội, Phường Phú Hậu, Phường Tây Lộc, Phường Thuận Lộc, Phường Thuận Hòa, Phường Đông Ba",10.38,Phú Xuân,thành phố Huế,130247,"394 Đinh Tiên Hoàng, phường Phú Xuân",10389797
+20Vỹ Dạ,phường,"Phường Thủy Vân, Phường Xuân Phú, Phường Vỹ Dạ",8.93,Vỹ Dạ,thành phố Huế,49684,"20 Lâm Hoằng, phường Vỹ Dạ",8935678
+20Thuận Hóa,phường,"Phường Phú Hội, Phường Phú Nhuận, Phường Đúc, Phường Vĩnh Ninh, Phường Phước Vĩnh, Phường Trường An",7.57,Thuận Hóa,thành phố Huế,98923,"2 Lê Hồng Phong, phường Thuận Hóa",7584073
+20An Cựu,phường,"Phường An Đông, Phường An Tây, Phường An Cựu",16.71,An Cựu,thành phố Huế,55305,"67A Hoàng Quốc Việt, phường An Cựu",16743927
+20Hương An,phường,"Phường An Hòa, Phường Hương Sơ, Phường Hương An",19.43,Hương An,thành phố Huế,35885,"143 Nguyễn Văn Linh, phường Hương An",19471067
+20Thủy Xuân,phường,"Phường Thủy Biều, Phường Thủy Bằng, Phường Thủy Xuân",37.03,Thủy Xuân,thành phố Huế,43373,"38 Lê Ngô Cát, phường Thủy Xuân",37194709
+20Thanh Thủy,phường,"Phường Thủy Dương, Phường Thủy Phương, Xã Thủy Thanh",48.92,Thanh Thủy,thành phố Huế,43569,"555 Nguyễn Tất Thành, phường Thanh Thủy",49038648
+20Phong Phú,phường,"Phường Phong Phú, Xã Phong Thạnh",60.85,Phong Phú,thành phố Huế,19057,"Tổ dân phố Nhất Tây, phường Phong Phú",61385804
+20Phong Dinh,phường,"Phường Phong Hòa, Xã Phong Bình, Xã Phong Chương",87.17,Phong Dinh,thành phố Huế,28012,"168 Phò Trạch Đệm, phường Phong Dinh",87428750
+20Phong Điền,phường,"Phường Phong Thu, Xã Phong Mỹ, Xã Phong Xuân",592.48,Phong Điền,thành phố Huế,27862,"31 Phò Trạch, phường Phong Điền",594772556
+20Hóa Châu,phường,"Phường Hương Phong, Phường Hương Vinh, Xã Quảng Thành",34.6,Hóa Châu,thành phố Huế,41328,"đường Thanh Hà, phường Hóa Châu",34639212
+20Thuận An,phường,"Phường Thuận An, Xã Phú Hải, Xã Phú Thuận",36.48,Thuận An,thành phố Huế,54846,"164 Kinh Dương Vương, phường Thuận An",35852744
+20Dương Nỗ,phường,Không sáp nhập,20.63,Dương Nỗ,thành phố Huế,31692,"Tổ dân phố Mậu Tài, phường Dương Nỗ",20727849
+20Mỹ Thượng,phường,"Phường Phú Thượng, Xã Phú An, Xã Phú Mỹ",28.83,Mỹ Thượng,thành phố Huế,44736,"449 Phạm Văn Đồng, phường Mỹ Thượng",29168671
+20Phú Bài,phường,"Phường Phú Bài, Xã Thủy Phù, Xã Phú Sơn, Xã Dương Hòa",344.63,Phú Bài,thành phố Huế,38410,"1.297 Nguyễn Tất Thành, phường Phú Bài",345487167
+20Hương Thủy,phường,"Phường Thủy Lương, Phường Thủy Châu, Xã Thủy Tân",33.93,Hương Thủy,thành phố Huế,29192,"749 Nguyễn Tất Thành, phường Hương Thủy",34017560
+20Kim Trà,phường,"Phường Hương Xuân, Phường Hương Chữ, Xã Hương Toàn",42.8,Kim Trà,thành phố Huế,36296,"232 Lý Nhân Tông, phường Kim Trà",42827816
+20Hương Trà,phường,"Phường Tứ Hạ, Phường Hương Văn, Phường Hương Vân",83.28,Hương Trà,thành phố Huế,29979,"107 Cách mạng tháng 8, phường Hương Trà",83576015
+20Kim Long,phường,"Phường Long Hồ, Phường Hương Long, Phường Kim Long",90.14,Kim Long,thành phố Huế,48999,"87 Phạm Thị Liên, phường Kim Long",90506856
+20Phong Thái,phường,"Phường Phong An, Phường Phong Hiền, Xã Phong Sơn",187.02,Phong Thái,thành phố Huế,37406,"Tổ dân phố Bồ Điền, phường Phong Thái",187367389
+22Kon Tum,phường,"Phường Quang Trung, Phường Quyết Thắng, Phường Thắng Lợi, Phường Trường Chinh, Phường Thống Nhất",19.14,Kon Tum,tỉnh Quảng Ngãi,77456,Phường Thắng Lợi,19092894
+22Đăk Cấm,phường,"Phường Ngô Mây, Phường Duy Tân, Xã Đăk Cấm",66.33,Đăk Cấm,tỉnh Quảng Ngãi,29799,đang cập nhật,66686291
+20Phong Quảng,phường,"Phường Phong Hải, Xã Quảng Công, Xã Quảng Ngạn",41.7,Phong Quảng,thành phố Huế,25728,"Thôn 2, phường Phong Quảng",41867261
+22Trà Câu,phường,"Phường Phổ Văn, Phường Phổ Quang, Xã Phổ An, Xã Phổ Thuận",54.46,Trà Câu,tỉnh Quảng Ngãi,45524,UBND phường Phổ Văn,54346809
+22Cẩm Thành,phường,"Phường Nguyễn Nghiêm, Phường Trần Hưng Đạo (thành phố Quảng Ngãi), Phường Nghĩa Chánh, Phường Chánh Lộ",7.93,Cẩm Thành,tỉnh Quảng Ngãi,60996,Thành ủy Quảng Ngãi,8046018
+22Sa Huỳnh,phường,"Phường Phổ Thạnh, Xã Phổ Châu",49.95,Sa Huỳnh,tỉnh Quảng Ngãi,32396,UBND phường Phổ Thạnh,49938158
+11Tam Thanh,phường,"Phường Tam Thanh, Xã Hoàng Đồng",27.35,Tam Thanh,tỉnh Lạng Sơn,30301,"Trụ sở Đảng ủy, HĐND, UBND xã Hoàng Đồng",27411530
+11Kỳ Lừa,phường,"Phường Hoàng Văn Thụ, Thị trấn Cao Lộc, Xã Hợp Thành, Xã Tân Liên, Xã Gia Cát",0.0,Kỳ Lừa,tỉnh Lạng Sơn,đang cập nhật,"Trụ sở Đảng ủy, HĐND, UBND thị trấn Cao Lộc",62403900
+11Đông Kinh,phường,"Phường Vĩnh Trại, Phường Đông Kinh, Xã Yên Trạch, Xã Mai Pha",54.71,Đông Kinh,tỉnh Lạng Sơn,50436,"Trụ sở Đảng ủy, HĐND, UBND phường Vĩnh Trại",54898007
+11Lương Văn Tri,phường,"Phường Chi Lăng, Xã Quảng Lạc",31.76,Lương Văn Tri,tỉnh Lạng Sơn,23136,"Trụ sở Đảng ủy, HĐND, UBND phường Chi Lăng",32055824
+22Nghĩa Lộ,phường,"Phường Lê Hồng Phong, Phường Trần Phú, Phường Quảng Phú, Phường Nghĩa Lộ",17.07,Nghĩa Lộ,tỉnh Quảng Ngãi,73556,UBND phường Nghĩa Lộ,17049309
+22Trương Quang Trọng,phường,"Phường Trương Quang Trọng, Xã Tịnh Ấn Tây, Xã Tịnh Ấn Đông, Xã Tịnh An",34.65,Trương Quang Trọng,tỉnh Quảng Ngãi,49308,UBND phường Trương Quang Trọng,35190645
+22Đức Phổ,phường,"Phường Nguyễn Nghiêm (thị xã Đức Phổ), Phổ Hòa, Phổ Minh, Phổ Vinh, Phổ Ninh",69.33,Đức Phổ,tỉnh Quảng Ngãi,41358,UBND thị xã Đức Phổ,68847142
+3Uông Bí,phường,"Phường Quang Trung, Phường Thanh Sơn, Phường Yên Thanh, Phường Trưng Vương",49.81,Uông Bí,tỉnh Quảng Ninh,59866,"Trụ sở Thành ủy, HĐND, UBND thành phố Uông Bí",50051328
+3Yên Tử,phường,"Phường Phương Đông, Phường Phương Nam, Xã Thượng Yên Công",113.23,Yên Tử,tỉnh Quảng Ninh,38932,Trụ sở Ban Quản lý Di tích và Rừng quốc gia Yên Tử,113650685
+3Bình Khê,phường,"Phường Tràng An, Phường Bình Khê, Xã Tràng Lương",138.74,Bình Khê,tỉnh Quảng Ninh,21845,"Trụ sở Đảng ủy, HĐND, UBND phường Bình Khê",139182366
+3Hoàng Quế,phường,"Phường Yên Đức, Phường Hoàng Quế, Xã Hồng Thái Tây, Xã Hồng Thái Đông",63.83,Hoàng Quế,tỉnh Quảng Ninh,31988,"Trụ sở Đảng ủy, HĐND, UBND phường Hoàng Quế",64115024
+3Việt Hưng,phường,"Phường Giếng Đáy, Phường Việt Hưng, Phường Hà Khẩu",41.39,Việt Hưng,tỉnh Quảng Ninh,51787,"Trụ sở Đảng ủy, HĐND, UBND phường Giếng Đáy",42178983
+3Hà An,phường,"Phường Tân An, Phường Hà An, Xã Hoàng Tân, Xã Liên Hòa",100.18,Hà An,tỉnh Quảng Ninh,21314,"Trụ sở Đảng ủy, HĐND, UBND phường Hà An",66725329
+3Hoành Bồ,phường,"Phường Hoành Bồ, Xã Sơn Dương, Xã Lê Lợi, Xã Đồng Lâm",276.12,Hoành Bồ,tỉnh Quảng Ninh,17310,"Trụ sở Đảng ủy, HĐND, UBND phường Hoành Bồ",178089767
+3Vàng Danh,phường,"Phường Bắc Sơn, Phường Nam Khê, Phường Vàng Danh, Phường Trưng Vương",93.77,Vàng Danh,tỉnh Quảng Ninh,38864,"Trụ sở Đảng ủy, HĐND, UBND phường Trưng Vương",94035270
+3Bãi Cháy,phường,"Phường Hùng Thắng, Phường Bãi Cháy",25.39,Bãi Cháy,tỉnh Quảng Ninh,42018,"Trụ sở Đảng ủy, HĐND, UBND phường Bãi Cháy",29463718
+3Hà Lầm,phường,"Phường Cao Thắng, Phường Hà Trung, Phường Hà Lầm",11.99,Hà Lầm,tỉnh Quảng Ninh,47474,"Trụ sở Đảng ủy, HĐND, UBND phường Cao Thắng",12033104
+3Quang Hanh,phường,"Phường Cẩm Thạch, Phường Cẩm Thủy, Phường Quang Hanh",63.63,Quang Hanh,tỉnh Quảng Ninh,52750,"Trụ sở Đảng ủy, HĐND, UBND phường Quang Hanh",61751933
+3Mông Dương,phường,"Phường Mông Dương, Xã Dương Huy",167.16,Mông Dương,tỉnh Quảng Ninh,18953,"Trụ sở Đảng ủy, HĐND, UBND phường Mông Dương",167707957
+3Cẩm Phả,phường,"Phường Cẩm Trung, Phường Cẩm Thành, Phường Cẩm Bình, Phường Cẩm Tây, Phường Cẩm Đông",17.52,Cẩm Phả,tỉnh Quảng Ninh,61506,"Thành ủy, HĐND, UBND thành phố Cẩm Phả",21258216
+3Cửa Ông,phường,"Phường Cẩm Phú, Phường Cẩm Thịnh, Phường Cẩm Sơn, Phường Cửa Ông",41.07,Cửa Ông,tỉnh Quảng Ninh,66504,"Trụ sở Đảng ủy, HĐND, UBND phường Cẩm Sơn",40962475
+3Phong Cốc,phường,"Phường Nam Hòa, Phường Yên Hải, Phường Phong Cốc, Xã Cẩm La",42.17,Phong Cốc,tỉnh Quảng Ninh,27356,"Trụ sở Đảng ủy, HĐND, UBND phường Phong Cốc",47206741
+3Hiệp Hòa,phường,"Phường Cộng Hòa, Xã Sông Khoai, Xã Hiệp Hòa",35.83,Hiệp Hòa,tỉnh Quảng Ninh,33381,"Trụ sở Đảng ủy, HĐND, UBND phường Hiệp Hòa",35990711
+3Đông Mai,phường,"Phường Minh Thành, Phường Đông Mai",50.61,Đông Mai,tỉnh Quảng Ninh,21649,"Trụ sở Đảng ủy, HĐND, UBND phường Đông Mai",50625002
+3Cao Xanh,phường,"Phường Hà Khánh, Phường Cao Xanh",38.89,Cao Xanh,tỉnh Quảng Ninh,32809,"Trụ sở Đảng ủy, HĐND, UBND phường Cao Xanh",38924917
+3Liên Hòa,phường,"Phường Phong Hải, Xã Liên Vị, Xã Tiền Phong, Xã Liên Hòa",71.44,Liên Hòa,tỉnh Quảng Ninh,32847,"Trụ sở Đảng ủy, HĐND, UBND xã Liên Hòa",61491456
+3Quảng Yên,phường,"Phường Yên Giang, Phường Quảng Yên, Xã Tiền An",20.69,Quảng Yên,tỉnh Quảng Ninh,31353,"Trụ sở Đảng ủy, HĐND, UBND thị xã Quảng Yên",20648519
+3Móng Cái 3,phường,"Phường Hải Yên, Xã Hải Đông",90.03,Móng Cái 3,tỉnh Quảng Ninh,22565,"Trụ sở Đảng ủy, HĐND, UBND phường Hải Yên",78021629
+3Móng Cái 2,phường,"Phường Ninh Dương, Phường Ka Long, Xã Vạn Ninh",72.97,Móng Cái 2,tỉnh Quảng Ninh,29189,"Trụ sở Đảng ủy, HĐND, UBND phường Ka Long",42150482
+3An Sinh,phường,"Phường Bình Dương, Xã An Sinh, Xã Việt Dân, Phường Đức Chính",106.42,An Sinh,tỉnh Quảng Ninh,24956,"Trụ sở Đảng ủy, HĐND, UBND phường Bình Dương",107724976
+3Đông Triều,phường,"Phường Thủy An, Phường Hưng Đạo, Phường Hồng Phong, Xã Nguyễn Huệ, Phường Đức Chính",40.42,Đông Triều,tỉnh Quảng Ninh,43712,"Trụ sở Thành ủy, HĐND, UBND thành phố Đông Triều",39606550
+3Mạo Khê,phường,"Phường Xuân Sơn, Phường Kim Sơn, Phường Yên Thọ, Phường Mạo Khê",46.55,Mạo Khê,tỉnh Quảng Ninh,72012,"Trụ sở Đảng ủy, HĐND, UBND phường Mạo Khê",47090307
+3Tuần Châu,phường,"Phường Đại Yên, Phường Tuần Châu, Phường Hà Khẩu",62.08,Tuần Châu,tỉnh Quảng Ninh,14904,"Trụ sở Đảng ủy, HĐND, UBND phường Đại Yên",62098054
+3Móng Cái 1,phường,"Phường Trần Phú, Phường Hải Hòa, Phường Bình Ngọc, Phường Trà Cổ, Xã Hải Xuân",82.47,Móng Cái 1,tỉnh Quảng Ninh,46588,"Trụ sở Thành ủy, HĐND, UBND thành phố Móng Cái",65894662
+21Ngũ Hành Sơn,phường,"Phường Mỹ An, Phường Khuê Mỹ, Phường Hòa Hải, Phường Hòa Quý",40.19,Ngũ Hành Sơn,thành phố Đà Nẵng,115944,"Số 486 đường Lê Văn Hiến, phường Ngũ Hành Sơn",39672400
+21Cẩm Lệ,phường,"Phường Hòa Thọ Tây, Phường Hòa Thọ Đông, Phường Khuê Trung",14.05,Cẩm Lệ,thành phố Đà Nẵng,78837,"Số 135 đường Ông Ích Đường, phường Cẩm Lệ",13851115
+21Hòa Xuân,phường,"Phường Hòa Xuân, Xã Hòa Châu, Xã Hòa Phước",27.96,Hòa Xuân,thành phố Đà Nẵng,85580,"Số 111 đường Hoàng Ngân, phường Hòa Xuân",27916620
+21Bàn Thạch,phường,"Phường Tân Thạnh, Phường Hòa Thuận, Xã Tam Thăng",34.77,Bàn Thạch,thành phố Đà Nẵng,36800,"Số 268 đường Trưng Nữ Vương, phường Bàn Thạch",34544356
+21Quảng Phú,phường,"Phường An Phú, Xã Tam Thanh, Xã Tam Phú",36.21,Quảng Phú,thành phố Đà Nẵng,29401,"Khối phố Phú Thạnh, Phường Quảng Phú",36380021
+21Hòa Cường,phường,"Phường Bình Thuận, Phường Hòa Thuận Tây, Phường Hòa Cường Bắc, Phường Hòa Cường Nam",15.72,Hòa Cường,thành phố Đà Nẵng,119363,"Số 338 đường Núi Thành, phường Hòa Cường",15567847
+21An Khê,phường,"Phường Hòa An, Phường Hòa Phát, Phường An Khê",12.36,An Khê,thành phố Đà Nẵng,93625,"Số 916 đường Tôn Đản, phường An Khê",12615949
+21Hòa Khánh,phường,"Phường Hòa Khánh Nam, Phường Hòa Minh, Xã Hòa Sơn",40.93,Hòa Khánh,thành phố Đà Nẵng,112518,"Số 168 đường Nguyễn Sinh Sắc, phường Hòa Khánh",42223146
+21Thanh Khê,phường,"Phường Xuân Hà, Phường Chính Gián, Phường Thạc Gián, Phường Thanh Khê Tây, Phường Thanh Khê Đông",7.92,Thanh Khê,thành phố Đà Nẵng,201240,"Số 503 đường Trần Cao Vân, phường Thanh Khê",6946182
+21Hải Châu,phường,"Phường Thanh Bình, Phường Thuận Phước, Phường Thạch Thang, Phường Phước Ninh, Phường Hải Châu",7.58,Hải Châu,thành phố Đà Nẵng,131427,"Số 15 đường Lê Hồng Phong, phường Hải Châu",6734665
+21An Hải,phường,"Phường Phước Mỹ, Phường An Hải Bắc, Phường An Hải Nam",7.37,An Hải,thành phố Đà Nẵng,82635,"Số 289 đường Nguyễn Công Trứ, phường An Hải",7340500
+21Sơn Trà,phường,"Phường Thọ Quang, Phường Nại Hiên Đông, Phường Mân Thái",56.03,Sơn Trà,thành phố Đà Nẵng,86890,"Số 06 đường Nguyễn Phan Vinh, phường Sơn Trà",55166699
+21Liên Chiểu,phường,"Phường Hòa Khánh Bắc, Xã Hòa Liên (phần còn lại sau khi sáp nhập vào phường Hải Vân)",41.19,Liên Chiểu,thành phố Đà Nẵng,70628,"Số 68 đường Lạc Long Quân, phường Liên Chiểu",49380274
+21Hải Vân,phường,"Phường Hòa Hiệp Bắc, Phường Hòa Hiệp Nam, Xã Hòa Bắc, Xã Hòa Liên",406.09,Hải Vân,thành phố Đà Nẵng,48992,"Lô 1-2 đường Nguyễn Tất Thành, phường Hải Vân",390810184
+21Hội An,phường,"Phường Minh An, Phường Cẩm Phô, Phường Sơn Phong, Phường Cẩm Nam, Xã Cẩm Kim",10.81,Hội An,thành phố Đà Nẵng,37222,"Số 09 đường Trần Hưng Đạo, phường Hội An",11062220
+21An Thắng,phường,"Phường Điện An, Phường Điện Thắng Nam, Phường Điện Thắng Trung",19.64,An Thắng,thành phố Đà Nẵng,34176,"Khối phố Phong Nhị, phường An Thắng",19732728
+21Hội An Tây,phường,"Phường Thanh Hà, Phường Tân An, Phường Cẩm An, Xã Cẩm Hà",18.09,Hội An Tây,thành phố Đà Nẵng,42370,"Số 54 đường Nguyễn Công Trứ, phường Hội An Tây",17836700
+21Điện Bàn Bắc,phường,"Phường Điện Thắng Bắc, Xã Điện Hòa, Xã Điện Tiến",33.39,Điện Bàn Bắc,thành phố Đà Nẵng,30780,"Thôn Xóm Bùng, phường Điện Bàn Bắc",36180838
+21Hội An Đông,phường,"Phường Cẩm Châu, Phường Cửa Đại, Xã Cẩm Thanh",18.22,Hội An Đông,thành phố Đà Nẵng,31109,"Số 456 đường Cửa Đại, phường Hội An Đông,",17740814
+21Điện Bàn,phường,"Phường Điện Phương, Phường Điện Minh, Phường Vĩnh Điện",19.78,Điện Bàn,thành phố Đà Nẵng,41270,"Số 22 đường Hoàng Diệu, khối 3, phường Điện Bàn",19623241
+21Điện Bàn Đông,phường,"Phường Điện Nam Đông, Phường Điện Nam Trung, Phường Điện Dương, Phường Điện Ngọc, Phường Điện Nam Bắc",61.02,Điện Bàn Đông,thành phố Đà Nẵng,72273,"Số 845 đường Trần Thủ Độ, Khối phố Quảng Lăng B",62122839
+21Tam Kỳ,phường,"Phường An Mỹ, Phường An Xuân, Phường Trường Xuân",8.36,Tam Kỳ,thành phố Đà Nẵng,44075,"Số 70 đường Hùng Vương, phường Tam Kỳ",8318006
+21Hương Trà,phường,"Phường An Sơn, Phường Hòa Hương, Xã Tam Ngọc",14.64,Hương Trà,thành phố Đà Nẵng,33523,"Số 510 đường Hùng Vương, phường Hương Trà",14666460
+18Hà Huy Tập,phường,"Xã Tân Lâm Hương, Xã Thạch Đài, Phường Đại Nài",32.62,Hà Huy Tập,tỉnh Hà Tĩnh,28742,UBND xã Tân Lâm Hương,31507809
+18Nam Hồng Lĩnh,phường,"Phường Nam Hồng, Phường Đậu Liêu, Xã Thuận Lộc",52.21,Nam Hồng Lĩnh,tỉnh Hà Tĩnh,26133,UBND phường Nam Hồng,36700102
+18Bắc Hồng Lĩnh,phường,"Phường Bắc Hồng, Phường Đức Thuận, Phường Trung Lương, Xã Xuân Lam",35.31,Bắc Hồng Lĩnh,tỉnh Hà Tĩnh,28729,Thị ủy Hồng Lĩnh,34723561
+18Sông Trí,phường,"Phường Hưng Trí, Phường Kỳ Trinh, Xã Kỳ Châu, Xã Kỳ Lợi",69.9,Sông Trí,tỉnh Hà Tĩnh,37314,UBND phường Sông Trí,71106205
+18Vũng Áng,phường,"Phường Kỳ Long, Phường Kỳ Thịnh, Xã Kỳ Lợi",82.98,Vũng Áng,tỉnh Hà Tĩnh,21339,UBND phường Kỳ Thịnh,82547263
+18Hoành Sơn,phường,"Phường Kỳ Nam, Phường Kỳ Phương, Phường Kỳ Liên, Xã Kỳ Lợi",70.48,Hoành Sơn,tỉnh Hà Tĩnh,21004,UBND phường Kỳ Phương,67907495
+18Hải Ninh,phường,"Phường Kỳ Ninh, Xã Kỳ Hà, Xã Kỳ Hải",39.37,Hải Ninh,tỉnh Hà Tĩnh,20399,UBND phường Kỳ Ninh,37613794
+18Trần Phú,phường,"Phường Thạch Trung, Phường Đồng Môn, Phường Thạch Hạ, Xã Hộ Độ",29.5,Trần Phú,tỉnh Hà Tĩnh,38404,UBND xã Thạch Hạ,29788606
+18Thành Sen,phường,"Phường Bắc Hà, Phường Thạch Quý, Phường Tân Giang, Phường Thạch Hưng, Phường Nam Hà, Phường Trần Phú, Phường Hà Huy Tập, Phường Văn Yên, Phường Đại Nài",28.23,Thành Sen,tỉnh Hà Tĩnh,90983,UBND thành phố Hà Tĩnh,29866873
+14Tân Phong,phường,"Phường Tân Phong, Phường Đông Phong, Xã San Thàng, Xã Nùng Nàng, Xã Bản Giang",106.77,Tân Phong,tỉnh Lai Châu,36456,"Phố Trần Đại nghĩa, Tổ 26, Phường Tân Phong, tỉnh Lai Châu",108320074
+14Đoàn Kết,phường,"Phường Đoàn Kết, Phường Quyết Tiến, Phường Quyết Thắng, Xã Lản Nhì Thàng, Xã Sùng Phài",134.31,Đoàn Kết,tỉnh Lai Châu,25403,"Số 68, Đường Võ Giáp, Phường Đoàn Kết",136261256
+2Chũ,phường,"Phường Thanh Hải, Phường Hồng Giang, Phường Trù Hựu, Phường Chũ",57.18,Chũ,tỉnh Bắc Ninh,58409,"Trụ sở Đảng ủy, HĐND, UBND phường Chũ (cũ)",69272846
+2Phượng Sơn,phường,"Phường Phượng Sơn, Xã Quý Sơn, Xã Mỹ An",78.74,Phượng Sơn,tỉnh Bắc Ninh,41342,"Trụ sở Đảng ủy, HĐND, UBND phường Phượng Sơn (cũ)",79231678
+2Vũ Ninh,phường,"Phường Kim Chân, Phường Đáp Cầu, Phường Thị Cầu, Phường Vũ Ninh",13.43,Vũ Ninh,tỉnh Bắc Ninh,45480,"Trụ sở Đảng ủy, HĐND, UBND phường Thị Cầu (cũ)",13372416
+2Kinh Bắc,phường,"Phường Suối Hoa, Phường Tiền Ninh Vệ, Phường Vạn An, Phường Hòa Long, Phường Khúc Xuyên, Phường Kinh Bắc",19.95,Kinh Bắc,tỉnh Bắc Ninh,84275,Trụ sở Thành ủy và UBND TP Bắc Ninh. (cũ),19938013
+2Võ Cường,phường,"Phường Đại Phúc, Phường Phong Khê, Phường Võ Cường",18.08,Võ Cường,tỉnh Bắc Ninh,67255,"Trụ sở Đảng ủy, HĐND, UBND phường Võ Cường (cũ)",18183780
+2Bắc Giang,phường,"Phường Thọ Xương, Phường Ngô Quyền, Phường Xương Giang, Phường Hoàng Văn Thụ, Phường Trần Phú, Phường Dĩnh Kế, Phường Dĩnh Trì",23.23,Bắc Giang,tỉnh Bắc Ninh,122838,"Trụ sở Đảng ủy, HĐND, UBND phường Hoàng Văn Thụ (cũ)",23377145
+2Đa Mai,phường,"Phường Tân Mỹ, Phường Mỹ Độ, Phường Song Mai, Phường Đa Mai, Xã Quế Nham",33.1,Đa Mai,tỉnh Bắc Ninh,51733,"Trụ sở Đảng ủy, HĐND, UBND phường Đa Mai (cũ)",33214414
+2Tiền Phong,phường,"Phường Nội Hoàng, Phường Song Khê, Phường Đồng Sơn, Phường Tiền Phong",30.7,Tiền Phong,tỉnh Bắc Ninh,36335,"Trụ sở Đảng ủy, HĐND, UBND phường Đồng Sơn (cũ)",30864338
+2Yên Dũng,phường,"Phường Tân Liễu, Phường Nham Biền, Xã Yên Lư",52.42,Yên Dũng,tỉnh Bắc Ninh,44149,"Trụ sở Đảng ủy, HĐND, UBND phường Nham Biền (cũ)",52804998
+2Tân An,phường,"Phường Tân An, Xã Quỳnh Sơn, Xã Trí Yên, Xã Lãng Sơn",42.87,Tân An,tỉnh Bắc Ninh,37816,"Trụ sở Đảng ủy, HĐND, UBND phường Tâm An (cũ)",43073634
+2Tân Tiến,phường,"Phường Hương Gián, Phường Tân Tiến, Xã Xuân Phú",25.46,Tân Tiến,tỉnh Bắc Ninh,34321,"Trụ sở Đảng ủy, HĐND, UBND phường Tân Tiến (cũ)",25679474
+2Cảnh Thụy,phường,"Phường Cảnh Thụy, Xã Tiến Dũng, Xã Tư Mại",27.73,Cảnh Thụy,tỉnh Bắc Ninh,26928,"Trụ sở Đảng ủy, HĐND, UBND phường Canh Thụy (cũ)",27785793
+2Vân Hà,phường,"Phường Ninh Sơn, Phường Quảng Minh, Xã Tiên Sơn, Xã Trung Sơn, Xã Vân Hà",43.17,Vân Hà,tỉnh Bắc Ninh,58177,"Trụ sở Đảng ủy, HĐND, UBND phường Ninh Sơn (cũ)",43637905
+2Nếnh,phường,"Phường Quang Châu, Phường Vân Trung, Phường Tăng Tiến, Phường Nếnh",35.98,Nếnh,tỉnh Bắc Ninh,55559,"Trụ sở Đảng ủy, HĐND, UBND phường Nếnh (cũ)",36551820
+2Quế Võ,phường,"Phường Phố Mới, Phường Bằng An, Phường Việt Hùng, Phường Quế Tân",23.51,Quế Võ,tỉnh Bắc Ninh,40194,Trụ sở Thị ủy và UBND thị xã Quế Võ (cũ),23517287
+2Nhân Hòa,phường,"Phường Đại Xuân, Phường Nhân Hòa, Xã Việt Thống",20.3,Nhân Hòa,tỉnh Bắc Ninh,30909,"Trụ sở Đảng ủy, HĐND, UBND phường Đại Xuân (cũ)",20152108
+2Phương Liễu,phường,"Phường Phượng Mao, Phường Phương Liễu",13.37,Phương Liễu,tỉnh Bắc Ninh,42255,"Trụ sở Đảng ủy, HĐND, UBND phường Phương Liễu (cũ)",13427735
+2Đào Viên,phường,"Phường Phù Lương, Xã Ngọc Xá, Xã Đào Viên",26.63,Đào Viên,tỉnh Bắc Ninh,34724,"Trụ sở Đảng ủy, HĐND, UBND phường Đào Viên (cũ)",27018785
+2Tự Lạn,phường,"Phường Tự Lạn, Xã Việt Tiến, Xã Thượng Lan, Xã Hương Mai",39.89,Tự Lạn,tỉnh Bắc Ninh,45470,"Trụ sở Đảng ủy, HĐND, UBND phường Tự Lạn (cũ)",40484445
+2Việt Yên,phường,"Phường Bích Động, Phường Hồng Thái, Xã Minh Đức, Xã Nghĩa Trung",51.97,Việt Yên,tỉnh Bắc Ninh,59470,"Trụ sở Đảng ủy, HĐND, UBND phường Bích Động (cũ)",51498750
+2Bồng Lai,phường,"Phường Cách Bi, Phường Bồng Lai, Xã Mộ Đạo",19.76,Bồng Lai,tỉnh Bắc Ninh,25375,"Trụ sở Đảng ủy, HĐND, UBND phường Bồng Lai (cũ)",19902622
+2Từ Sơn,phường,"Phường Đông Ngàn, Phường Tân Hồng, Phường Phù Chẩn, Phường Đình Bảng",20.31,Từ Sơn,tỉnh Bắc Ninh,65697,Trụ sở Thành ủy và UBND TP Từ Sơn (cũ),20382646
+2Thuận Thành,phường,"Phường Hồ, Phường Song Hồ, Phường Gia Đông, Xã Đại Đồng Thành",26.58,Thuận Thành,tỉnh Bắc Ninh,52318,Trụ sở Thị ủy và UBND thị xã Thuận Thành (cũ),26410173
+2Mão Điền,phường,"Phường An Bình, Xã Hoài Thượng, Xã Mão Điền",19.5,Mão Điền,tỉnh Bắc Ninh,42785,"Trụ sở Đảng ủy, HĐND, UBND xã Mão Điền (cũ)",19647199
+2Trí Quả,phường,"Phường Thanh Khương, Phường Trí Quả, Xã Đình Tổ",19.95,Trí Quả,tỉnh Bắc Ninh,34574,"Trụ sở Đảng ủy, HĐND, UBND phường Thanh Khương (cũ)",20129978
+2Trạm Lộ,phường,"Phường Trạm Lộ, Xã Nghĩa Đạo",18.24,Trạm Lộ,tỉnh Bắc Ninh,21132,"Trụ sở Đảng ủy, HĐND, UBND phường Trạm (cũ)",18298238
+2Tam Sơn,phường,"Phường Tương Giang, Phường Tam Sơn",14.11,Tam Sơn,tỉnh Bắc Ninh,28562,"Trụ sở Đảng ủy, HĐND, UBND phường Tam Sơn  (cũ)",14250604
+2Phù Khê,phường,"Phường Châu Khê, Phường Hương Mạc, Phường Phù Khê",14.03,Phù Khê,tỉnh Bắc Ninh,50574,"Trụ sở Đảng ủy, HĐND, UBND phường Phù Khê (cũ)",14115515
+2Đồng Nguyên,phường,"Phường Trang Hạ, Phường Đồng Kỵ, Phường Đồng Nguyên",12.64,Đồng Nguyên,tỉnh Bắc Ninh,46023,"Trụ sở Đảng ủy, HĐND, UBND phường Đồng Nguyên (cũ)",12583857
+2Ninh Xá,phường,"Phường Ninh Xá, Xã Nguyệt Đức",15.81,Ninh Xá,tỉnh Bắc Ninh,22369,"Trụ sở Đảng ủy, HĐND, UBND phường Ninh Xá (cũ)",15861727
+2Song Liễu,phường,"Phường Xuân Lâm, Phường Hà Mãn, Xã Ngũ Thái, Xã Song Liễu",17.75,Song Liễu,tỉnh Bắc Ninh,31758,"Trụ sở Đảng ủy, HĐND, UBND phường Xuân Lâm (cũ)",17850142
+2Nam Sơn,phường,"Phường Vân Dương, Phường Nam Sơn",18.53,Nam Sơn,tỉnh Bắc Ninh,43511,"Trụ sở Đảng ủy, HĐND, UBND phường Nam Sơn (cũ)",18549249
+2Hạp Lĩnh,phường,"Phường Khắc Niệm, Phường Hạp Lĩnh",12.65,Hạp Lĩnh,tỉnh Bắc Ninh,22630,"Trụ sở Đảng ủy, HĐND, UBND phường Hạp Lĩnh (cũ)",12730895
+29Vũng Tàu,phường,"Phường 1, Phường 2, Phường 3, Phường 4, Phường 5 (thành phố Vũng Tàu), Phường Thắng Nhì, Phường Thắng Tam",16.86,Vũng Tàu,thành phố Hồ Chí Minh,117400,"87-89 Lý Thường Kiệt, phường 1, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",14890524
+29Tam Thắng,phường,"Phường 7, Phường 8, Phường 9 (thành phố Vũng Tàu), Phường Nguyễn An Ninh",11.76,Tam Thắng,thành phố Hồ Chí Minh,86420,"603 Nguyễn An Ninh, phường Nguyễn An Ninh, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",11482825
+29Rạch Dừa,phường,"Phường 10 (thành phố Vũng Tàu), Phường Thắng Nhất, Phường Rạch Dừa",19.7,Rạch Dừa,thành phố Hồ Chí Minh,76280,"219/28 Lưu Chí Hiếu, phường 10, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",12080987
+29Phước Thắng,phường,"Phường 11, Phường 12 (thành phố Vũng Tàu)",47.35,Phước Thắng,thành phố Hồ Chí Minh,52580,"7A Nguyễn Gia Thiều, phường 12, TP Vũng Tàu, tỉnh Bà Rịa - Vũng Tàu cũ",46589059
+29Bà Rịa,phường,"Phường Phước Trung, Phường Phước Nguyên, Phường Long Toàn, Phường Phước Hưng",15.55,Bà Rịa,thành phố Hồ Chí Minh,52260,"137 đường 27/4 phường Phước Trung, thành phố Bà Rịa, tỉnh Bà Rịa-Vũng Tàu cũ",15620151
+29Tam Long,phường,"Phường Long Tâm, Xã Hòa Long, Xã Long Phước",34.7,Tam Long,thành phố Hồ Chí Minh,41130,"Xã Hòa Long, thành phố Bà Rịa, tỉnh Bà Rịa - Vũng Tàu cũ",34801590
+29Long Hương,phường,"Xã Tân Hưng (thành phố Bà Rịa), Phường Kim Dinh, Phường Long Hương",41.22,Long Hương,thành phố Hồ Chí Minh,31450,"Đường Trịnh Đình Thảo, tổ 9, khu phố Kim Sơn, phường Kim Dinh, TP Bà Rịa, tỉnh Bà Rịa - Vũng Tàu cũ",40816388
+29Phú Mỹ,phường,"Phường Phú Mỹ (thành phố Phú Mỹ), Phường Mỹ Xuân",65.56,Phú Mỹ,thành phố Hồ Chí Minh,40513,"Quốc lộ 51, phường Phú Mỹ - TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",70918404
+29Tân Hải,phường,"Phường Tân Hòa, Phường Tân Hải",51.86,Tân Hải,thành phố Hồ Chí Minh,30297,"Phường Tân Hải, TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",52132826
+29Tân Phước,phường,"Phường Phước Hòa, Phường Tân Phước",83.62,Tân Phước,thành phố Hồ Chí Minh,29363,"Đường Độc Lập, khu phố Tân Lộc, phường Phước Hòa, thị xã Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",82118363
+29Tân Thành,phường,"Phường Hắc Dịch, Xã Sông Xoài",61.63,Tân Thành,thành phố Hồ Chí Minh,33943,"Phường Hắc Dịch, TP Phú Mỹ, tỉnh Bà Rịa - Vũng Tàu cũ",62017934
+13Mường Thanh,phường,"Phường Noong Bua, Phường Nam Thanh, Xã Thanh Xương",27.56,Mường Thanh,tỉnh Điện Biên,25517,"Trụ sở Huyện ủy, HĐND và UBND huyện Điện Biên",28039675
+13Điện Biên Phủ,phường,"Phường Him Lam, Phường Tân Thanh, Phường Mường Thanh, Phường Thanh Bình, Phường Thanh Trường, Xã Thanh Minh",56.75,Điện Biên Phủ,tỉnh Điện Biên,49205,"Trụ sở Thành ủy, HĐND và UBND TP Điện Biên Phủ",57876341
+13Mường Lay,phường,"Phường Sông Đà, Phường Na Lay, Xã Lay Nưa, Xã Sá Tổng",222.65,Mường Lay,tỉnh Điện Biên,18208,"Trụ sở Thị ủy, HĐND và UBND thị xã Mường Lay",225948137
+28Bình Phước,phường,"Phường Tân Phú, Phường Tân Đồng, Phường Tân Thiện, Phường Tân Bình, Phường Tân Xuân, Xã Tiến Hưng",86.4,Bình Phước,tỉnh Đồng Nai,11144,"Đường Cách Mạng Tháng Tám, phường Bình Phước.",86816987
+28Đồng Xoài,phường,"Phường Tiến Thành, Xã Tân Thành (thành phố Đồng Xoài)",81.3,Đồng Xoài,tỉnh Đồng Nai,35887,"Quốc lộ 14, phường Đồng Xoài.",81742255
+28Phước Long,phường,"Phường Long Thủy, Phường Thác Mơ, Phường Sơn Giang, Xã Phước Tín",71.88,Phước Long,tỉnh Đồng Nai,đang cập nhật,"Đường Lý Thái Tổ, phường Phước Long.",72133359
+28Phước Bình,phường,"Phường Long Phước, Phường Phước Bình, Xã Bình Sơn (huyện Phú Riềng), Xã Long Giang",72.6,Phước Bình,tỉnh Đồng Nai,44771,"Tòa nhà B3, Trung tâm hành chính phường Phước Bình.",72928131
+28Bình Long,phường,"Phường An Lộc, Phường Hưng Chiến, Phường Phú Đức, Xã Thanh Bình (huyện Hớn Quản)",49.1,Bình Long,tỉnh Đồng Nai,41048,"Đường Lê Quý Đôn, phường Bình Long.",49453073
+28An Lộc,phường,"Phường Phú Thịnh, Xã Thanh Phú, Xã Thanh Lương",88.7,An Lộc,tỉnh Đồng Nai,35531,"Ấp Vườn Rau, phường Bình Long.",89149887
+28Chơn Thành,phường,"Phường Hưng Long, Phường Thành Tâm, Phường Minh Thành",124.4,Chơn Thành,tỉnh Đồng Nai,415,"Đường Hồ Văn Huê, khu phố Trung Lợi, phường Chơn Thành.",125028032
+28Minh Hưng,phường,"Phường Minh Long, Phường Minh Hưng",99.7,Minh Hưng,tỉnh Đồng Nai,34123,"Quốc lộ 13, khu phố 3B, phường Minh Hưng.",100138297
+8Minh Xuân,phường,"Phường Ỷ La, Phường Tân Hà, Phường Phan Thiết, Phường Minh Xuân, Phường Tân Quang, Xã Kim Phú",34.9,Minh Xuân,tỉnh Tuyên Quang,72,đang cập nhật,44116220
+8Nông Tiến,phường,"Phường Nông Tiến, Xã Tràng Đà, Xã Thái Bình",26.99,Nông Tiến,tỉnh Tuyên Quang,15393,đang cập nhật,25931314
+8Mỹ Lâm,phường,"Phường Mỹ Lâm, Xã Mỹ Bằng, Xã Kim Phú",80.2,Mỹ Lâm,tỉnh Tuyên Quang,31446,đang cập nhật,72007180
+8An Tường,phường,"Phường Hưng Thành, Phường An Tường, Xã Lưỡng Vượng, Xã An Khang, Xã Hoàng Khai",53.44,An Tường,tỉnh Tuyên Quang,42952,đang cập nhật,54344317
+8Bình Thuận,phường,"Phường Đội Cấn, Xã Thái Long",45.16,Bình Thuận,tỉnh Tuyên Quang,47858,đang cập nhật,46971991
+8Hà Giang 2,phường,"Phường Ngọc Hà, Phường Trần Phú, Phường Minh Khai, Phường Quang Trung, Xã Phong Quang",60.62,Hà Giang 2,tỉnh Tuyên Quang,331,đang cập nhật,62254754
+8Hà Giang 1,phường,"Phường Nguyễn Trãi, Xã Phương Thiện, Xã Phương Độ, Phường Quang Trung",82.69,Hà Giang 1,tỉnh Tuyên Quang,21652,đang cập nhật,82475954
+30Phú Khương,phường,"Phường 8 (thành phố Bến Tre), Phường Phú Khương, Xã Phú Hưng, Xã Nhơn Thạnh",24.97,Phú Khương,tỉnh Vĩnh Long,47059,UBND phường Phú Khương,25123059
+30Phú Tân,phường,"Phường Phú Tân, Xã Hữu Định, Xã Phước Thạnh",26.58,Phú Tân,tỉnh Vĩnh Long,28568,UBND xã Hữu Định,26761563
+30An Hội,phường,"Phường An Hội, Xã Mỹ Thạnh An, Xã Phú Nhuận, Xã Sơn Phú",31.9,An Hội,tỉnh Vĩnh Long,53476,UBND TP Bến Tre,31924797
+30Sơn Đông,phường,"Phường 6, Xã Sơn Đông, Xã Tam Phước",23.48,Sơn Đông,tỉnh Vĩnh Long,34188,UBND xã Sơn Đông,23623923
+30Bến Tre,phường,"Phường 7, Xã Bình Phú (thành phố Bến Tre), Xã Thanh Tân",31.99,Bến Tre,tỉnh Vĩnh Long,35917,UBND xã Bình Phú,32175602
+30Trà Vinh,phường,"Phường 1, Phường 3, Phường 9 (thành phố Trà Vinh)",15.73,Trà Vinh,tỉnh Vĩnh Long,45397,đang cập nhật,15770334
+30Long Đức,phường,"Phường 4 (thành phố Trà Vinh), Xã Long Đức",40.62,Long Đức,tỉnh Vĩnh Long,33662,đang cập nhật,39873864
+30Hoà Thuận,phường,"Phường 5 (thành phố Trà Vinh), Xã Hòa Thuận",16.51,Hoà Thuận,tỉnh Vĩnh Long,25384,đang cập nhật,16445493
+30Nguyệt Hoá,phường,"Phường 7, Phường 8 (thành phố Trà Vinh), Xã Nguyệt Hóa",21.14,Nguyệt Hoá,tỉnh Vĩnh Long,37066,đang cập nhật,21255890
+30Trường Long Hoà,phường,"Phường 2 (thị xã Duyên Hải), Xã Trường Long Hòa",56.49,Trường Long Hoà,tỉnh Vĩnh Long,1615,đang cập nhật,48718117
+30Long Châu,phường,"Phường 1, Phường 9 (thành phố Vĩnh Long), Phường Trường An",12.63,Long Châu,tỉnh Vĩnh Long,4948,UBND phường 1,12876150
+30Tân Ngãi,phường,"Phường Tân Hòa, Phường Tân Hội, Phường Tân Ngãi",21.7,Tân Ngãi,tỉnh Vĩnh Long,31294,UBND phường Tân Hòa,21755804
+30Thanh Đức,phường,"Phường 5 (thành phố Vĩnh Long), Xã Thanh Đức",16.49,Thanh Đức,tỉnh Vĩnh Long,35158,đang cập nhật,16948372
+30Tân Hạnh,phường,"Phường 8 (thành phố Vĩnh Long), Xã Tân Hạnh",17.84,Tân Hạnh,tỉnh Vĩnh Long,32093,đang cập nhật,17963615
+30Phước Hậu,phường,"Phường 3, Phường 4 (thành phố Vĩnh Long), Xã Phước Hậu",15.52,Phước Hậu,tỉnh Vĩnh Long,50839,UBND phường 3,15623069
+30Duyên Hải,phường,"Phường 1 (thị xã Duyên Hải), Xã Long Toàn, Xã Dân Thành",69.63,Duyên Hải,tỉnh Vĩnh Long,24356,đang cập nhật,69489906
+16Trúc Lâm,phường,"Phường Trúc Lâm, Xã Phú Sơn (thị xã Nghi Sơn), Xã Phú Lâm, Xã Tùng Lâm",81.05,Trúc Lâm,tỉnh Thanh Hóa,2395,Trụ sở phường Phú Lâm,81527041
+16Hải Lĩnh,phường,"Xã Định Hải (thị xã Nghi Sơn), Phường Ninh Hải, Phường Hải Lĩnh",41.18,Hải Lĩnh,tỉnh Thanh Hóa,1833,Trụ sở phường Hải Lĩnh,40105633
+16Đào Duy Từ,phường,"Phường Nguyên Bình, Phường Xuân Lâm",42.86,Đào Duy Từ,tỉnh Thanh Hóa,26206,đang cập nhật,42211454
+16Tĩnh Gia,phường,"Phường Hải Hòa, Phường Bình Minh, Phường Hải Thanh, Xã Hải Nhân",32.18,Tĩnh Gia,tỉnh Thanh Hóa,58583,Trụ sở phường Hải Hòa,32404805
+16Hải Bình,phường,"Phường Mai Lâm, Phường Tĩnh Hải, Phường Hải Bình",37.74,Hải Bình,tỉnh Thanh Hóa,3367,Trụ sở phường Mai Lâm,35711687
+16Sầm Sơn,phường,"Phường Bắc Sơn (thành phố Sầm Sơn), Phường Quảng Tiến, Phường Quảng Cư, Phường Trung Sơn, Phường Trường Sơn, Phường Quảng Châu, Phường Quảng Thọ",30.29,Sầm Sơn,tỉnh Thanh Hóa,99866,"Trụ sở cơ quan Thành ủy, HĐND, UBND, UBMTTQ thành phố hiện nay",29477822
+16Quảng Phú,phường,"Phường Quảng Hưng, Phường Quảng Tâm, Phường Quảng Thành, Phường Quảng Đông, Phường Quảng Thịnh, Phường Quảng Cát, Phường Quảng Phú",41.34,Quảng Phú,tỉnh Thanh Hóa,77543,"Trụ sở phường Quảng Hưng (Đảng ủy, đoàn thể) và Trụ sở phường Quảng Phú (chính quyền)",41784007
+16Đông Quang,phường,"Phường Quảng Thắng, Xã Đông Vinh, Xã Đông Quang, Xã Đông Yên, Xã Đông Văn, Xã Đông Phú, Xã Đông Nam, Phường An Hưng",48.6,Đông Quang,tỉnh Thanh Hóa,61214,"Trụ sở phường An Hưng (Đảng ủy, đoàn thể) và Trụ sở xã Đông Văn (Chính quyền)",49279734
+16Đông Tiến,phường,"Phường Đông Lĩnh, Phường Thiệu Khánh, Xã Đông Thanh, Xã Thiệu Vân, Xã Tân Châu, Xã Thiệu Giao, Xã Đông Tiến",41.97,Đông Tiến,tỉnh Thanh Hóa,57844,"Trụ sở Phường Đông Lĩnh (Đảng ủy, đoàn thể) và Trụ sở Phường Đông Tiên (Chính quyền)",45118732
+16Đông Sơn,phường,"Phường Rừng Thông, Phường Đông Thịnh, Phường Đông Tân, Xã Đông Hòa, Xã Đông Minh, Xã Đông Hoàng, Xã Đông Khê, Xã Đông Ninh",41.71,Đông Sơn,tỉnh Thanh Hóa,5895,"Trụ sở Huyện ủy huyện Đông Sơn (Đảng ủy, đoàn thể) và Trụ sở UBND huyện Đông Sơn (Chính quyền)",39082693
+16Hạc Thành,phường,"Phường Phú Sơn, Phường Lam Sơn, Phường Ba Đình, Phường Ngọc Trạo, Phường Đông Sơn (thành phố Thanh Hóa), Phường Trường Thi, Phường Điện Biên, Phường Đông Hương, Phường Đông Hải, Phường Đông Vệ, Phường Đông Thọ, Phường An Hưng",24.63,Hạc Thành,tỉnh Thanh Hóa,197142,Trụ sở UBND tỉnh,22463221
+16Hàm Rồng,phường,"Phường Thiệu Dương, Phường Đông Cương, Phường Nam Ngạn, Phường Hàm Rồng, Phường Đông Thọ",20.88,Hàm Rồng,tỉnh Thanh Hóa,63166,"Trụ sở Phường Nam Ngạn (Đảng ủy, đoàn thể) và Trụ sở Phường Đông Cương (Chính quyền)",22688195
+30Bình Minh,phường,"Xã Thuận An, Phường Thành Phước, Phường Cái Vồn",23.86,Bình Minh,tỉnh Vĩnh Long,34193,đang cập nhật,23663979
+30Đông Thành,phường,"Phường Đông Thuận, Xã Đông Bình, Xã Đông Thạnh, Xã Đông Thành",44.35,Đông Thành,tỉnh Vĩnh Long,41793,UBND xã Đông Bình,44644500
+30Cái Vồn,phường,"Xã Mỹ Hòa (thị xã Bình Minh), Xã Ngãi Tứ, Phường Thành Phước, Phường Cái Vồn",26.52,Cái Vồn,tỉnh Vĩnh Long,36031,đang cập nhật,27307423
+16Nguyệt Viên,phường,"Phường Tào Xuyên, Phường Long Anh, Phường Hoằng Quang, Phường Hoằng Đại",22.3,Nguyệt Viên,tỉnh Thanh Hóa,"34,399","Trụ sở Phường Long Anh (Đảng ủy, đoàn thể) và Trụ sở Phường Hoằng Quang (Chính quyền)",22458147
+16Tân Dân,phường,"Phường Hải An, Phường Tân Dân, Xã Ngọc Lĩnh",24.59,Tân Dân,tỉnh Thanh Hóa,22095,Trụ sở phường Tân Dân,24475956
+16Ngọc Sơn,phường,"Xã Thanh Sơn (thị xã Nghi Sơn), Xã Thanh Thủy, Phường Hải Châu, Phường Hải Ninh",38.16,Ngọc Sơn,tỉnh Thanh Hóa,47911,Trụ sở phường Hải Ninh,36374853
+16Bỉm Sơn,phường,"Phường Đông Sơn, Phường Lam Sơn, Phường Ba Đình (thị xã Bỉm Sơn), Xã Hà Vinh",51.84,Bỉm Sơn,tỉnh Thanh Hóa,45997,Trụ sở thị xã Bỉm Sơn,52136057
+16Nam Sầm Sơn,phường,"Phường Quảng Vinh, Xã Quảng Minh, Xã Đại Hùng, Xã Quảng Giao",18.48,Nam Sầm Sơn,tỉnh Thanh Hóa,37572,Trụ sở UBND xã Đại Hùng ,18555598
+16Quang Trung,phường,"Phường Bắc Sơn, Phường Ngọc Trạo, Phường Phú Sơn, Xã Quang Trung (thị xã Bỉm Sơn)",29.22,Quang Trung,tỉnh Thanh Hóa,32808,Trụ sở phường Ngọc Trạo,29293951
+27Trảng Bàng,phường,"Phường An Hòa, Phường Trảng Bàng",36.97,Trảng Bàng,tỉnh Tây Ninh,53532,đang cập nhật,37082328
+27An Tịnh,phường,"Phường Lộc Hưng, Phường An Tịnh",78.44,An Tịnh,tỉnh Tây Ninh,61212,đang cập nhật,78757281
+27Gò Dầu,phường,"Phường Gia Bình, Thị trấn Gò Dầu, Xã Thanh Phước",43.09,Gò Dầu,tỉnh Tây Ninh,6634,đang cập nhật,43320755
+27Gia Lộc,phường,"Xã Phước Đông (huyện Gò Dầu), Phường Gia Lộc",50.26,Gia Lộc,tỉnh Tây Ninh,37354,đang cập nhật,50616770
+27Hòa Thành,phường,"Phường Long Thành Trung, Xã Long Thành Nam",97.29,Hòa Thành,tỉnh Tây Ninh,47167,đang cập nhật,20574253
+27Thanh Điền,phường,"Phường Hiệp Tân, Xã Thanh Điền",30.73,Thanh Điền,tỉnh Tây Ninh,43528,đang cập nhật,30950756
+27Long Hoa,phường,"Phường Long Thành Bắc, Phường Long Hoa, Xã Trường Hòa, Xã Trường Tây, Xã Trường Đông",55.99,Long Hoa,tỉnh Tây Ninh,106017,đang cập nhật,56548464
+27Tân Ninh,phường,"Phường 1, Phường 2, Phường 3 (thành phố Tây Ninh), Phường IV, Phường Hiệp Ninh, Xã Thái Bình",21.35,Tân Ninh,tỉnh Tây Ninh,8936,đang cập nhật,21112204
+27Ninh Thạnh,phường,"Phường Ninh Thạnh, Xã Bàu Năng, Xã Chà Là",52.66,Ninh Thạnh,tỉnh Tây Ninh,52249,đang cập nhật,34906806
+27Bình Minh,phường,"Phường Ninh Sơn, Xã Tân Bình (thành phố Tây Ninh), Xã Bình Minh, Xã Thạnh Tân, Xã Suối Đá, Xã Phan",23.86,Bình Minh,tỉnh Tây Ninh,34193,đang cập nhật,104394590
+25Thành Nhất,phường,"Phường Khánh Xuân, Phường Thành Nhất",32.22,Thành Nhất,tỉnh Đắk Lắk,52466,Trụ sở UBND phường Khánh Xuân,32290811
+25Buôn Ma Thuột,phường,"Phường Thành Công, Phường Tân Tiến, Phường Tân Thành, Phường Tự An, Phường Tân Lợi, Xã Cư Êbur",71.99,Buôn Ma Thuột,tỉnh Đắk Lắk,169596,"Trụ sở UBND TP Buôn Ma Thuột, Văn phòng HĐND – UBND – 27 Trường Chinh, phường Tân Lợi",72128668
+6Duy Tiên,phường,"Xã Chuyên Ngoại, Xã Trác Văn, Xã Yên Nam, Phường Hòa Mạc",28.93,Duy Tiên,tỉnh Ninh BÌnh,39957,Trụ sở Thị ủy - HĐND – UBND thị xã Duy Tiên,27358417
+6Duy Tân,phường,"Phường Châu Giang, Xã Mộc Hoàn, Phường Hòa Mạc",28.86,Duy Tân,tỉnh Ninh BÌnh,28299,Trụ sở phường Châu Giang hiện nay,32992866
+6Lê Hồ,phường,"Phường Đại Cương, Phường Đồng Hoá, Phường Lê Hồ",22.4,Lê Hồ,tỉnh Ninh BÌnh,đang cập nhật,Trụ sở của phường Lê Hồ hiện nay,22550806
+6Nguyễn Úy,phường,"Phường Tượng Lĩnh, Phường Tân Sơn, Xã Nguyễn Úy",24.57,Nguyễn Úy,tỉnh Ninh BÌnh,đang cập nhật,Trụ sở phường Tượng Lĩnh hiện nay,24743342
+6Đồng Văn,phường,"Phường Bạch Thượng, Phường Yên Bắc, Phường Đồng Văn",18.88,Đồng Văn,tỉnh Ninh BÌnh,34484,Trụ sở phường Yên Bắc hiện nay,19019181
+6Duy Hà,phường,"Phường Duy Minh, Phường Duy Hải, Phường Hoàng Đông",15.46,Duy Hà,tỉnh Ninh BÌnh,24310,Trụ sở phường Duy Minh hiện nay,14734299
+6Kim Thanh,phường,"Phường Tân Tựu, Xã Hoàng Tây",13.71,Kim Thanh,tỉnh Ninh BÌnh,đang cập nhật,Trụ sở phường Tân Tựu hiện nay,13808049
+26Bắc Gia Nghĩa,phường,"Phường Quảng Thành, Phường Nghĩa Thành, Phường Nghĩa Đức, Xã Đắk Ha",250.55,Bắc Gia Nghĩa,tỉnh Lâm Đồng,3776,đang cập nhật,251494393
+26Nam Gia Nghĩa,phường,"Phường Nghĩa Phú, Phường Nghĩa Tân, Xã Đắk R’Moan",80.58,Nam Gia Nghĩa,tỉnh Lâm Đồng,2365,Phường Nghĩa Tân,80629791
+26Đông Gia Nghĩa,phường,"Phường Nghĩa Trung, Xã Đắk Nia",105.78,Đông Gia Nghĩa,tỉnh Lâm Đồng,24199,Phường Nghĩa Trung,105819904
+6Kim Bảng,phường,"Phường Quế, Phường Ngọc Sơn, Xã Văn Xá",15.22,Kim Bảng,tỉnh Ninh BÌnh,23232,Trụ sở Thị ủy - HĐND - UBND thị xã Kim Bảng hiện nay,15061587
+6Tam Chúc,phường,"Phường Ba Sao, Xã Khả Phong, Xã Thuỵ Lôi",46.56,Tam Chúc,tỉnh Ninh BÌnh,18114,Trụ sở xã Khả Phong hiện nay,47081882
+6Lý Thường Kiệt,phường,"Xã Liên Sơn, Xã Thanh Sơn (thị xã Kim Bảng), Phường Thi Sơn",53.66,Lý Thường Kiệt,tỉnh Ninh BÌnh,22958,Trụ sở phường Thi Sơn hiện nay,58044981
+6Châu Sơn,phường,"Phường Thanh Tuyền, Phường Châu Sơn, Thị trấn Kiện Khê",17.45,Châu Sơn,tỉnh Ninh BÌnh,33348,Trụ sở phường Châu Sơn hiện nay,17503613
+6Phủ Lý,phường,"Phường Châu Cầu, Phường Thanh Châu, Phường Liêm Chính, Phường Quang Trung (thành phố Phủ Lý)",11.84,Phủ Lý,tỉnh Ninh BÌnh,62893,Trụ sở UBND tỉnh Hà Nam hiện nay,11945596
+6Hà Nam,phường,"Phường Lam Hạ, Phường Tân Hiệp, Phường Quang Trung (thành phố Phủ Lý), Phường Hoàng Đông, Phường Tiên Nội, Xã Tiên Ngoại",29.98,Hà Nam,tỉnh Ninh BÌnh,33343,Trụ sở phường Tân Hiệp hiện nay,32419571
+6Liêm Tuyền,phường,"Phường Tân Liêm, Xã Đinh Xá, Xã Trịnh Xá",21.44,Liêm Tuyền,tỉnh Ninh BÌnh,27781,Trụ sở phường Tân Liêm hiện nay,21282046
+6Tiên Sơn,phường,"Phường Tiên Sơn, Phường Tiên Nội, Xã Tiên Ngoại",23.96,Tiên Sơn,tỉnh Ninh BÌnh,27062,Trụ sở xã Tiên Ngoại hiện nay,22225668
+6Phù Vân,phường,"Phường Lê Hồng Phong, Xã Kim Bình, Xã Phù Vân",19.34,Phù Vân,tỉnh Ninh BÌnh,40927,Trụ sở của Sở GD-ĐT và MTTQ tỉnh Hà Nam hiện nay,14852745
+25Buôn Hồ,phường,"Phường Đạt Hiếu, Phường An Bình, Phường An Lạc, Phường Thiện An, Phường Thống Nhất, Phường Đoàn Kết",66.54,Buôn Hồ,tỉnh Đắk Lắk,6278,"Trụ sở Thị ủy Buôn Hồ, Trụ sở UBND thị xã Buôn Hồ",66784195
+25Cư Bao,phường,"Phường Bình Tân, Xã Bình Thuận, Xã Cư Bao",104.94,Cư Bao,tỉnh Đắk Lắk,36911,"Trụ sở UBND xã Cư Bao, Trụ sở UBND phường Bình Tân, Trụ sở UBND xã Bình Thuận",101069266
+25Tân Lập,phường,"Phường Tân Hòa, Phường Tân Lập, Xã Hòa Thắng (thành phố Buôn Ma Thuột)",46.7,Tân Lập,tỉnh Đắk Lắk,73316,"Trụ sở UBND phường Tân Hòa, Trụ sở UBND phường Tân Lập",47121346
+25Tân An,phường,"Phường Tân An, Xã Ea Tu, Xã Hòa Thuận",8.06,Tân An,tỉnh Đắk Lắk,85997,"Trụ sở UBND xã Ea Tu, Trụ sở UBND xã Hòa Thuận",56379641
+25Ea Kao,phường,"Phường Ea Tam, Xã Ea Kao",60.7,Ea Kao,tỉnh Đắk Lắk,5707,"Trụ sở UBND xã Ea Kao, Trụ sở UBND phường Ea Tam",61472085
+25Tuy Hòa,phường,"Phường 1, Phường 2, Phường 4, Phường 5, Phường 7, Phường 9, Xã Hòa An (huyện Phú Hòa) (phần còn lại sau khi sáp nhập vào xã Phú Hòa 1), Xã Hòa Trị (phần còn lại sau khi sáp nhập vào xã Phú Hòa 2)",33.77,Tuy Hòa,tỉnh Đắk Lắk,126118,"Trụ sở Thành ủy Tuy Hòa, Trụ sở UBND thành phố Tuy Hòa",36029758
+25Xuân Đài,phường,"Phường Xuân Thành, Phường Xuân Đài",13.4,Xuân Đài,tỉnh Đắk Lắk,21574,Trụ sở UBND phường Xuân Đài,13083170
+25Phú Yên,phường,"Phường Phú Đông, Phường Phú Lâm, Phường Phú Thạnh, Xã Hòa Thành (thị xã Đông Hòa), Phường Hòa Hiệp Bắc, Xã Hòa Bình 1 (phần còn lại sau khi sáp nhập vào xã Tây Hòa)",44.04,Phú Yên,tỉnh Đắk Lắk,61799,"Trụ sở UBND phường Phú Thạnh, Trụ sở UBND phường Phú Lâm",44930732
+25Bình Kiến,phường,"Xã An Phú, Xã Hòa Kiến, Xã Bình Kiến, Phường 9 (phần còn lại sau khi sáp nhập vào phường Tuy Hòa)",73.71,Bình Kiến,tỉnh Đắk Lắk,44406,đang cập nhật,71170632
+25Sông Cầu,phường,"Phường Xuân Yên, Phường Xuân Phú, Xã Xuân Phương, Xã Xuân Thịnh",90.49,Sông Cầu,tỉnh Đắk Lắk,38891,"Trụ sở Thị ủy Sông Cầu, Trụ sở UBND thị xã Sông Cầu hiện nay",89229275
+25Đông Hòa,phường,"Phường Hòa Vinh, Phường Hòa Xuân Tây, Xã Hòa Tân Đông",21.89,Đông Hòa,tỉnh Đắk Lắk,132056,"Trụ sở Thị ủy Đông Hòa, Trụ sở UBND thị xã Đông Hòa",77537766
+25Hòa Hiệp,phường,"Phường Hòa Hiệp Trung, Phường Hòa Hiệp Nam, Phường Hòa Hiệp Bắc (phần còn lại sau khi sáp nhập vào phường Phú Yên)",40.81,Hòa Hiệp,tỉnh Đắk Lắk,53597,"Trụ sở UBND phường Hòa Hiệp Trung, Trụ sở UBND phường Hòa Hiệp Nam",39885282
+24Pleiku,phường,"Phường Tây Sơn (thành phố Pleiku), Phường Hội Thương, Phường Hoa Lư, Phường Phù Đổng, Xã Trà Đa",25.0,Pleiku,tỉnh Gia Lai,79466,UBND thành phố Pleiku,25988708
+24Ayun Pa,phường,"Phường Đoàn Kết, Phường Sông Bờ, Phường Cheo Reo, Phường Hòa Bình",17.61,Ayun Pa,tỉnh Gia Lai,2682,UBND thị xã Ayun Pa,17657130
+24Tam Quan,phường,"Phường Tam Quan, Xã Hoài Châu",29.82,Tam Quan,tỉnh Gia Lai,24858,Phường Tam Quan,29875230
+24Bồng Sơn,phường,"Phường Hoài Đức, Phường Bồng Sơn",81.11,Bồng Sơn,tỉnh Gia Lai,41435,Phường Bồng Sơn,80994949
+24Hoài Nhơn Bắc,phường,"Phường Tam Quan Bắc, Xã Hoài Sơn, Xã Hoài Châu Bắc",89.45,Hoài Nhơn Bắc,tỉnh Gia Lai,44581,Phường Tam Quan Bắc,89133494
+24Hoài Nhơn Tây,phường,"Phường Hoài Hảo, Xã Hoài Phú",78.15,Hoài Nhơn Tây,tỉnh Gia Lai,25572,Phường Hoài Hảo,78506893
+24Hoài Nhơn,phường,"Phường Hoài Thanh, Phường Tam Quan Nam, Phường Hoài Thanh Tây",40.32,Hoài Nhơn,tỉnh Gia Lai,43167,Phường Hoài Thanh Tây,40288472
+24Hoài Nhơn Đông,phường,"Phường Hoài Hương, Xã Hoài Hải, Xã Hoài Mỹ",64.36,Hoài Nhơn Đông,tỉnh Gia Lai,44634,Phường Hoài Hương,64516995
+24Hoài Nhơn Nam,phường,"Phường Hoài Tân, Phường Hoài Xuân",37.67,Hoài Nhơn Nam,tỉnh Gia Lai,32707,Phường Hoài Tân,37656674
+24Quy Nhơn Bắc,phường,"Phường Trần Quang Diệu, Phường Nhơn Phú",23.7,Quy Nhơn Bắc,tỉnh Gia Lai,45746,Phường Nhơn Phú,23800202
+24Quy Nhơn,phường,"Phường Đống Đa (thành phố Quy Nhơn), Phường Hải Cảng, Phường Thị Nại, Phường Trần Phú",21.78,Quy Nhơn,tỉnh Gia Lai,129326,Thành ủy Quy Nhơn,21825633
+24Quy Nhơn Đông,phường,"Phường Nhơn Bình, Xã Nhơn Hội, Xã Nhơn Lý, Xã Nhơn Hải",81.97,Quy Nhơn Đông,tỉnh Gia Lai,47067,Xã Nhơn Hội,81504727
+24Bình Định,phường,"Phường Bình Định, Xã Nhơn Khánh, Xã Nhơn Phúc",25.16,Bình Định,tỉnh Gia Lai,42768,Phường Bình Định,25022673
+24An Nhơn,phường,"Phường Đập Đá, Xã Nhơn Mỹ, Xã Nhơn Hậu",3.23,An Nhơn,tỉnh Gia Lai,114498,Phường Đập Đá,34636480
+24An Nhơn Bắc,phường,"Phường Nhơn Thành, Xã Nhơn Phong, Xã Nhơn Hạnh",31.95,An Nhơn Bắc,tỉnh Gia Lai,38484,Xã Nhơn Phong,32088696
+24An Nhơn Đông,phường,"Phường Nhơn Hưng, Xã Nhơn An",17.21,An Nhơn Đông,tỉnh Gia Lai,26443,Phường Nhơn Hưng,17188624
+24Quy Nhơn Tây,phường,"Phường Bùi Thị Xuân, Xã Phước Mỹ",118.63,Quy Nhơn Tây,tỉnh Gia Lai,24859,Phường Bùi Thị Xuân,119360947
+24Quy Nhơn Nam,phường,"Phường Ngô Mây (thành phố Quy Nhơn), Phường Nguyễn Văn Cừ, Phường Quang Trung, Phường Ghềnh Ráng",36.36,Quy Nhơn Nam,tỉnh Gia Lai,73296,Phường Nguyễn Văn Cừ,35684776
+24An Nhơn Nam,phường,"Phường Nhơn Hòa, Xã Nhơn Thọ",60.05,An Nhơn Nam,tỉnh Gia Lai,31651,Phường Nhơn Hòa,60284133
+24An Bình,phường,"Phường An Bình, Xã Tân An, Xã Cư An",18.39,An Bình,tỉnh Gia Lai,5015,UBND phường An Bình,73156747
+24An Khê,phường,"Phường Ngô Mây, Phường Tây Sơn (thị xã An Khê), Phường An Phú, Phường An Phước, Phường An Tân, Xã Thành An",57.44,An Khê,tỉnh Gia Lai,50495,UBND thị xã An Khê,57471175
+24Diên Hồng,phường,"Phường Yên Đỗ, Phường Ia Kring, Phường Diên Hồng, Xã Diên Phú",1.86,Diên Hồng,tỉnh Gia Lai,75633,Thành ủy Pleiku,26834981
+24Hội Phú,phường,"Phường Trà Bá, Phường Chi Lăng, Phường Hội Phú",34.86,Hội Phú,tỉnh Gia Lai,46358,UBND phường Chi Lăng,34878798
+24Thống Nhất,phường,"Phường Đống Đa (thành phố Pleiku), Phường Yên Thế, Phường Thống Nhất",22.92,Thống Nhất,tỉnh Gia Lai,48721,UBND phường Yên Thế,22953393
+24An Phú,phường,"Phường Thắng Lợi, Xã Chư Á, Xã An Phú",16.85,An Phú,tỉnh Gia Lai,16293,UBND xã An Phú,32295414
+26Mũi Né,phường,"Phường Hàm Tiến, Phường Mũi Né, Xã Thiện Nghiệp",118.59,Mũi Né,tỉnh Lâm Đồng,50166,Phường Hàm Tiến,119178433
+26Phú Thủy,phường,"Phường Thanh Hải, Phường Phú Hài, Phường Phú Thủy",17.34,Phú Thủy,tỉnh Lâm Đồng,đang cập nhật,Phường Phú Thủy,17699857
+26Bình Thuận,phường,"Phường Phú Tài, Xã Phong Nẫm, Xã Hàm Hiệp",45.16,Bình Thuận,tỉnh Lâm Đồng,47858,Xã Phong Nẫm,44828342
+26Phan Thiết,phường,"Phường Phú Trinh, Phường Lạc Đạo, Phường Bình Hưng",4.46,Phan Thiết,tỉnh Lâm Đồng,85493,Phường Lạc Đạo,4602535
+26Hàm Thắng,phường,"Phường Xuân An, Thị trấn Phú Long, Xã Hàm Thắng",44.9,Hàm Thắng,tỉnh Lâm Đồng,54544,Phường Xuân An,44982260
+26Tiến Thành,phường,"Phường Đức Long, Xã Tiến Thành",55.06,Tiến Thành,tỉnh Lâm Đồng,28395,Phường Đức Long,55577631
+26Phước Hội,phường,"Phường Phước Lộc, Phường Phước Hội, Xã Tân Phước",38.09,Phước Hội,tỉnh Lâm Đồng,4948,Phường Phước Hội,37817284
+26La Gi,phường,"Phường Tân An, Phường Bình Tân, Phường Tân Thiện, Xã Tân Bình",68.47,La Gi,tỉnh Lâm Đồng,60549,Phường Tân An,68902125
+28Trảng Dài,phường,"Phường Trảng Dài, Xã Thiện Tân",37.3,Trảng Dài,tỉnh Đồng Nai,104972,"Số 462 Bùi Trọng Nghĩa, khu phố 3A, phường Trảng Dài.",37419576
+28Tân Triều,phường,"Phường Tân Phong, Xã Tân Bình, Xã Bình Lợi, Xã Thạnh Phú",63.3,Tân Triều,tỉnh Đồng Nai,101608,"Đường 768, ấp 2, xã Thạnh Phú.",63760009
+28Long Bình,phường,"Phường Hố Nai, Phường Tân Biên, Phường Long Bình",40.2,Long Bình,tỉnh Đồng Nai,26378,"Số 68 Thân Nhân Trung, khu phố 8, phường Long Bình.",45125503
+28Hố Nai,phường,"Phường Tân Hòa, Xã Hố Nai 3",22.9,Hố Nai,tỉnh Đồng Nai,78902,"Số 386 quốc lộ 1A, khu phố 1, phường Hố Nai.",22931389
+28Tam Phước,phường,Không sáp nhập,45.1,Tam Phước,tỉnh Đồng Nai,48313,"Quốc lộ 51, khu phố Long Đức 3, phường Tam Phước.",45271283
+28Phước Tân,phường,Không sáp nhập,42.8,Phước Tân,tỉnh Đồng Nai,64181,"1393 quốc lộ 51, khu phố Hương Phước, phường Phước Tân.",43009587
+28Xuân Lập,phường,"Phường Bàu Sen, Phường Xuân Lập",29.2,Xuân Lập,tỉnh Đồng Nai,18947,"Quốc lộ 1, khu phố Bàu Sen, phường Xuân Lập.",29292895
+28Tam Hiệp,phường,"Phường Tân Hiệp, Phường Tân Mai, Phường Bình Đa, Phường Tam Hiệp",10.8,Tam Hiệp,tỉnh Đồng Nai,139441,"Đường Trần Quốc Toản, tổ 29C, khu phố 3, phường Tam Hiệp.",10857947
+28Trấn Biên,phường,"Phường Bửu Long, Phường Quang Vinh, Phường Trung Dũng, Phường Thống Nhất, Phường Hiệp Hòa, Phường An Bình",31.0,Trấn Biên,tỉnh Đồng Nai,19706,"Số 63 Võ Thị Sáu, khu phố 11, phường Trấn Biên.",30968250
+28Long Hưng,phường,"Phường Long Bình Tân, Phường An Hòa, Xã Long Hưng (thành phố Biên Hòa)",32.4,Long Hưng,tỉnh Đồng Nai,74184,"Đường Nguyễn Văn Tỏ, khu phố Thái Hòa, phường Long Hưng.",32600496
+28Biên Hòa,phường,"Phường Tân Hạnh, Phường Hóa An, Phường Bửu Hòa, Phường Tân Vạn",21.5,Biên Hòa,tỉnh Đồng Nai,74919,"Số 277 Nguyễn Tri Phương, khu phố 2, phường Biên Hòa.",21629412
+28Long Khánh,phường,"Xã Xuân An, Xã Xuân Bình, Xã Xuân Hòa, Xã Phú Bình, Xã Bàu Trâm",21.3,Long Khánh,tỉnh Đồng Nai,7707,"Đường Cách Mạng Tháng Tám, phường Long Khánh.",21374688
+28Bình Lộc,phường,"Phường Suối Tre, Xã Xuân Thiện, Xã Bình Lộc",77.2,Bình Lộc,tỉnh Đồng Nai,36195,"Đường N5, phường Bình Lộc.",77438353
+28Bảo Vinh,phường,"Phường Bảo Vinh, Xã Bảo Quang",50.9,Bảo Vinh,tỉnh Đồng Nai,36989,"Đường Duy Tân, khu phố Ruộng Hời, phường Bảo Vinh.",51057225
+28Hàng Gòn,phường,"Phường Xuân Tân, Xã Hàng Gòn",45.6,Hàng Gòn,tỉnh Đồng Nai,24931,"Quốc lộ 56, phường Hàng Gòn.",45752092
+1Đống Đa,phường,"Phường Thịnh Quang, Phường Quang Trung (quận Đống Đa), Phường Láng Hạ, Phường Nam Đồng, Phường Ô Chợ Dừa, Phường Trung Liệt",2.07,Đống Đa,Thủ đô Hà Nội,81358,"Số 59 phố Hoàng Cầu, phường Đống Đa",2086881
+1Hồng Hà,phường,"Phường Chương Dương, Phường Phúc Tân, Phường Phúc Xá, Phường Nhật Tân, Phường Phú Thượng, Phường Quảng An, Phường Thanh Lương, Phường Tứ Liên, Phường Yên Phụ, Phường Bồ Đề, Phường Ngọc Thụy, Phường Bạch Đằng (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng)",15.09,Hồng Hà,Thủ đô Hà Nội,123282,"Số 30 phố Tứ Liên, phường Hồng Hà",15361487
+1Hoàng Mai,phường,"Phường Giáp Bát, Phường Hoàng Liệt, Phường Hoàng Văn Thụ, Phường Lĩnh Nam, Phường Tân Mai, Phường Thịnh Liệt, Phường Tương Mai, Phường Trần Phú, Phường Vĩnh Hưng, Phường Yên Sở",9.04,Hoàng Mai,Thủ đô Hà Nội,98502,"Số 8 ngõ 6 phố Bùi Huy Bích, phường Hoàng Mai",8784958
+1Lĩnh Nam,phường,"Phường Lĩnh Nam, Phường Thanh Trì, Phường Trần Phú, Phường Yên Sở, Phường Thanh Lương (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy, phường Hồng Hà)",10.86,Lĩnh Nam,Thủ đô Hà Nội,20706,"Số 669 đường Lĩnh Nam, phường Lĩnh Nam",10819503
+1Long Biên,phường,"Phường Cự Khối, Phường Phúc Đồng, Phường Thạch Bàn, Xã Bát Tràng, Phường Long Biên, Phường Bồ Đề, Phường Gia Thụy",19.04,Long Biên,Thủ đô Hà Nội,62887,"Số 199 đường Bát Khối, phường Long Biên",19487285
+1Chương Mỹ,phường,"Phường Biên Giang, Thị trấn Chúc Sơn, Xã Đại Yên, Xã Ngọc Hòa, Xã Phụng Châu, Xã Tiên Phương, Xã Thuỵ Hương, Phường Đồng Mai (phần còn lại sau khi sáp nhập vào phường Yên Nghĩa)",38.9,Chương Mỹ,Thủ đô Hà Nội,87913,"Số 102, tổ dân phố Bắc Sơn, phường Chương Mỹ",39138852
+1Tương Mai,phường,"Phường Giáp Bát, Phường Phương Liệt, Phường Mai Động (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy), Phường Minh Khai (quận Hai Bà Trưng) (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Đồng Tâm (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Trương Định (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Hoàng Văn Thụ (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Tân Mai (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Tương Mai (phần còn lại sau khi sáp nhập vào phường Hoàng Mai), Phường Vĩnh Hưng (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy, phường Hoàng Mai, phường Vĩnh Hưng)",3.56,Tương Mai,Thủ đô Hà Nội,136292,"Số 2/224 đường Hoàng Mai, phường Tương Mai",3590269
+1Hà Đông,phường,"Phường Phúc La, Phường Vạn Phúc, Phường Quang Trung (quận Hà Đông), Phường Đại Mỗ, Phường Hà Cầu, Phường La Khê, Phường Văn Quán, Xã Tân Triều, Phường Mộ Lao (phần còn lại sau khi sáp nhập vào phường Đại Mỗ)",9.0,Hà Đông,Thủ đô Hà Nội,185205,"Số 2, phố Hà Cầu, phường Hà Đông",9383722
+1Dương Nội,phường,"Phường Dương Nội, Phường Phú La, Phường Yên Nghĩa, Xã La Phù, Phường Đại Mỗ (phần còn lại sau khi sáp nhập vào phường Xuân Phương, phường Tây Mỗ, phường Đại Mỗ, phường Hà Đông), Phường La Khê (phần còn lại sau khi sáp nhập vào phường Hà Đông)",7.9,Dương Nội,Thủ đô Hà Nội,56091,"Lô HC01 - khu A khu đô thị mới Dương Nội, phường Dương Nội",7778508
+1Kiến Hưng,phường,"Phường Kiến Hưng, Phường Phú Lương, Phường Quang Trung (quận Hà Đông) (phần còn lại sau khi sáp nhập vào phường Hà Đông), Phường Hà Cầu (phần còn lại sau khi sáp nhập vào phường Hà Đông), Phường Phú La (phần còn lại sau khi sáp nhập vào phường Dương Nội)",6.65,Kiến Hưng,Thủ đô Hà Nội,70833,"Lô C3, khu đô thị Văn Phú, phường Kiến Hưng",6397819
+1Yên Nghĩa,phường,"Phường Đồng Mai, Phường Yên Nghĩa (phần còn lại sau khi sáp nhập vào phường Dương Nội)",13.18,Yên Nghĩa,Thủ đô Hà Nội,49643,"Tổ dân phố 10, phường Yên Nghĩa",13279382
+1Phú Lương,phường,"Phường Phú Lãm, Phường Kiến Hưng, Phường Phú Lương, Xã Cự Khê, Xã Hữu Hòa",9.4,Phú Lương,Thủ đô Hà Nội,52024,"Tổ dân phố 4, phường Phú Lương",9541963
+1Thanh Liệt,phường,"Xã Tả Thanh Oai, Phường Đại Kim (phần còn lại sau khi sáp nhập vào phường Định Công, phường Hoàng Liệt, phường Khương Đình), Phường Thanh Xuân Bắc (phần còn lại sau khi sáp nhập vào phường Thanh Xuân), Phường Hạ Đình (phần còn lại sau khi sáp nhập vào phường Khương Đình), Phường Văn Quán (phần còn lại sau khi sáp nhập vào phường Hà Đông), Xã Thanh Liệt (phần còn lại sau khi sáp nhập vào phường Định Công, phường Hoàng Liệt), Xã Tân Triều (phần còn lại sau khi sáp nhập vào phường Định Công, phường Khương Đình, phường Hà Đông)",6.44,Thanh Liệt,Thủ đô Hà Nội,76238,"Thôn Triều Khúc, phường Thanh Liệt",6468986
+1Tùng Thiện,phường,"Phường Xuân Khanh, Phường Trung Sơn Trầm, Xã Xuân Sơn, Phường Trung Hưng (phần còn lại sau khi sáp nhập vào phường Sơn Tây), Phường Sơn Lộc (phần còn lại sau khi sáp nhập vào phường Sơn Tây), Xã Thanh Mỹ (phần còn lại sau khi sáp nhập vào phường Sơn Tây)",32.34,Tùng Thiện,Thủ đô Hà Nội,42052,"Số 66 đường Thanh Mỹ, thôn Thủ Trung, phường Tùng Thiện",32650416
+1Phương Liệt,phường,"Phường Khương Mai, Phường Thịnh Liệt (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Định Công, phường Yên Sở), Phường Phương Liệt (phần còn lại sau khi sáp nhập vào phường Tương Mai), Phường Định Công (phần còn lại sau khi sáp nhập vào phường Định Công), Phường Khương Đình (phần còn lại sau khi sáp nhập vào phường Khương Đình), Phường Khương Trung (phần còn lại sau khi sáp nhập vào phường Khương Đình)",3.2,Phương Liệt,Thủ đô Hà Nội,81977,"Số 136 Nguyễn Ngọc Nại, phường Phương Liệt",3274276
+1Bồ Đề,phường,"Phường Ngọc Lâm, Phường Đức Giang, Phường Gia Thụy, Phường Thượng Thanh, Phường Phúc Đồng, Phường Ngọc Thụy (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Bồ Đề (phần còn lại sau khi sáp nhập vào phường Hồng Hà, phường Long Biên), Phường Long Biên (phần còn lại sau khi sáp nhập vào phường Long Biên)",12.94,Bồ Đề,Thủ đô Hà Nội,120028,"Số 270, đường Ngọc Thuỵ, phường Bồ Đề",12616537
+1Thanh Xuân,phường,"Phường Nhân Chính, Phường Thanh Xuân Bắc, Phường Thanh Xuân Trung, Phường Thượng Đình, Phường Trung Hoà, Phường Trung Văn",3.24,Thanh Xuân,Thủ đô Hà Nội,106316,"Số 9 Khuất Duy Tiến, phường Thanh Xuân",3282568
+1Hoàn Kiếm,phường,"Phường Hàng Bạc, Phường Hàng Bồ, Phường Hàng Buồm, Phường Hàng Đào, Phường Hàng Gai, Phường Hàng Mã, Phường Lý Thái Tổ, Phường Cửa Đông, Phường Cửa Nam, Phường Điện Biên, Phường Đồng Xuân, Phường Hàng Bông, Phường Hàng Trống, Phường Tràng Tiền",1.91,Hoàn Kiếm,Thủ đô Hà Nội,105301,"Số 126 Hàng Trống, phường Hoàn Kiếm",1921165
+1Khương Đình,phường,"Phường Hạ Đình, Phường Khương Đình, Phường Khương Trung, Phường Đại Kim, Xã Tân Triều, Phường Thanh Xuân Trung (phần còn lại sau khi sáp nhập vào phường Thanh Xuân), Phường Thượng Đình (phần còn lại sau khi sáp nhập vào phường Thanh Xuân)",3.1,Khương Đình,Thủ đô Hà Nội,86286,"Số 33 Khương Hạ, phường Khương Đình",3116623
+1Định Công,phường,"Phường Định Công, Phường Hoàng Liệt, Phường Thịnh Liệt, Xã Tân Triều, Xã Thanh Liệt, Phường Đại Kim, Phường Giáp Bát (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Tương Mai)",5.34,Định Công,Thủ đô Hà Nội,85502,"Số 1 ngõ 282 đường Kim Giang, phường Định Công",5373435
+1Sơn Tây,phường,"Phường Ngô Quyền, Phường Phú Thịnh, Phường Viên Sơn, Xã Đường Lâm, Phường Trung Hưng, Phường Sơn Lộc, Xã Thanh Mỹ",23.08,Sơn Tây,Thủ đô Hà Nội,71301,"Số 1 phố Phó Đức Chính, phường Sơn Tây",23280984
+1Hoàng Liệt,phường,"Phường Hoàng Liệt, Thị trấn Văn Điển, Xã Tam Hiệp (huyện Thanh Trì), Xã Thanh Liệt, Phường Đại Kim",4.04,Hoàng Liệt,Thủ đô Hà Nội,55820,"Số 5, đường Linh Đường, phường Hoàng Liệt",4081718
+1Yên Sở,phường,"Phường Thịnh Liệt, Phường Yên Sở, Xã Tứ Hiệp, Phường Hoàng Liệt (phần còn lại sau khi sáp nhập vào phường Hoàng Mai, phường Định Công, phường Hoàng Liệt), Phường Trần Phú (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam, phường Hoàng Mai)",5.61,Yên Sở,Thủ đô Hà Nội,40913,Số 8 ngõ 6 phố Bùi Huy Bích,5584532
+1Vĩnh Hưng,phường,"Phường Vĩnh Hưng, Phường Lĩnh Nam (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam, phường Hoàng Mai), Phường Thanh Trì (phần còn lại sau khi sáp nhập vào phường Lĩnh Nam), Phường Vĩnh Tuy (phần còn lại sau khi sáp nhập vào phường Vĩnh Tuy)",4.47,Vĩnh Hưng,Thủ đô Hà Nội,67561,"Số 177 phố Thanh Đàm, phường Vĩnh Hưng",4405390
+1Việt Hưng,phường,"Phường Giang Biên, Phường Phúc Đồng, Phường Việt Hưng, Phường Phúc Lợi, Phường Gia Thụy (phần còn lại sau khi sáp nhập vào phường Long Biên, phường Bồ Đề), Phường Đức Giang (phần còn lại sau khi sáp nhập vào phường Bồ Đề), Phường Thượng Thanh (phần còn lại sau khi sáp nhập vào phường Bồ Đề)",12.91,Việt Hưng,Thủ đô Hà Nội,83188,"Số 1 phố Vạn Hạnh, phường Việt Hưng",12983841
+1Cửa Nam,phường,"Phường Hàng Bài, Phường Phan Chu Trinh, Phường Trần Hưng Đạo, Phường Cửa Nam, Phường Nguyễn Du, Phường Phạm Đình Hổ, Phường Hàng Bông (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Hàng Trống (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Tràng Tiền (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm)",1.68,Cửa Nam,Thủ đô Hà Nội,52751,"Số 29 Quang Trung, phường Cửa Nam",1676694
+1Phúc Lợi,phường,"Phường Thạch Bàn, Xã Cổ Bi, Phường Giang Biên (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Phường Việt Hưng (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Phường Phúc Lợi (phần còn lại sau khi sáp nhập vào phường Việt Hưng), Phường Phúc Đồng (phần còn lại sau khi sáp nhập vào phường Long Biên, phường Bồ Đề, phường Việt Hưng)",10.41,Phúc Lợi,Thủ đô Hà Nội,66790,"Tổ 6, phường Phúc Lợi",10310642
+1Ô Chợ Dừa,phường,"Phường Cát Linh (phần còn lại sau khi sáp nhập vào phường Giảng Võ), Phường Điện Biên (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm, phường Ba Đình, phường Văn Miếu Quốc Tử Giám), Phường Thành Công (phần còn lại sau khi sáp nhập vào phường Giảng Võ), Phường Ô Chợ Dừa (phần còn lại sau khi sáp nhập vào phường Đống Đa), Phường Trung Liệt (phần còn lại sau khi sáp nhập vào phường Đống Đa, phường Kim Liên), Phường Hàng Bột (phần còn lại sau khi sáp nhập vào phường Văn Miếu Quốc Tử Giám), Phường Văn Miếu Quốc Tử Giám (phần còn lại sau khi sáp nhập vào phường Văn Miếu Quốc Tử Giám)",1.83,Ô Chợ Dừa,Thủ đô Hà Nội,71293,"Số 61 phố Hoàng Cầu, phường Ô Chợ Dừa",1839148
+1Bạch Mai,phường,"Phường Bạch Mai, Phường Bách Khoa, Phường Quỳnh Mai, Phường Minh Khai (quận Hai Bà Trưng), Phường Đồng Tâm, Phường Lê Đại Hành, Phường Phương Mai, Phường Trương Định, Phường Thanh Nhàn (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng)",2.95,Bạch Mai,Thủ đô Hà Nội,129571,"Số 33 Đại Cồ Việt, phường Bạch Mai",2926522
+1Vĩnh Tuy,phường,"Phường Mai Động, Phường Thanh Lương, Phường Vĩnh Hưng, Phường Vĩnh Tuy",2.33,Vĩnh Tuy,Thủ đô Hà Nội,90583,"Số 35 phố Vĩnh Tuy, phường Vĩnh Tuy",2328624
+1Hai Bà Trưng,phường,"Phường Đồng Nhân, Phường Phố Huế, Phường Bạch Đằng, Phường Lê Đại Hành, Phường Nguyễn Du, Phường Thanh Nhàn, Phường Phạm Đình Hổ (phần còn lại sau khi sáp nhập vào phường Cửa Nam)",2.65,Hai Bà Trưng,Thủ đô Hà Nội,87801,"Số 30 Lê Đại Hành, phường Hai Bà Trưng",2638405
+1Láng,phường,"Phường Láng Thượng, Phường Láng Hạ (phần còn lại sau khi sáp nhập vào phường Giảng Võ, phường Đống Đa), Phường Ngọc Khánh (phần còn lại sau khi sáp nhập vào phường Ngọc Hà, phường Giảng Võ)",1.88,Láng,Thủ đô Hà Nội,61135,"Số 79A ngõ 25 Vũ Ngọc Phan, phường Láng",1896697
+1Văn Miếu - Quốc Tử Giám,phường,"Phường Khâm Thiên, Phường Thổ Quan, Phường Văn Chương, Phường Điện Biên, Phường Hàng Bột, Phường Văn Miếu Quốc Tử Giám, Phường Cửa Nam (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm, phường Cửa Nam, phường Ba Đình), Phường Lê Đại Hành (phần còn lại sau khi sáp nhập vào phường Hai Bà Trưng, phường Bạch Mai), Phường Nam Đồng (phần còn lại sau khi sáp nhập vào phường Đống Đa, phường Kim Liên), Phường Nguyễn Du (phần còn lại sau khi sáp nhập vào phường Cửa Nam, phường Hai Bà Trưng), Phường Phương Liên Trung Tự (phần còn lại sau khi sáp nhập vào phường Kim Liên)",1.92,Văn Miếu - Quốc Tử Giám,Thủ đô Hà Nội,105604,"Số 188 Kim Hoa, phường Văn Miếu - Quốc Tử Giám",1942337
+1Kim Liên,phường,"Phường Kim Liên, Phường Khương Thượng, Phường Nam Đồng, Phường Phương Liên Trung Tự, Phường Trung Liệt, Phường Phương Mai (phần còn lại sau khi sáp nhập vào phường Bạch Mai), Phường Quang Trung (quận Đống Đa) (phần còn lại sau khi sáp nhập vào phường Đống Đa)",2.46,Kim Liên,Thủ đô Hà Nội,109107,"Số 2 ngõ 4B phố Đặng Văn Ngữ, phường Kim Liên",2446041
+1Ba Đình,phường,"Phường Quán Thánh, Phường Trúc Bạch, Phường Cửa Nam, Phường Điện Biên, Phường Đội Cấn, Phường Kim Mã, Phường Ngọc Hà, Phường Thụy Khuê, Phường Cửa Đông (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm), Phường Đồng Xuân (phần còn lại sau khi sáp nhập vào phường Hoàn Kiếm)",2.97,Ba Đình,Thủ đô Hà Nội,65023,"Số 2, phố Trúc Bạch, phường Ba Đình",2964945
+1Cầu Giấy,phường,"Phường Dịch Vọng, Phường Dịch Vọng Hậu, Phường Quan Hoa, Phường Mỹ Đình 1, Phường Mỹ Đình 2, Phường Yên Hòa",3.74,Cầu Giấy,Thủ đô Hà Nội,74516,"Số 96 Trần Thái Tông, phường Cầu Giấy",3951691
+1Ngọc Hà,phường,"Phường Vĩnh Phúc, Phường Liễu Giai, Phường Cống Vị, Phường Kim Mã, Phường Ngọc Khánh, Phường Nghĩa Đô, Phường Đội Cấn (phần còn lại sau khi sáp nhập vào phường Ba Đình), Phường Ngọc Hà (phần còn lại sau khi sáp nhập vào phường Ba Đình)",2.68,Ngọc Hà,Thủ đô Hà Nội,93536,"Số 25, phố Liễu Giai, phường Ngọc Hà",2634903
+1Xuân Đỉnh,phường,"Phường Xuân Đỉnh, Phường Cổ Nhuế 1 (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Diễn), Phường Xuân La (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Tây Hồ, phường Phú Thượng), Phường Xuân Tảo (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Thượng)",5.46,Xuân Đỉnh,Thủ đô Hà Nội,48658,"Phố Minh Tảo, phường Xuân Đỉnh",5496328
+1Giảng Võ,phường,"Phường Giảng Võ, Phường Cát Linh, Phường Láng Hạ, Phường Ngọc Khánh, Phường Thành Công, Phường Cống Vị (phần còn lại sau khi sáp nhập vào phường Ngọc Hà), Phường Kim Mã (phần còn lại sau khi sáp nhập vào phường Ba Đình, phường Ngọc Hà)",2.6,Giảng Võ,Thủ đô Hà Nội,97034,"Số 525, phố Kim Mã, phường Giảng Võ",2591966
+1Phú Thượng,phường,"Phường Đông Ngạc, Phường Xuân La, Phường Xuân Đỉnh, Phường Xuân Tảo, Phường Phú Thượng (phần còn lại sau khi sáp nhập vào phường Hồng Hà, phường Tây Hồ)",7.21,Phú Thượng,Thủ đô Hà Nội,39322,"Số 58 Phú Xá, phường Phú Thượng",7281701
+1Tây Hồ,phường,"Phường Bưởi, Phường Phú Thượng, Phường Xuân La, Phường Nhật Tân (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Quảng An (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Tứ Liên (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Yên Phụ (phần còn lại sau khi sáp nhập vào phường Hồng Hà), Phường Nghĩa Đô (phần còn lại sau khi sáp nhập vào phường Ngọc Hà, phường Nghĩa Đô), Phường Thụy Khuê (phần còn lại sau khi sáp nhập vào phường Ba Đình)",10.72,Tây Hồ,Thủ đô Hà Nội,100122,"Số 657 Lạc Long Quân, phường Tây Hồ",10626760
+1Yên Hòa,phường,"Phường Mễ Trì, Phường Nhân Chính, Phường Trung Hòa, Phường Yên Hòa (phần còn lại sau khi sáp nhập vào phường Cầu Giấy)",4.1,Yên Hòa,Thủ đô Hà Nội,77029,"Số 231 Nguyễn Ngọc Vũ, phường Yên Hòa",4160449
+1Nghĩa Đô,phường,"Phường Nghĩa Tân, Phường Cổ Nhuế 1, Phường Mai Dịch, Phường Nghĩa Đô, Phường Xuân La, Phường Xuân Tảo, Phường Dịch Vọng (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Dịch Vọng Hậu (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Quan Hoa (phần còn lại sau khi sáp nhập vào phường Cầu Giấy)",4.34,Nghĩa Đô,Thủ đô Hà Nội,125568,"Số 45 phố Nghĩa Tân, phường Nghĩa Đô",4411147
+1Từ Liêm,phường,"Phường Cầu Diễn, Phường Mễ Trì, Phường Phú Đô, Phường Mai Dịch (phần còn lại sau khi sáp nhập vào phường Nghĩa Đô, phường Phú Diễn), Phường Mỹ Đình 1 (phần còn lại sau khi sáp nhập vào phường Cầu Giấy), Phường Mỹ Đình 2 (phần còn lại sau khi sáp nhập vào phường Cầu Giấy)",10.18,Từ Liêm,Thủ đô Hà Nội,119997,"Số 125 đường Hồ Tùng Mậu, phường Từ Liêm",10117427
+1Xuân Phương,phường,"Phường Phương Canh, Phường Xuân Phương, Phường Đại Mỗ, Phường Tây Mỗ, Xã Vân Canh, Phường Minh Khai (quận Bắc Từ Liêm) (phần còn lại sau khi sáp nhập vào phường Tây Tựu, phường Đông Ngạc, phường Thượng Cát), Phường Phúc Diễn (phần còn lại sau khi sáp nhập vào phường Phú Diễn)",10.81,Xuân Phương,Thủ đô Hà Nội,104947,"Số 28 đường Foresa 4B, KĐT Xuân Phương, phường Xuân Phương",10888415
+1Đại Mỗ,phường,"Phường Đại Mỗ, Phường Dương Nội, Phường Mộ Lao, Phường Mễ Trì (phần còn lại sau khi sáp nhập vào phường Yên Hòa, phường Từ Liêm), Phường Nhân Chính (phần còn lại sau khi sáp nhập vào phường Thanh Xuân, phường Yên Hòa), Phường Trung Hòa (phần còn lại sau khi sáp nhập vào phường Thanh Xuân, phường Yên Hòa), Phường Phú Đô (phần còn lại sau khi sáp nhập vào phường Từ Liêm), Phường Trung Văn (phần còn lại sau khi sáp nhập vào phường Thanh Xuân)",8.1,Đại Mỗ,Thủ đô Hà Nội,80462,"Số 76 đường Trung Văn, phường Đại Mỗ",8116577
+1Thượng Cát,phường,"Phường Liên Mạc, Phường Thượng Cát, Phường Minh Khai (quận Bắc Từ Liêm), Phường Tây Tựu, Phường Cổ Nhuế 2 (phần còn lại sau khi sáp nhập vào phường Đông Ngạc), Phường Thụy Phương (phần còn lại sau khi sáp nhập vào phường Đông Ngạc)",14.77,Thượng Cát,Thủ đô Hà Nội,24692,"Số 55 đường Yên Nội, phường Thượng Cát",14817950
+1Đông Ngạc,phường,"Phường Đức Thắng, Phường Cổ Nhuế 2, Phường Thụy Phương, Phường Minh Khai (quận Bắc Từ Liêm), Phường Đông Ngạc (phần còn lại sau khi sáp nhập vào phường Phú Thượng), Phường Xuân Đỉnh (phần còn lại sau khi sáp nhập vào phường Phú Thượng, phường Xuân Đỉnh)",8.85,Đông Ngạc,Thủ đô Hà Nội,83544,"Phố Văn Hội, tổ dân phố số 2 phường Đông Ngạc",8941067
+1Tây Tựu,phường,"Phường Minh Khai (quận Bắc Từ Liêm), Phường Tây Tựu, Xã Kim Chung (huyện Hoài Đức)",7.54,Tây Tựu,Thủ đô Hà Nội,39436,"Tổ dân phố Ngọa Long 2, phường Tây Tựu",7576403
+3Hà Tu,phường,"Phường Hà Phong, Phường Hà Tu",37.6,Hà Tu,tỉnh Quảng Ninh,29643,"Trụ sở Đảng ủy, HĐND, UBND phường Hà Phong",34450423
+1Phú Diễn,phường,"Phường Phú Diễn, Phường Cổ Nhuế 1, Phường Mai Dịch, Phường Phúc Diễn",6.29,Phú Diễn,Thủ đô Hà Nội,74603,"Tổ dân phố số 18, phường Phú Diễn",6364410
+1Tây Mỗ,phường,"Phường Đại Mỗ, Phường Dương Nội, Xã An Khánh, Phường Tây Mỗ (phần còn lại sau khi sáp nhập vào phường Xuân Phương)",5.56,Tây Mỗ,Thủ đô Hà Nội,46894,"Số 169 đường Đại Mỗ, phường Tây Mỗ",5569399
+15Vân Sơn,phường,"Phường Bình Minh, Phường Vân Sơn",39.61,Vân Sơn,tỉnh Sơn La,15917,"Tổ Dân phố đoàn kết, Phường Vân Sơn, tỉnh Sơn La",39938600
+3Hồng Gai,phường,"Phường Bạch Đằng, Phường Trần Hưng Đạo, Phường Hồng Gai",5.0,Hồng Gai,tỉnh Quảng Ninh,51333,"Trụ sở Đảng ủy, HĐND, UBND phường Trần Hưng Đạo",5984765
+3Hạ Long,phường,"Phường Hồng Hà, Phường Hồng Hải",6.08,Hạ Long,tỉnh Quảng Ninh,52905,"Trụ sở Đảng ủy, HĐND, UBND phường Hồng Hải",6343599
+15Mộc Châu,phường,"Phường Mộc Lỵ, Phường Mường Sang, Xã Chiềng Hắc",167.62,Mộc Châu,tỉnh Sơn La,21087,"Tổ dân phố 5, Phường Mộc Châu, tỉnh Sơn La",169361948
+31Cai Lậy,phường,"Phường 4 (thị xã Cai Lậy), Phường 5 (thị xã Cai Lậy), Xã Long Khánh",25.5,Cai Lậy,tỉnh Đồng Tháp,34117,Trung tâm hành chính công TX Cai Lậy,25477990
+31Mỹ Phước Tây,phường,"Phường 1 (thị xã Cai Lậy), Phường 3 (thị xã Cai Lậy), Xã Mỹ Hạnh Trung, Xã Mỹ Phước Tây",None,Mỹ Phước Tây,tỉnh Đồng Tháp,đang cập nhật,Thị ủy - UBND TX Cai Lậy,36227115
+16Nghi Sơn,phường,"Phường Hải Thượng, Xã Hải Hà, Xã Nghi Sơn",42.82,Nghi Sơn,tỉnh Thanh Hóa,32939,Trụ sở xã Hải Thượng,44328731
+23Nha Trang,phường,"Phường Vạn Thạnh, Phường Lộc Thọ, Phường Vĩnh Nguyên, Phường Tân Tiến, Phường Phước Hòa",47.12,Nha Trang,tỉnh Khánh Hòa,136118,UBND TP Nha Trang - số 42 Lê Thánh Tôn,47846889
